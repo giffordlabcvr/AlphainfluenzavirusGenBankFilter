@@ -1,0 +1,14 @@
+# Pseudocode
+
+## Routine 1
+
+# Download sequences
+
+
+## Routine 2
+
+# Import sequences into GLUE 
+# Scrape Genbank info 
+# Run segment recogniser 
+# Run pairwise, similarity based classification on all segments
+	- liase with Rabies virus researchers - use of Pangolin  
