@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AX537385</GBSeq_locus>
+    <GBSeq_length>1711</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>08-SEP-2006</GBSeq_update-date>
+    <GBSeq_create-date>23-NOV-2002</GBSeq_create-date>
+    <GBSeq_definition>Sequence 1 from Patent EP1241177</GBSeq_definition>
+    <GBSeq_primary-accession>AX537385</GBSeq_primary-accession>
+    <GBSeq_accession-version>AX537385.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AX537385.1|</GBSeqid>
+      <GBSeqid>pat|EP|1241177|1</GBSeqid>
+      <GBSeqid>gi|25269164</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/Italy/445/1999(H7N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Italy/445/1999(H7N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1711</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Claessens,J.A.</GBAuthor>
+          <GBAuthor>Fuchs,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recombinant infectious laryngotracheitis virus vaccine</GBReference_title>
+        <GBReference_journal>EP1241177-A1 1 18-SEP-2002 Akzo Nobel N.V. (NL)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1711</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1711</GBInterval_to>
+            <GBInterval_accession>AX537385.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Italy/445/1999(H7N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1144265</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isolate A/Italy/445/99 (H7/N1)</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>11..1705</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>11</GBInterval_from>
+            <GBInterval_to>1705</GBInterval_to>
+            <GBInterval_accession>AX537385.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>unnamed protein product</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD57485.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNTQILVFALVAIIPTSADKICLGHHAVSNGTKVNTLTERGVEVVNATETVERTNVPRICSKGKRTVDLGQCGLLGTITGPPQCDQFLEFSADLIIERREGSDVCYPGKFVNEEALRQILRESGGIDKEAMGFTYSGIRTNGTTSTCRRSGSSFYAEMKWLLSNTDNAAFPQMTKSYKNTRKDPALIIWGIHHSGSTTEQTKLYGSGNKLITVGSSNYQQSFVPSPGERPQVNGQSGRIDFHWLMLNPNDTVTFSFNGAFIAPDRASFLRGKSMGIQSGVQVDANCEGDCYHSGGTIISNLPFQNINSRAVGKCPRYVKQESLLLATGMKNVPEIPKGSRVRRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQVTGKLNRLIEKTNQQFELIDNEFTEVEKQIGNVINWTRDSMTEVWSYNAELLVAMENQHTIDLTDSEMNKLYERVKRLLRENAEEDGTGCFEIFHKCDDDCMASIRNNTYDHSKYREEAMQNRIQIDPVKLSSGYKDVILWFSFGASCFILLAIAMGLVFICVRNGNMRCTICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gggatacaaaatgaacactcaaatcctggtattcgctctggtggcgatcattccgacaagtgcagacaaaatctgccttgggcatcatgccgtgtcaaacgggactaaagtaaacacattaactgaaagaggagtggaagtcgttaatgcaactgaaacggtggaacgaacaaacgtccccaggatctgctcaaaagggaaaaggacagttgacctcggtcaatgtggacttctgggaacaatcactgggccaccccaatgtgaccagttcctagaattttcagccgatctaattattgagaggcgagaaggaagtgatgtctgttatcctgggaaattcgtgaatgaagaagctctgaggcaaattctcagggagtcaggcggaattgacaaggaggcaatgggattcacatacagcggaataagaactaatggaacaaccagtacatgtaggagatcaggatcttcattctatgcagagatgaaatggctcctgtcaaacacagacaatgctgctttcccgcagatgactaagtcatacaaaaacacaaggaaagacccagctctgataatatgggggatccaccattccggatcaactacagaacagaccaagctatatgggagtggaaacaaactgataacagttgggagttctaattaccaacagtcctttgtaccgagtccaggagagagaccacaagtgaatggccaatctggaagaattgactttcattggctgatgctaaaccccaatgacacagtcactttcagtttcaatggggccttcatagctccagaccgtgcaagttttctgagagggaagtctatggggattcagagtggagtacaggttgatgccaattgtgaaggagattgctatcacagtggagggacaataataagtaatttgccctttcagaacataaatagcagggcagtagggaaatgtccgagatatgttaagcaagagagtctgctgctggcaacagggatgaagaatgttcccgaaattccaaaaggatcgcgtgtgaggagaggcctatttggtgctatagcgggtttcattgaaaatggatgggaaggtctgattgatgggtggtatggcttcaggcatcaaaatgcacaaggagagggaactgctgcagattacaaaagcacccaatcagcaattgatcaagtaacaggaaaattgaaccggcttatagaaaaaactaaccaacaatttgagttaatagacaatgaattcactgaggttgaaaagcaaattggcaatgtgataaattggaccagagattccatgacagaagtgtggtcctataacgctgaactcttggtagcaatggagaaccagcatacaattgatctgaccgactcagaaatgaacaaactatacgaacgagtgaagagactactgagagagaatgctgaagaagatggcactggttgcttcgaaatatttcacaagtgtgatgacgattgtatggccagtattagaaacaacacatatgatcacagcaagtacagggaagaggcaatgcaaaatagaatacagattgacccagtcaaactaagcagcggctacaaagatgtgatactttggtttagcttcggggcatcatgtttcatacttctggccattgcaatgggccttgtcttcatatgtgtgagaaatggaaacatgcggtgcactatttgtatataagtttgg</GBSeq_sequence>
+  </GBSeq>

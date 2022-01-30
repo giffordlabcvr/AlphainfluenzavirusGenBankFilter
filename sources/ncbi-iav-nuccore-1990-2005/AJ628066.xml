@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ628066</GBSeq_locus>
+    <GBSeq_length>1565</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-MAY-2005</GBSeq_update-date>
+    <GBSeq_create-date>19-FEB-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A Virus (A/Fiji/15899/83(H1N1)) segment 5, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ628066</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ628066.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ628066.1|</GBSeqid>
+      <GBSeqid>gi|42661497</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>NP gene</GBKeyword>
+      <GBKeyword>nucleocapsid protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Fiji/15899/83(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Fiji/15899/83(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Morris,S.J.</GBAuthor>
+          <GBAuthor>Nightingale,K.</GBAuthor>
+          <GBAuthor>Smith,H.</GBAuthor>
+          <GBAuthor>Sweet,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza A virus-induced apoptosis is a multifactorial process: exploiting reverse genetics to elucidate the role of influenza A virus proteins in virus-induced apoptosis</GBReference_title>
+        <GBReference_journal>Virology 335 (2), 198-211 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.virol.2005.02.019</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15840519</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Morris,S.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-FEB-2004) Morris S.J., School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UNITED KINGDOM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1565</GBInterval_to>
+            <GBInterval_accession>AJ628066.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Fiji/15899/83(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Fiji/15899/83</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:232234</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Fiji</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>46..1542</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1542</GBInterval_to>
+            <GBInterval_accession>AJ628066.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>46..1542</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1542</GBInterval_to>
+            <GBInterval_accession>AJ628066.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleocapsid protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAF31359.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q701N8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002141</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q701N8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETDGERQNATEIRASVGRMIGGIGRFYIQMCTELKLNDYEGRLIQNSLTIERMVLSAFDERRNKYLEEHPSAGKDPKKTGGPIYKRVDGKWMRELVLYDKEEIRRIWRQANNGDDATAGLTHMMIWHSNLNDTTYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVLELIRMIKRGINDRNFWRGENGRKTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLTFLARSALILRGSVAHKSCLPACVYGPAVASGYDFEKEGYSLVGIDPFKLLQTSQVYSLIRPNENPAHKSQLVWMACNSAAFEDLRVSSFIRGTKVIPRGKLSTRGVQIASNENMDTMVSSTLELRSRYWAIRTRSGGNTNQQRASAGQISIQPTFSVQRNLPFDKTTIMAAFTGNAEGRTSDMRAEIIKMMESARPEEVSFQGRGVFEFSDERAANPIVPSFDMSNEGSYFFGDNAEEYDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtagataatcactcactgagtgacatcaaaatcatggcgtcccaaggcaccaaacggtcttacgaacaaatggagactgatggggaacgccagaatgcaactgaaatcagagcatctgtcggaagaatgattggtggaattggacgattctacatccaaatgtgcactgagcttaaactcaatgattatgagggacggctgatccagaacagcttaacaatagagagaatggtgctctctgcttttgacgagaggaggaataaatatctggaagaacatcccagcgcggggaaagatcctaagaaaactggaggacccatatacaagagagtagatggaaagtggatgagggaactcgtcctttatgacaaagaagaaataaggcgaatctggcgccaagccaacaatggtgatgatgcaacggctggcttgactcacatgatgatctggcattccaatttgaatgatacaacttaccagaggacaagagctcttgtccgcaccggaatggatcccaggatgtgctctttgatgcagggttcaactctccctaggaggtctggagctgcaggcgctgcagtcaaaggagttggaacaatggtgttggagttgatcaggatgatcaaacgtgggatcaatgaccgaaacttctggaggggtgagaatggaagaaaaacaaggattgcttatgagagaatgtgcaacattctcaaagggaaatttcaaacagctgcacaaagagcaatgatggatcaagtgagagaaagccggaatccaggaaatgctgagatcgaagatctcacttttctggcacggtctgcactcatattgagagggtcagttgctcacaagtcttgcctgcctgcctgtgtgtatggacctgccgtagccagtgggtacgacttcgaaaaagagggatactctttggtagggatagaccctttcaaactgcttcaaaccagccaagtatacagcctaatcagaccgaacgagaatccagcacacaagagtcagctggtatggatggcatgcaattctgctgcatttgaagatctaagagtatcaagcttcatcagagggacaaaagtgatcccaagggggaagctttccaccagaggagtacaaattgcttcaaatgaaaacatggataccatggtatcaagtactcttgaactgagaagcaggtactgggccataaggaccagaagtggaggaaacactaatcaacaaagggcctctgcgggccaaatcagcatacaacctacgttttctgtgcagagaaacctcccatttgacaaaacaaccatcatggcagcattcactgggaatgcggagggaagaacatcagatatgagggcagaaatcataaagatgatggaaagtgcaagaccagaagaagtgtccttccaggggcgtggagtcttcgagttctcggacgaaagggcagcgaacccgatcgtgccctcctttgacatgagtaatgaaggatcttatttcttcggagacaatgcagaggagtacgacaattaaggaaaaatacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

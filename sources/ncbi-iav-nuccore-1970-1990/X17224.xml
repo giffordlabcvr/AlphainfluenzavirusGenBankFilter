@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X17224</GBSeq_locus>
+    <GBSeq_length>1044</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>13-DEC-1989</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (STRAIN A/TAIWAN/1/86) RNA for haemagglutinin HA1 chain, genomic RNA, strain A/Taiwan/1/86</GBSeq_definition>
+    <GBSeq_primary-accession>X17224</GBSeq_primary-accession>
+    <GBSeq_accession-version>X17224.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X17224.1|</GBSeqid>
+      <GBSeqid>gi|60504</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>antigenic variation</GBKeyword>
+      <GBKeyword>HA1</GBKeyword>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Taiwan/1/1986(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Taiwan/1/1986(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Robertson,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence analysis of the haemagglutinin of A/Taiwan/1/86, a new variant of human influenza A(H1N1) virus</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 68 (PT 4), 1205-1208 (1987)</GBReference_journal>
+        <GBReference_pubmed>3572359</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Robertson,J.S.</GBAuthor>
+          <GBAuthor>Robertson,M.E.S.T.C.</GBAuthor>
+          <GBAuthor>Roditi,I.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-NOV-1989) Robertson J.S., National Institute for Biological Standards and Control, Blanche Lane, South Mimms, Potters Bar, Herts, UK, ENG 3QG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Viral genomic RNA was sequenced.~The original host of this strain was human.~The virus was cultivated in embryonated hens'eggs.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>X17224.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Taiwan/1/1986(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Taiwan/1/86</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sub_strain</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380213</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>13..&gt;1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>13</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>X17224.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>haemagglutinin HA1 chain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA35097.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:P12590</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000149</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001364</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR008980</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013827</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013828</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:P12590</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCAFTATDADTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGNCSIAGWILGNPECESLFSKKSWSYIAETPNSENGTCYPGYFADYEELREQLSSVSSFERFEIFPKESSWPNHTVTKGVTAACSHKGKSSFYRNLLWLTEKNGSYPNLSKSYVNNKEKEVLVLWGVHHPSNIGDQRAIYHTENAYVSVVSSHYNRRFTPEIAKRPKVRGQEGRINYYWTLLEPEDTIIFEANGNLIAPWYAFALSRGFGSGIITSNASMDECDAKCQTPQGAINSSLPFQNVHPVTIGECPKYVRSTKLRMVTGLRNIPSIQSR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>13..63</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>13</GBInterval_from>
+            <GBInterval_to>63</GBInterval_to>
+            <GBInterval_accession>X17224.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCAFTATDA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>64..1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>64</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>X17224.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>haemagglutinin HA1 chain (327 AA)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGNCSIAGWILGNPECESLFSKKSWSYIAETPNSENGTCYPGYFADYEELREQLSSVSSFERFEIFPKESSWPNHTVTKGVTAACSHKGKSSFYRNLLWLTEKNGSYPNLSKSYVNNKEKEVLVLWGVHHPSNIGDQRAIYHTENAYVSVVSSHYNRRFTPEIAKRPKVRGQEGRINYYWTLLEPEDTIIFEANGNLIAPWYAFALSRGFGSGIITSNASMDECDAKCQTPQGAINSSLPFQNVHPVTIGECPKYVRSTKLRMVTGLRNIPSIQSR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaaacaaccaaaatgaaagcaaaactactagtcctgttatgtgcatttacagctacagatgcagacacaatatgtataggctaccatgcgaacaactcaaccgacactgttgacacagtacttgaaaagaacgtgacagtgacacactctgtcaacctacttgaggacagtcacaacggaaaactatgtcgactaaaaggaatagccccactacaattgggtaattgcagcattgccggatggattttaggaaacccagaatgcgaatcactgttttctaagaaatcatggtcctacattgcagaaacaccaaactccgagaatggaacatgttacccagggtatttcgccgactatgaggaactgagggagcaattgagttcagtatcatcattcgagagattcgaaatattccccaaagaaagctcatggcccaaccacaccgtaaccaaaggagtaacggcagcatgctcccataaggggaaaagcagtttttacagaaatttgctatggctgacggagaagaatggctcgtacccaaatctgagcaagtcctatgtgaacaacaaagagaaagaagtccttgtactatggggtgttcatcacccgtctaacataggggaccaaagggccatctatcatacagaaaatgcttatgtctctgtagtgtcttcacattataacaggagattcaccccagaaatagcaaaaagacccaaagtaagaggtcaagaaggaagaattaactactactggactctgctggaacccgaggacacaataatatttgaggcaaatggaaatctaatagcgccatggtatgctttcgcactgagtagaggctttgggtcaggaatcatcacctcaaacgcatcaatggatgaatgtgacgcgaagtgtcaaacaccccagggagctataaacagtagtcttcctttccagaatgtacacccagtcacaataggagagtgcccaaagtatgtcaggagtacaaaattaagaatggttacaggactaaggaacatcccatccattcaatccaga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANPMEMPJ</GBSeq_locus>
+    <GBSeq_length>1508</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>11-JUN-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Memphis/1022/1972(H3N2)) segment 5 nucleoprotein (NP) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>L07343</GBSeq_primary-accession>
+    <GBSeq_accession-version>L07343.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|L07343.1|FLANPMEMPJ</GBSeqid>
+      <GBSeqid>gi|290755</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Memphis/1022/1972(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Memphis/1022/1972(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shu,L.L.</GBAuthor>
+          <GBAuthor>Bean,W.J.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Analysis of the evolution and variation of the human influenza A virus nucleoprotein gene from 1933 to 1990</GBReference_title>
+        <GBReference_journal>J. Virol. 67 (5), 2723-2729 (1993)</GBReference_journal>
+        <GBReference_pubmed>8474171</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>L07343.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Memphis/1022/1972(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Memphis/1022/1972</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:383584</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>30..1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>L07343.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>30..&gt;1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>L07343.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA51498.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETDGERQNATEIRASVGKMIDGIGRFYIQMCTELKLSDYEGRLIQNSLTIERMVLSAFDERRNRYLEEHPSAGKDPKKTGGPIYKRVGGKWMRELVLYDKEEIRRIWRQANNGDDATRGLTHMMIWHSNLNDTTYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRKTRGAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGPAVASGYDFEKEGYSLVGIDPFKLLQNSQVYSLIRPNENPAHKSQLVWMACNSAAFEDLRLLSFIRGTKVSPRGKLSTRGVQIASNENMDTMESSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPAFSVQRNLPFDKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ataatcactcactgagtgacatcaaaatcatggcgtcccaaggcaccaaacggtcttatgaacagatggaaactgatggggaacgccagaatgcaactgagatcagggcatccgtcgggaagatgattgatggaattggacgattctacatccaaatgtgcactgaacttaaactcagtgattatgaggggcgattgatccagaacagcttaacaatagagagaatggtgctctctgcttttgatgagagaaggaatagatatctggaagaacatcccagcgcggggaaagatcctaagaaaactggagggcccatatacaagagagtaggtggaaagtggatgagggaactcgtcctttatgacaaagaagaaataaggcgaatctggcgccaagccaataatggtgatgatgcgacacgtggtctaactcacatgatgatctggcattccaatttgaatgatacaacataccagaggacaagagctcttgttcgcaccggaatggatcccaggatgtgctctctgatgcagggttcgactctccctaggaggtctggagctgcaggcgctgcagtcaaaggagtcgggacaatggtgatggagctgatcagaatgatcaaacgtgggatcaacgatcggaatttctggagaggtgagaatggacgaaaaacaaggggtgcttatgagagaatgtgcaacattctcaaaggaaaatttcaaacagctgcacaaagagcaatgatggatcaagtgagagaaagccggaacccaggaaatgctgagatcgaagatctcatatttttggcacggtctgcactaatattgagagggtcagttgctcacaaatcttgtctgcctgcctgtgtgtatggacctgccgtagccagtgggtacgacttcgaaaaagagggatactctttagtgggaatagaccctttcaaactacttcaaaacagccaagtatacagcctaatcagaccgaacgagaatccagcacacaagagtcagctggtgtggatggcatgcaattctgctgcatttgaagatctaagattattaagcttcatcagagggaccaaagtatctccaagggggaaactttcaactagaggagtacaaattgcttcaaatgaaaacatggatactatggaatcaagtactcttgaactgagaagcaggtactgggccataaggaccagaagtggaggaaacactaatcaacagagggcctccgcaggccaaatcagtgtgcaacctgcattttctgtgcaaagaaacctcccatttgacaaatcaaccatcatggcagcattcactgggaatacggagggaagaacctcagacatgagggcagaaatcataaggatgatggaaggtgcaaaaccagaagaagtgtccttccgtgggcggggagtcttcgagctctcggacgaaaaggcaacgaacccgatcgtgccctcttttgacatgagtaatgaaggatcttatttcttcggagacaatgca</GBSeq_sequence>
+  </GBSeq>

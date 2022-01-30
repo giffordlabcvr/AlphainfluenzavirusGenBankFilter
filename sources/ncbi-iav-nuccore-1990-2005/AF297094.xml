@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF297094</GBSeq_locus>
+    <GBSeq_length>987</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>20-NOV-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Charlottesville/10/99 (H3N2)) hemagglutinin mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF297094</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF297094.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF297094.1|</GBSeqid>
+      <GBSeqid>gi|11228917</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Charlottesville/10/99 (H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Charlottesville/10/99 (H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..987</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+          <GBAuthor>Monto,A.S.</GBAuthor>
+          <GBAuthor>Klein,T.C.</GBAuthor>
+          <GBAuthor>Elliot,M.J.</GBAuthor>
+          <GBAuthor>Hammond,J.M.</GBAuthor>
+          <GBAuthor>Sharp,S.J.</GBAuthor>
+          <GBAuthor>Ossi,M.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Inhaled zanamivir for the prevention of influenza in families. Zanamivir Family Study Group</GBReference_title>
+        <GBReference_journal>N. Engl. J. Med. 343 (18), 1282-1289 (2000)</GBReference_journal>
+        <GBReference_pubmed>11058672</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..987</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+          <GBAuthor>Monto,A.S.</GBAuthor>
+          <GBAuthor>Klein,T.C.</GBAuthor>
+          <GBAuthor>Elliott,M.J.</GBAuthor>
+          <GBAuthor>Hammond,J.M.</GBAuthor>
+          <GBAuthor>Sharp,S.J.</GBAuthor>
+          <GBAuthor>Ossi,M.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-AUG-2000) Internal Medicine, University of Virginia, Jefferson Park Avenue, Multistory Building, Rm 2153, Charlottesville, VA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..987</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>987</GBInterval_to>
+            <GBInterval_accession>AF297094.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Charlottesville/10/99 (H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Charlottesville/10/99 (H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:142603</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;987</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>987</GBInterval_to>
+            <GBInterval_accession>AF297094.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 domain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG33221.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>QKLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHQILDGENCTLIDALLGDPHCDGFQNKEWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFNNESFNWTGVAQNGTSSACKRRSNKSFFSRLNWLHQLKYKYPALNVTMPNNEKFDKLYIWGVHHPSTDSDQISLYAQASGRVTVSTKRSQQTVIPNIGSRPWVRGVSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPSGKCNSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQTR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaaacttcccggaaatgacaacagcacggcaacgctgtgcctggggcaccatgcagtgccaaacggaacgctagtgaaaacaatcacgaatgaccaaattgaagtgactaatgctactgagctggttcagagttcctcaacaggtagaatatgcgacagtcctcaccaaatccttgatggagaaaactgcacactaatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcaaagcctacagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatccggcacactggagtttaacaatgaaagcttcaattggactggagtcgctcagaatggaacaagctctgcttgcaaaaggagatctaataaaagtttctttagtagattgaattggttgcaccaattaaaatacaaatatccagcactgaacgtgactatgccaaacaatgaaaaatttgacaaattgtacatttggggggttcaccacccgagtacggacagtgaccaaatcagcctatatgctcaagcatcagggagagtcacagtctctaccaaaagaagccaacaaactgtaatcccgaatatcggatctagaccctgggtaaggggtgtctccagcagaataagcatctattggacaatagtaaaaccgggagacatacttttgattaacagcacagggaatctaattgctcctcggggttacttcaaaatacgaagtgggaaaagctcaataatgaggtcagatgcacccagtggcaaatgcaattctgaatgcatcactccaaatggaagcattcccaatgacaaaccatttcaaaatgtaaacaggatcacatatggggcctgtcccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaactaga</GBSeq_sequence>
+  </GBSeq>

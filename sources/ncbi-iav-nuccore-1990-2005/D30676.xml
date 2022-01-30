@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANS1G</GBSeq_locus>
+    <GBSeq_length>818</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-FEB-2008</GBSeq_update-date>
+    <GBSeq_create-date>17-MAY-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Kitakyushu/159/93(H3N2)) gene for NS1, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>D30676</GBSeq_primary-accession>
+    <GBSeq_accession-version>D30676.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D30676.1|FLANS1G</GBSeqid>
+      <GBSeqid>gi|487672</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Kitakyushu/159/93(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Kitakyushu/159/93(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..818</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lindstrom,S.E.</GBAuthor>
+          <GBAuthor>Hiromoto,Y.</GBAuthor>
+          <GBAuthor>Nerome,R.</GBAuthor>
+          <GBAuthor>Omoe,K.</GBAuthor>
+          <GBAuthor>Sugita,S.</GBAuthor>
+          <GBAuthor>Yamazaki,Y.</GBAuthor>
+          <GBAuthor>Takahashi,T.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analysis of the entire genome of influenza A (H3N2) viruses from Japan: evidence for genetic reassortment of the six internal genes</GBReference_title>
+        <GBReference_journal>J. Virol. 72 (10), 8021-8031 (1998)</GBReference_journal>
+        <GBReference_pubmed>9733841</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..818</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lindstrom,S.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-MAY-1994) Contact:Stephen E. Lindstrom National Institute of Health, Virology I; 1-23-1 Toyama, Shinjuku-ku, Tokyo 162, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..818</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>818</GBInterval_to>
+            <GBInterval_accession>D30676.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Kitakyushu/159/93(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/Kitakyushu/159/93</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:225088</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>8</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>9..701</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9</GBInterval_from>
+            <GBInterval_to>701</GBInterval_to>
+            <GBInterval_accession>D30676.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA06348.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSNTVSSFQVDCFLWHIRKQVVDQELSDAPFLDRLRRDQRSLRGRGNTLGLDIKAATHVGKQIVEKILKEESDEALKMTMASTPASRYITDMTIEELSRNWFMLMPKQKVEGPLCIRMDQAIMEKNIMLKANFSVIFDRLETLVLLRAFTEEGAIVGEISPLSSFPGHTIEDVKNAIGVLIGGLEWNDNTVRVSKNLQRFAWRSSNENGGPPLTPKQKRKMARTARSKV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aagacataatggattccaacactgtgtcaagtttccaggtagattgctttctttggcatatccggaaacaagttgtagaccaagaactgagtgatgccccattccttgatcggcttcgccgagatcagaggtccctaaggggaagaggcaacactctcggtctagacatcaaagcagccacccatgttggaaagcagatagtagaaaagattctgaaggaagaatctgatgaggcacttaaaatgaccatggcctccacacctgcttcgcgatacataactgacatgactattgaggaattgtcaagaaactggttcatgctaatgcccaagcagaaagtggaaggacctctttgcatcagaatggaccaggcaatcatggagaaaaacatcatgttgaaagcgaatttcagtgtgatctttgaccgactagagaccctagtattactaagggctttcaccgaagagggagcaattgttggcgaaatctcaccattgtcttcttttccaggacatactattgaggatgtcaaaaatgcaattggggtcctcatcggaggacttgaatggaatgataacacagttcgagtctctaaaaatctacagagattcgcttggagaagcagtaatgagaatgggggacctccacttactccaaaacagaaacggaaaatggcgagaacagctaggtcaaaagtttgaagagataagatggctgattgaagaagtgagacacagactaaaaacgactgagaatagttttgagcaaataacattcatgcaagcattacagctgctgtttgaagtggaacaggagat</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ404631</GBSeq_locus>
+    <GBSeq_length>2341</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>07-MAR-2015</GBSeq_update-date>
+    <GBSeq_create-date>30-JUN-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus pb2 gene for polymerase Pb2, genomic RNA, strain A/Hong Kong/1074/99(H9N2)</GBSeq_definition>
+    <GBSeq_primary-accession>AJ404631</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ404631.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ404631.1|</GBSeqid>
+      <GBSeqid>gi|8894703</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>PB2 gene</GBKeyword>
+      <GBKeyword>polymerase Pb2</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/1074/1999(H9N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/1074/1999(H9N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lin,Y.P.</GBAuthor>
+          <GBAuthor>Shaw,M.</GBAuthor>
+          <GBAuthor>Gregory,V.</GBAuthor>
+          <GBAuthor>Cameron,K.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Shortridge,K.</GBAuthor>
+          <GBAuthor>Webster,R.</GBAuthor>
+          <GBAuthor>Cox,N.</GBAuthor>
+          <GBAuthor>Hay,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Avian-to-human transmission of H9N2 subtype influenza A viruses: relationship between H9N2 and H5N1 human isolates</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 97 (17), 9654-9658 (2000)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.160270697</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>10920197</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lin,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-JUN-2000) Lin Y., Virology, National Institute for Medical Research, The Ridgeway, Mill Hill, London, NW7 1AA, UNITED KINGDOM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2341</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2341</GBInterval_to>
+            <GBInterval_accession>AJ404631.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/1074/1999(H9N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Hong Kong/1074/99</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:680690</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype H9N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>AJ404631.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pb2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>AJ404631.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pb2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase Pb2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAB95861.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q9ICY0</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001591</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q9ICY0</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIKELRDLMSQSRTREILTKTTVDHMAIIKKYTSGRQEKNPALRMKWMMAMKYPITADKRIMEMIPERNEQGQTLWSKTTDAGSDRVMVSPLAVTWWNRNGPTTSAVHYPKVYKTYFEKVERLKHGTFGPVHFRNQVKIRRRVDMNPGHADLSAKEAQDVIMEVVFPNEVGARILTSESQLTITKEKREELKNCNIAPLMVAYMLERELVRKTRFLPVAGGTSSVYIEVLHLTQGTCWEQMYTPGGEVRNDDVDQSLIIAARNIVRRATVSADPLASLLEMCHSTQIGGVRMVDILKQNPTEEQAVDICKAAMGLKISSSFSFGGFTFKRTKGSSVKREEEVLTGNLQTLKIKVHEGYEEFTMVGRRATAILRKATRRMIQLIVSGRDEQSIAEAIIVAMVFSQEDCMIKAVRGDLNFVNRANQRLNPMHQLLRHFQKDAKVLFQNWGIEPIDNVMGMIGILPDMTPSTEMSLRGVRVSKMGVDEYSSTERVVVSIDRFLRVRDQRGNVLLSPEEVSETQGMEKLTITYSSSMMWEINGPESVLVNTYQWIIRNWETVKIQWSQEPTMLYNKMEFEPFQSLVPKAARSQYSGFVRTLFQQMRDVLGTFDTVQIIKLLPFAAAPPEQSRMQFSSLTVNVRGSGMRILVRGNSPAFNYNKTTKRLTILGKDAGALTEDPDEGTAGVESAVLRGFLILGKEDKRYGPALSINELSNLTKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRMAIN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gccaaaagcaggtcaattatattcaatatggagagaataaaagaactaagagatttgatgtcgcaatcccgcactcgcgagatactgacaaaaaccactgtggatcatatggccataattaagaagtacacatcaggaagacaggagaagaatcccgctcttagaatgaaatggatgatggcgatgaaatacccgatcacagctgacaaaagaataatggagatgatccctgaaaggaatgagcaaggtcaaactctttggagcaaaacaactgacgctggatcagacagggtaatggtatcacctctggctgtaacgtggtggaacagaaatggaccaacaacaagtgcagtccattatccaaaggtgtataaaacctactttgaaaaggttgaaagattaaaacacggaacctttggccctgttcatttccggaatcaagtcaaaatacgccgcagggttgacatgaaccctggccatgcagatctcagcgctaaagaagcacaagatgtcatcatggaggtcgttttcccaaatgaagttggagccaggatattgacatcagaatcacagctgacaataacaaaggaaaagagggaggaactcaagaattgcaatattgctcccttaatggtggcatacatgttggaaagagaattggttcgcaagaccagattcctaccagtggctggtgggacaagcagcgtatatatagaagtattgcatttgactcaaggaacctgctgggagcagatgtacacaccaggaggggaggtaagaaatgatgatgttgaccaaagtttaatcattgctgctaggaacattgtcaggagagcaacagtatcagcagacccactggcttcactcctggaaatgtgccatagcacacaaattggcggagtaagaatggtagacatccttaaacaaaacccaacagaagagcaagctgtagatatatgcaaggcagcaatgggtttaaaaatcagctcatccttcagctttggagggttcactttcaaaagaacaaaggggtcttctgtcaaaagagaggaagaagtgcttacaggcaacctccaaacattgaagataaaagtacatgaaggatatgaagaattcacaatggttggacgaagagcaacagccattctaagaaaagcaaccagaaggatgatccaactgatagtcagcgggagggacgaacaatcaattgctgaggcaattattgtggcaatggtgttctcacaagaagattgcatgataaaggcagtccgaggtgatttgaatttcgtaaacagagcaaatcaacgactgaaccccatgcaccaactcctgagacactttcaaaaggatgcaaaggtgctgtttcaaaactggggaattgaacccatcgacaatgtcatggggatgattggaatattgcctgacatgacccccagcacggaaatgtcactaagaggagtgagggttagtaaaatgggggtggatgaatattctagcactgaaagggtggtcgtgagcattgaccgtttcttaagggtccgagatcagcgaggaaatgtactcctatcccctgaagaagttagtgaaacacagggaatggaaaagttgacgataacttattcatcgtctatgatgtgggagattaacgggccagaatcagtgctagttaacacatatcagtggatcattaggaattgggagactgtaaagatccaatggtcccaagaacccaccatgctatacaataagatggaatttgaaccatttcaatctttagtaccaaaggctgccagaagccaatatagtggatttgtgagaacgctattccagcagatgcgtgatgttttaggaacgtttgacactgttcaaataatcaaactactaccatttgcagcagccccacctgaacagagtaggatgcaattttcttctctgactgtgaatgtgaggggatcaggaatgagaatacttgtgagaggtaactcccctgcgtttaactacaacaagacaactaagaggcttacaatacttgggaaggacgcaggtgcacttacagaggacccagatgaaggaacagcaggagtagagtctgcagtattgagaggatttctaattctcggcaaagaagacaaaagatatggaccagcattaagcatcaatgaactgagcaatcttacgaaaggggagaaagctaatgtattgatagggcaaggagacgtagtgttggtaatgaaacggaaacgggactctagcatacttactgacagccagacagcgaccaaaagaattcggatggccatcaattagtgtcgaattgtttaaaaacgaccttgtttctact</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMEA3283063</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

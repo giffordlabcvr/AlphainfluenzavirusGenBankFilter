@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF001681</GBSeq_locus>
+    <GBSeq_length>982</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-AUG-1998</GBSeq_update-date>
+    <GBSeq_create-date>12-AUG-1998</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/eq/Roma/5/91(H3N8)) matrix proteins M1 and M2 (M) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF001681</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF001681.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF001681.1|</GBSeqid>
+      <GBSeqid>gi|3414646</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/equine/Rome/5/1991(H3N8))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/equine/Rome/5/1991(H3N8))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..982</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lindstrom,S.</GBAuthor>
+          <GBAuthor>Endo,A.</GBAuthor>
+          <GBAuthor>Sugita,S.</GBAuthor>
+          <GBAuthor>Pecoraro,M.</GBAuthor>
+          <GBAuthor>Hiromoto,Y.</GBAuthor>
+          <GBAuthor>Kamada,M.</GBAuthor>
+          <GBAuthor>Takahashi,T.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analyses of the matrix and non-structural genes of equine influenza viruses</GBReference_title>
+        <GBReference_journal>Arch. Virol. 143 (8), 1585-1598 (1998)</GBReference_journal>
+        <GBReference_pubmed>9739336</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..982</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lindstrom,S.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-APR-1997) Virology I, National Institute of Infectious Diseases, 1-23-1 Toyama Shinjuku-ku, Tokyo 162, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..982</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>982</GBInterval_to>
+            <GBInterval_accession>AF001681.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/equine/Rome/5/1991(H3N8))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:500678</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..982</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>982</GBInterval_to>
+            <GBInterval_accession>AF001681.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(1..26,715..982)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>26</GBInterval_to>
+            <GBInterval_accession>AF001681.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>715</GBInterval_from>
+            <GBInterval_to>982</GBInterval_to>
+            <GBInterval_accession>AF001681.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>membrane protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>matrix protein M2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC31287.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPTRNGWECKCSGSSDPLVIAASIIGILHLILWILDRLFFKFIYRRLKYGLKGGPSTEGVPESMREEYRQEQQNAVDVDDGHFVNIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..759</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>759</GBInterval_to>
+            <GBInterval_accession>AF001681.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>M</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>matrix protein M1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC31286.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALMEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALSGNGDPNNMDRAVKLYRKLKREITFHGAKEVALSYSTGALASCMGLIYNRMGTVTTEVAFGLVCATCEQIADSQHRSHRQMVTTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASKARQMVQAMRTIGTHPSSSAGLKDDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagtcttctgaccgaggtcgaaacgtacgttctctctatcgtaccatcaggccccctcaaagccgagatcgcgcagagacttgaagatgtctttgcagggaagaacaccgatcttgaggcactcatggaatggctaaagacaagaccaatcctgtcacctctgactaaagggattttaggattcgtgttcacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgcccttagtggaaacggagatccaaacaacatggacagagcagtaaaactatacaggaagcttaaaagagaaataacattccatggggcaaaagaggtggcactcagctattccactggtgcactagccagctgcatgggactcatatacaacagaatggggactgtgacaaccgaagtggcatttggcctggtatgcgccacatgtgaacagattgctgattcccagcatcgatctcacaggcagatggtgacaacaaccaacccactaatcagacatgaaaacagaatggtattagccagtaccacggctaaagccatggagcagatggcagggtcgagtgagcaggcagcagaggccatggaggttgctagtaaggccaggcagatggtacaggcaatgaggaccattgggacccaccctagctccagtgccggtttgaaagatgatctccttgaaaatttgcaggcctaccagaaacggatgggagtgcaaatgcagcggttcaagtgatcctctcgttattgcagcaagtatcattgggatcttgcacttgatattgtggattcttgatcgccttttcttcaaattcatttatcgtcgccttaaatacgggttgaaaggagggccttctacggaaggagtacctgagtctatgagggaagaatatcggcaggaacagcagaatgctgtggatgttgacgatggtcattttgtcaacatagagctggagtaa</GBSeq_sequence>
+  </GBSeq>

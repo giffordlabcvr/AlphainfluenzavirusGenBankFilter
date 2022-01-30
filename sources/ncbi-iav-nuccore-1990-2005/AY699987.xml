@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY699987</GBSeq_locus>
+    <GBSeq_length>1743</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-MAY-2008</GBSeq_update-date>
+    <GBSeq_create-date>05-OCT-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/duck/Hainan/4/2004(H6N2)) hemagglutinin-like (HA) gene, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>AY699987</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY699987.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY699987.1|</GBSeqid>
+      <GBSeqid>gi|52854772</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/duck/Hainan/4/2004(H6N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/duck/Hainan/4/2004(H6N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1743</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.</GBAuthor>
+          <GBAuthor>Gu,J.</GBAuthor>
+          <GBAuthor>Li,X.</GBAuthor>
+          <GBAuthor>Huang,B.</GBAuthor>
+          <GBAuthor>Yang,Z.</GBAuthor>
+          <GBAuthor>Wu,F.</GBAuthor>
+          <GBAuthor>Li,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic characterization of the entire genome of an H6N2 subtype avian influenza virus A/duck/4/2004(H6N2)</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1743</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.</GBAuthor>
+          <GBAuthor>Gu,J.</GBAuthor>
+          <GBAuthor>Li,X.</GBAuthor>
+          <GBAuthor>Huang,B.</GBAuthor>
+          <GBAuthor>Yang,Z.</GBAuthor>
+          <GBAuthor>Wu,F.</GBAuthor>
+          <GBAuthor>Li,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-JUL-2004) China Epizootiology Centre, 369 Nanjing Road, Qingdao, Shandong 266032, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1743</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1743</GBInterval_to>
+            <GBInterval_accession>AY699987.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/duck/Hainan/4/2004(H6N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/duck/Hainan/4/2004(H6N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H6N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:291367</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>complement(27..1726)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1726</GBInterval_from>
+            <GBInterval_to>27</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>AY699987.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>complement(27..1726)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1726</GBInterval_from>
+            <GBInterval_to>27</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>AY699987.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agtagaaacaagggtgtttttctcaattatatacatattctgcattgcattgagccatttgaacacatccaaacacccattgccaatatcagccctaccaagactagactgctcgataccgtactataaatggcaagaatttgatacacaccaaggttttctagtttcaccgattctattgtctgcctgtttaatctgctttcagcctggtatttgggatagttataggtaccattcttgacagactctatgcagtcattgtcacacttatgccaaaattcaaagcatccatttcctaggtcattagcattatctcgtagttgtgatttgaccttttcatatagatttttcacatttgcatcatgcatgtccagtgtcatttcattttcaagcagaatcaacaactcagcattgtatgtccaaacatctagaaatccaccttccattcgtttgtttaaattgtcaattctcctctccaaatttgaaaattcgtgatcgacagcttcgaactgtgtgttcattttgtctacgatagaatttaccttatttgtgatcccgtctatagccttttgggtgctctctctgtctgctgcataccctgagccttgagaattttcatggtggtagccataccatccatctatcattccagtccatcctccttcaatgaagcctgcgatagctccgaagagtcctctagtttcaatctgtggaatattccttagtccggttgcaagtctcaaactttcactcttcacatatttggggcattctcctatccagagagggcttacattctggaatgttttatttgtccttagtacccctgcaatagtttggcaggttgcatcacagttctcgattggtaagtttgacttgaagacagctcctttcctatctgtgctgacgaatctgtatgcataccaaggagcgattagatttccattagactctacattcaaggtttctccaggctttaaaacagaccagtagtaatcaatcctacctctttgtccgtttacagcaggtcttgccgcaatttctgggcccttggcaaaattcattctctcagttcccatcctgacatatcgtcaccggaaccatacaaagtgttttgctcattggtatccggaggatggtgcacaccccagaagtagagtattggctggtttccagtgttattgtatgttcccctgattactgggtacgctgatgatctagtttttattatccacagcaggtttctgtagaaagacgaaccagtagtatatgggcaagcacttgataccccactattggtgtctactcctgcccatgtacttttgggaaacatctcaaacctctctactttttctcctgatccaataagtgccttcagttcttcaacatcattcagcactcctgggtagcaaattccattttgagctgtaggtctttccactatatatgaccagctttgatcaccaagcagtaagtcgcatcggggattccccaatatccaaccctctatggtgcagcttctcaggtcgagaggggctctgttcaagaccttgcagaacctttcttctttttgattctccagcaattcaactgagtgcgtgacggttacattcttttcaagtatcgtgtccacttgcgttgttgaattgtttgcatggtacccaatgcagatcttgtctgattttccggttgttgccaatatcgttattataatgattgcaatcattttcccctgcttttgct</GBSeq_sequence>
+  </GBSeq>

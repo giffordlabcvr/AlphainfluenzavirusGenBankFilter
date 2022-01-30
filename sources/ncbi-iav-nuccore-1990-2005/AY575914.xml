@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY575914</GBSeq_locus>
+    <GBSeq_length>1521</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>31-MAR-2008</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Ck/HK/96.1/02 (H5N1)) nucleocapsid protein (NP) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY575914</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY575914.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY575914.2|</GBSeqid>
+      <GBSeqid>gi|171473060</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Ck/HK/96.1/02 (H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Ck/HK/96.1/02 (H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1521</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Poon,L.L.</GBAuthor>
+          <GBAuthor>Cheung,C.Y.</GBAuthor>
+          <GBAuthor>Ellis,T.M.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Lipatov,A.S.</GBAuthor>
+          <GBAuthor>Chan,K.H.</GBAuthor>
+          <GBAuthor>Sturm-Ramirez,K.M.</GBAuthor>
+          <GBAuthor>Cheung,C.L.</GBAuthor>
+          <GBAuthor>Leung,Y.H.</GBAuthor>
+          <GBAuthor>Yuen,K.Y.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Peiris,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>H5N1 influenza: a protean pandemic threat</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 101 (21), 8156-8161 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.0402443101</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15148370</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1521</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Poon,L.L.</GBAuthor>
+          <GBAuthor>Cheung,C.Y.</GBAuthor>
+          <GBAuthor>Ellis,T.M.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Lipatov,A.S.</GBAuthor>
+          <GBAuthor>Chan,K.H.</GBAuthor>
+          <GBAuthor>Sturm-Ramirez,K.M.</GBAuthor>
+          <GBAuthor>Cheung,C.L.</GBAuthor>
+          <GBAuthor>Leung,Y.H.</GBAuthor>
+          <GBAuthor>Yuen,K.Y.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Peiris,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-MAR-2004) Microbiology, The University of Hong Kong, HKU Pathology Building, Queen Mary Hospital, Pokfulam, Hong Kong SAR, China</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1521</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Poon,L.L.</GBAuthor>
+          <GBAuthor>Cheung,C.Y.</GBAuthor>
+          <GBAuthor>Ellis,T.M.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Lipatov,A.S.</GBAuthor>
+          <GBAuthor>Chan,K.H.</GBAuthor>
+          <GBAuthor>Sturm-Ramirez,K.M.</GBAuthor>
+          <GBAuthor>Cheung,C.L.</GBAuthor>
+          <GBAuthor>Leung,Y.H.</GBAuthor>
+          <GBAuthor>Yuen,K.Y.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Peiris,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-MAR-2008) Microbiology, The University of Hong Kong, HKU Pathology Building, Queen Mary Hospital, Pokfulam, Hong Kong SAR, China</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Mar 31, 2008 this sequence version replaced AY575914.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1521</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1521</GBInterval_to>
+            <GBInterval_accession>AY575914.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Ck/HK/96.1/02 (H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Ck/HK/96.1/02</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:279803</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Hong Kong</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H5N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1497</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1497</GBInterval_to>
+            <GBInterval_accession>AY575914.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1497</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1497</GBInterval_to>
+            <GBInterval_accession>AY575914.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleocapsid protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAT39110.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETGGERQNATEIRASVGRMVSGIGRFYIQMCTELKLSDYEGRLIQNSITIERMVLSAFDERRNRYLEEHPSAGKDPKKTGGPIYRRRDGKWVRELILYDKEEIRRIWRQANNGEDATAGLTHLMIWHSNLNDATYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTRGVQIASNENMEAMDSNTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMAAFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRGVFELSDEKATNPIVPSFDMNNEGSYFFGDNAEEYDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggcgtctcaaggcaccaaacgatcttatgaacagatggaaactggtggagaacgccagaatgctactgagatcagggcatctgttggaagaatggttagtggcattgggaggttctacatacagatgtgcacagaactcaaactcagtgactatgaagggaggctgatccagaacagcataacaatagagagaatggtactctctgcatttgatgaaagaaggaacagatacctggaagaacaccccagtgcggggaaggacccgaagaagactggaggtccaatttatcggaggagagacgggaaatgggtgagagagctgattctgtacgacaaagaggagatcaggaggatttggcgtcaagcgaacaatggagaggacgcaactgctggtcttacccacctgatgatatggcattccaatctaaatgatgccacatatcagagaacgagagctctcgtgcgtactggaatggaccccaggatgtgctctctgatgcaagggtcaactctcccgaggagatctggagctgccggtgcagcagtaaagggggtagggacaatggtgatggagctgattcggatgataaaacgagggatcaacgaccggaatttctggagaggcgaaaatggaagaagaacaaggattgcatatgagagaatgtgcaacatcctcaaagggaaattccaaacagcagcacaaagagcaatgatggatcaagtgcgagagagcagaaatcctgggaatgctgaaattgaagatctcatttttctggcacggtctgcactcatcctgagaggatcagtggcccataagtcctgcttgcctgcttgtgtgtacggacttgcagtggccagtggatatgactttgagagagaagggtactctctggttggaatagatcctttccgtctgcttcaaaacagccaggtctttagtctcattagaccaaatgagaatccagcacataagagtcaattagtgtggatggcatgccactctgcagcatttgaggaccttagagtctcaagtttcatcagagggacaagagtggtcccaagaggacagctatccaccagaggggttcaaattgcttcaaatgagaacatggaagcaatggactccaacactcttgaattgagaagtagatattgggctataagaaccagaagcggaggaaacaccaaccagcagagggcatctgcaggacagatcagcgttcagcccactttctcggtacagagaaaccttcccttcgaaagagcgaccattatggcagcatttacaggaaatactgagggcagaacgtctgacatgaggactgaaatcataagaatgatggaaagtgccagaccagaagatgtgtcattccaggggcggggagtcttcgagctctcggacgaaaaggcaacgaacccgatcgtgccttcctttgacatgaataatgaaggatcttatttcttcggagacaatgcagaggagtatgacaattaaagaaaaatacccttgttttctact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ715873</GBSeq_locus>
+    <GBSeq_length>1207</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-MAY-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hanoi/03/2004(H5N1)) partial NP gene for nucleoprotein, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ715873</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ715873.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ715873.1|</GBSeqid>
+      <GBSeqid>gi|47600776</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>NP gene</GBKeyword>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Hanoi/03/2004(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hanoi/03/2004(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1207</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nguyen Thi,H.H.</GBAuthor>
+          <GBAuthor>Hoang Thuy,L.</GBAuthor>
+          <GBAuthor>Le Thi,M.Q.</GBAuthor>
+          <GBAuthor>Nguyen Thi,T.T.</GBAuthor>
+          <GBAuthor>Nguyen Thanh,L.</GBAuthor>
+          <GBAuthor>Nong Van,H.</GBAuthor>
+          <GBAuthor>Dinh Duy,K.</GBAuthor>
+          <GBAuthor>Bach Thi,Q.N.</GBAuthor>
+          <GBAuthor>Nguyen Tien,M.</GBAuthor>
+          <GBAuthor>Nguyen Thi,D.N.</GBAuthor>
+          <GBAuthor>Le Lan,H.</GBAuthor>
+          <GBAuthor>Bui Hoang,A.</GBAuthor>
+          <GBAuthor>Le Thanh,H.</GBAuthor>
+          <GBAuthor>Le Tran,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular analysis of influenza virus A/Hanoi/2004(H5N1) isolated from one patient in National Hospital of Pediatrics</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1207</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dinh Duy,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-MAY-2004) Dinh Duy K., Molecular Microbiology Lab, Institute of Biotechnology (IBT), VAST, 18, Hoang Quoc Viet, Cau Giay, Hanoi, 10000, VIET NAM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1207</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1207</GBInterval_to>
+            <GBInterval_accession>AJ715873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hanoi/03/2004(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/Hanoi/03/2004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:279207</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1207</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1207</GBInterval_to>
+            <GBInterval_accession>AJ715873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1207</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1207</GBInterval_to>
+            <GBInterval_accession>AJ715873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAG29662.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q6KBX1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002141</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q6KBX1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GRMVGGIGRFYIQMCTELKLTDYEGRLIQNSITIERMVLSAFDERRNRYLEEHPSAGKDPKKTGGPIYRRRDGKWVRELILYDKEEIRRIWRQANNGEDATAGLTHLMIWHSNLNDATYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRRTRVAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTRGVQIASNENMEAMDSNTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMAAFTG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttggaagaatggttggtggaattgggaggttctacatacagatgtgcacagaactcaaactcactgactatgaagggaggctgatccagaacagcataacaatagagagaatggtactctctgcatttgatgaaagaaggaacagatacctggaagaacaccccagtgcgggaaaggacccgaagaagactggaggtccaatttatcggaggagagacgggaaatgggtgagagagctaattctgtacgacaaagaggagatcaggaggatttggcgtcaagcgaacaatggagaggacgcaactgctggtcttacccacttgatgatatggcattccaatctaaatgatgcaacatatcagagaacgagagctctcgtgcgtactggaatggacccaaggatgtgctctctgatgcaaggatcaactctcccgaggagatctggagctgccggtgcagcagtaaagggggtagggacaatggtgatggagctgattcggatgataaaacgagggatcaacgaccggaatttctggagaggcgaaaatggaagaagaacaagggttgcatatgagagaatgtgcaacatcctcaaagggaaattccaaacagcagcacaaagagcaatgatggatcaagtgcgagagagcagaaatcctgggaatgctgaaattgaagatctcatttttctggcacggtctgcactcatcctgagaggatcagtggcccataagtcctgcttgcctgcttgtgtgtacggacttgcagtggccagtggatatgactttgagagagaagggtactctctggttggaatagatcctttccgcctgcttcaaaacagccaggtctttagtctcattagaccaaatgagaatccagcacataagagtcaattagtgtggatggcatgccactctgcagcatttgaggaccttagagtctcaagtttcatcagagggacaagagtggtcccaagaggacagctatccaccagaggggttcaaattgcttcaaatgagaacatggaggcaatggactccaacactcttgaactgagaagcagatactgggctataagaaccagaagcggaggaaacaccaaccagcagagggcatctgcagggcagatcagcgttcagcccactttctcggtacagagaaaccttcccttcgaaagagcgaccattatggcagcatttacagg</GBSeq_sequence>
+  </GBSeq>

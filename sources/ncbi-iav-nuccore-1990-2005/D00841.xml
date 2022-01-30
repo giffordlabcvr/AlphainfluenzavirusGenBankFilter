@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLA120HA</GBSeq_locus>
+    <GBSeq_length>1156</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>19-APR-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Yamagata/120/1986(H1N1)) HA gene for haemagglutinin, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>D00841</GBSeq_primary-accession>
+    <GBSeq_accession-version>D00841.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D00841.1|FLA120HA</GBSeqid>
+      <GBSeqid>gi|473528</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Yamagata/120/1986(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Yamagata/120/1986(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1156</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kanegae,Y.</GBAuthor>
+          <GBAuthor>Sugita,S.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Yoshioka,Y.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Origin and evolutionary pathways of the H1 hemagglutinin gene of avian, swine and human influenza viruses: cocirculation of two distinct lineages of swine virus</GBReference_title>
+        <GBReference_journal>Arch. Virol. 134 (1-2), 17-28 (1994)</GBReference_journal>
+        <GBReference_pubmed>8279953</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1156</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sugita,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-FEB-1991) Contact:Shigeo Sugita National Institute of Health; 2-10-35 Kamiosaki, Shinagawa-ku, Tokyo 141, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1156</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1156</GBInterval_to>
+            <GBInterval_accession>D00841.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Yamagata/120/1986(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Yamagata/120/1986</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:379740</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1156</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1156</GBInterval_to>
+            <GBInterval_accession>D00841.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA00722.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCAFTATDADTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGNCSIAGWILGNPECESLFSKKSWSYIAETPNSENGTCYPGYFADYEELREQLSSVSSFERFEIFPKESSWPNHTVTKGVTASCSHKGRSSFYRNLLWLTEKNGLYPNLSKSYVNNKEKEVLVLWGVHHPSNIGDQRAIYHTENAYVSVVSSHYNRRFTPEIAKRPKVRGQEGRINYYWTLLEPGDTIIFEANGNLIAPWYAFALSRGFGSGVITSNASMDECDAKCQTPQGAINSSLPFQNIHPVTIGECPKYVRSTKLRMVTGLRNIPSIQSRGLFGAIAGFIEGGWTGMIDGWYGYHHQNEQGSGYAADQKST</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>1..51</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>51</GBInterval_to>
+            <GBInterval_accession>D00841.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCAFTATDA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>52..1029</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>52</GBInterval_from>
+            <GBInterval_to>1029</GBInterval_to>
+            <GBInterval_accession>D00841.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGNCSIAGWILGNPECESLFSKKSWSYIAETPNSENGTCYPGYFADYEELREQLSSVSSFERFEIFPKESSWPNHTVTKGVTASCSHKGRSSFYRNLLWLTEKNGLYPNLSKSYVNNKEKEVLVLWGVHHPSNIGDQRAIYHTENAYVSVVSSHYNRRFTPEIAKRPKVRGQEGRINYYWTLLEPGDTIIFEANGNLIAPWYAFALSRGFGSGVITSNASMDECDAKCQTPQGAINSSLPFQNIHPVTIGECPKYVRSTKLRMVTGLRNIPSIQS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1033..&gt;1156</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1033</GBInterval_from>
+            <GBInterval_to>1156</GBInterval_to>
+            <GBInterval_accession>D00841.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HA2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GLFGAIAGFIEGGWTGMIDGWYGYHHQNEQGSGYAADQKST</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaagcaaaactactagtcctgttatgtgcatttacagctacagatgcagacacaatatgtataggctaccatgcgaacaactcaaccgacactgttgacacagtacttgaaaagaacgtgacagtgacacactctgtcaacctacttgaggacagtcacaacggaaagctatgtcgactaaaaggaatagccccactacaattgggtaattgcagcattgccggatggatcttaggaaacccagaatgcgaatcactgttttctaagaaatcatggtcctacattgcagaaacaccaaactccgagaatggaacatgttacccagggtatttcgccgactatgaggaactgagggagcaattgagttcagtatcatcattcgagagattcgaaatattccccaaagaaagctcatggcccaaccacaccgtaaccaaaggagtaacggcatcatgctcccataaggggagaagcagtttttacagaaatttgctatggctgacggagaagaatggcttgtacccaaatctgagcaagtcctatgtgaacaacaaagagaaagaagtccttgtactatggggtgttcatcacccgtctaacataggggaccaaagggccatctatcatacagaaaatgcttatgtctctgtagtgtcttcacattataacaggagattcaccccagaaatagcaaaaagacccaaagtaagaggtcaagaaggaaggattaactactactggactctgctggaacccggggacacaataatatttgaggcaaatggaaatctaatagcgccatggtatgctttcgcactgagtagaggctttgggtcaggagtcatcacctcaaatgcatcaatggatgaatgtgacgcgaagtgtcaaacaccccagggagctataaacagtagtcttcctttccagaatatacacccagtcacaataggagagtgcccaaagtatgtcaggagtacaaaattaaggatggttacaggactaaggaacatcccatccattcaatccagaggtttgtttggagccattgccggtttcattgaaggggggtggactggaatgatagatggatggtatggttatcatcatcagaatgaacaaggatctggctatgctgcggatcaaaaaagcacac</GBSeq_sequence>
+  </GBSeq>

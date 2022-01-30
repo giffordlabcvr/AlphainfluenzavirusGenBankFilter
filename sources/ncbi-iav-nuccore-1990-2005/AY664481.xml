@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY664481</GBSeq_locus>
+    <GBSeq_length>969</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-NOV-2004</GBSeq_update-date>
+    <GBSeq_create-date>11-AUG-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/mallard/Alberta/110/99(H10N7)) nonfunctional matrix protein mRNA, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>AY664481</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY664481.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY664481.1|</GBSeqid>
+      <GBSeqid>gi|51011885</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/mallard/Alberta/110/99(H10N7))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/mallard/Alberta/110/99(H10N7))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..969</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Widjaja,L.</GBAuthor>
+          <GBAuthor>Krauss,S.L.</GBAuthor>
+          <GBAuthor>Webby,R.J.</GBAuthor>
+          <GBAuthor>Xie,T.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Matrix gene of influenza a viruses isolated from wild aquatic birds: ecology and emergence of influenza a viruses</GBReference_title>
+        <GBReference_journal>J. Virol. 78 (16), 8771-8779 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.78.16.8771-8779.2004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15280485</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..969</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Widjaja,L.</GBAuthor>
+          <GBAuthor>Krauss,S.L.</GBAuthor>
+          <GBAuthor>Webby,R.J.</GBAuthor>
+          <GBAuthor>Xie,T.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-JUN-2004) Infectious Disease, Division of Virology, St. Jude Children's Research Hospital, 332 N. Lauderdale St., Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..969</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>969</GBInterval_to>
+            <GBInterval_accession>AY664481.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/mallard/Alberta/110/99(H10N7))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/mallard/Alberta/110/99</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H10N7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:286273</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;969</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>969</GBInterval_to>
+            <GBInterval_accession>AY664481.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional matrix protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcttctaaccgaggtcgaaacgtacgttctctctatcgtcccgtcaggccccctcaaagccgagatcgcgcagagacttgaagatgtctttgcagggaagaacaccgatcttgaggcactcatggaatggctaaagacaagaccaatcctgtcacctctgactaaggggattttaggatttgtgtttacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgcccttaatgggaatggggatccaaacaacatggacagagcagtcaaactgtacaggaaactaaaaagggaaataacattccatggggcaaaagaggtggcactcagttattcaactggtgcacttgccagttgcatgggcctcatctacaacagaatggggactgtgaccactgaggtggcatttggcctagtttgcgccacatgtgagcagattgctgactcccagcatcggtctcacagacaaatggtaacaacaaccaacccattgatcaggcatgagaacagaatggtactagccagtaccacggctaaagccatggaacaaatggcagggtcaagtgagcaggcagcagaggctatggaggttgctagtcaggctagacaaatggtgcaggcaatgaggaccattgggactcatcctagctccagtgctggtctaaaagatgatcttcttgaaaatttgcaggcctaccagaaacggatgggagtgcaaatgcagcgattcaagtgatcctcttgttattgccgcaagtatcattgggatcttgcacttgatattgtggattcttgatcgtcttttcttcaaatgcatttatcgtcgccttaaatacggtttgaaaagagggccttctacggaaggagtgcctgagtctatgagggaagaatatcggcaggaacagcagagtgctgtggatgttgacgatggtcattttgtcaacatagagc</GBSeq_sequence>
+  </GBSeq>

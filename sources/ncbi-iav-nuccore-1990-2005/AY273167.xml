@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY273167</GBSeq_locus>
+    <GBSeq_length>1061</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>31-DEC-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/equine/New York/99(H3N8)) hemagglutinin precursor (HA1) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY273167</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY273167.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY273167.1|</GBSeqid>
+      <GBSeqid>gi|33415849</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/equine/New York/99(H3N8))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/equine/New York/99(H3N8))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1061</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lai,A.C.</GBAuthor>
+          <GBAuthor>Rogers,K.M.</GBAuthor>
+          <GBAuthor>Glaser,A.</GBAuthor>
+          <GBAuthor>Tudor,L.</GBAuthor>
+          <GBAuthor>Chambers,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Alternate circulation of recent equine-2 influenza viruses (H3N8) from two distinct lineages in the United States</GBReference_title>
+        <GBReference_journal>Virus Res. 100 (2), 159-164 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.virusres.2003.11.019</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15019234</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1061</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lai,A.C.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-APR-2003) Microbiology &amp; Molecular Genetics, Oklahoma State University, 306 Life Science East, Stillwater, OK 74078, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1061</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1061</GBInterval_to>
+            <GBInterval_accession>AY273167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/equine/New York/99(H3N8))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/Eq/New York/99</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:241185</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>30..&gt;1061</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>1061</GBInterval_to>
+            <GBInterval_accession>AY273167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>30..&gt;1061</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>1061</GBInterval_to>
+            <GBInterval_accession>AY273167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAQ18434.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKTTIILILLTHWAYSQNPISGNNTATLCLGHHAVANGTLVKTISDDQIEVTNATELVQSISMGKICNNSYRILDGRNCTLIDAMLGDPHCDVFQYENWDLFIERSSAFSNCYPYDIPDYASLRSIVASSGTLEFTAEGFTWTGVTQNGRSGACKRGSADSFFSRLNWLTKSGNSYPTLNVTMPNNKNFDKLYIWGIHHPSSNQEQTKLYIQESGRVTVSTKRSQQTIIPNIGSRPWVRGQSGRISIYWTIVKPGDILMINSNGNLVAPRGYFKLKTGKSSVMRSDAPIDICVSECITPNGSISNDKPFQNVNKVTYGKCPKYIRQNTLKLATGMRNVPEKQIR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggatatttctgtcaatcatgaagacaaccattattttgatactactgacccattgggcctacagtcaaaacccaatcagtggcaacaacacagccacattgtgtctgggacaccatgcagtagcaaatggaacattggtaaaaacaataagtgatgatcaaattgaggtgacaaatgctacagaattagttcagagcatttcaatggggaaaatatgcaacaactcatatagaattctagatggaagaaattgcacattaatagatgcaatgctaggagacccccactgtgacgtctttcagtatgagaattgggacctctttatagaaagaagcagcgctttcagcaattgctacccatatgacatccctgactatgcatcgctccggtccattgtagcatcctcaggaacattggaattcacagcagagggattcacatggacaggtgtcactcaaaacggaagaagtggagcctgcaaaaggggatcagccgatagtttctttagccgactgaattggctaacaaaatctggaaactcttaccccacattgaatgtgacaatgcctaacaataaaaatttcgacaaactatacatctgggggattcatcacccgagctcaaatcaagagcagacaaaattgtacatccaagaatcaggacgagtaacagtctcaacaaaaagaagtcaacaaacaataatccctaacatcggatctagaccgtgggtcagaggtcaatcaggcaggataagcatatactggaccattgtaaaacctggagatatcctaatgataaacagtaatggcaacttagttgcaccgcggggatattttaaattgaaaacagggaaaagctctgtaatgagatcagatgcacccatagacatttgtgtgtctgaatgtattacaccaaatggaagcatctccaacgacaagccattccaaaatgtgaacaaagttacatatggaaaatgccccaagtatatcaggcaaaacactttaaagctggccactgggatgaggaatgtaccagaaaagcaaatcaga</GBSeq_sequence>
+  </GBSeq>

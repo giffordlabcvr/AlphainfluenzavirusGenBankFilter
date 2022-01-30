@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY553832</GBSeq_locus>
+    <GBSeq_length>1400</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>11-APR-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/little grebe/Thailand/Phichit-01/2004(H5N1)) neuraminidase (NA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY553832</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY553832.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY553832.2|</GBSeqid>
+      <GBSeqid>gi|126568053</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/little grebe/Thailand/Phichit-01/2004(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/little grebe/Thailand/Phichit-01/2004(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1400</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Naksupan,N.</GBAuthor>
+          <GBAuthor>Sanguansermsri,D.</GBAuthor>
+          <GBAuthor>Wongvilairat,R.</GBAuthor>
+          <GBAuthor>Niumsup,P.R.</GBAuthor>
+          <GBAuthor>Pongcharoen,S.</GBAuthor>
+          <GBAuthor>Chamnanpood,P.</GBAuthor>
+          <GBAuthor>Chamnanpood,C.</GBAuthor>
+          <GBAuthor>Sanguansermsri,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Whole genome sequences of H5N1 influenza a virus isolated from a little grebe in Thailand</GBReference_title>
+        <GBReference_journal>Southeast Asian J. Trop. Med. Public Health 39 (3), 373-382 (2008)</GBReference_journal>
+        <GBReference_pubmed>18564674</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1400</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sanguansermsri,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-FEB-2004) Biochemistry, Faculty of Medical Science, Naresuan University, Phitsanulok-Nakornsawan Road, Phitsanulok, Phitsanulok 65000, Thailand</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1400</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sanguansermsri,P.</GBAuthor>
+          <GBAuthor>Chamnanpood,C.</GBAuthor>
+          <GBAuthor>Chamnanpood,P.</GBAuthor>
+          <GBAuthor>Sanguansermsri,D.</GBAuthor>
+          <GBAuthor>Pensuwan,P.</GBAuthor>
+          <GBAuthor>Pookorn,S.</GBAuthor>
+          <GBAuthor>Naksupan,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-FEB-2006) Biochemistry, Faculty of Medical Science, Naresuan University, Phitsanulok-Nakornsawan Road, Phitsanulok, Phitsanulok 65000, Thailand</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Mar 6, 2007 this sequence version replaced AY553832.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1400</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1400</GBInterval_to>
+            <GBInterval_accession>AY553832.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/little grebe/Thailand/Phichit-01/2004(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/little grebe/Thailand/Phichit-01/2004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>little grebe-Phichit-01, 2004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:270223</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>embryonated egg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>type: A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>21..1370</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>1370</GBInterval_to>
+            <GBInterval_accession>AY553832.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>21..1370</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>1370</GBInterval_to>
+            <GBInterval_accession>AY553832.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAS84237.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNKKIITIGSICMVTGMVSLMLQIGNLISIWVSHSIHTGNQHKAEPISNTNFLTEKAVASVKLAGNSSLCPINGWAVYSKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPHRTLMSCPVGEAPSPYNSRFESVAWSASACHDGTSWLTIGISGPDSGAVAVLKYNGIITDTIKSWRNNILRTQESECACVNGSCFTVMTDGPSNGQASHKIFKMEKGKVVKSVELDAPNYHYEECSCYPDAGEITCVCRDNWHGSNRPWVSFNQNLEYQIGYICSGVFGDNPRPNDGTGSCGPVSSNGAYGVKGFSFKYGNGVWIGRTKSTNSRSGFEMIWDPNGWTETDSSFSVKQDIVAITDWSGYSGSFVQHPELTGLDCIRPCFWVELIRGRPKESTIWTSGSSISFCGVNSDTVGWSWPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagttcaaaatgaatccaaataagaagataataaccatcggatcaatctgtatggtaactggaatggttagcttaatgttacaaattgggaacttgatctcaatatgggtcagtcattcaattcacacagggaatcaacacaaagctgaaccaatcagcaatactaattttcttactgagaaagctgtggcttcagtaaaattagcgggcaattcatctctttgccccattaatggatgggctgtatacagtaaggacaacagtataaggatcggttccaagggggatgtgtttgttataagagagccattcatctcatgctcccacttggaatgcagaactttctttttgactcagggagccttgctgaatgacaagcactccaatgggactgtcaaagacagaagccctcacagaacattaatgagttgtcctgtgggtgaggctccctccccatataactcaaggtttgagtctgttgcttggtcagcaagtgcttgccatgatggcaccagttggttgacaattggaatttctggcccagacagtggggctgtggctgtattgaaatacaatggcataataacagacactatcaagagttggaggaataacatactgagaactcaagagtctgaatgtgcatgtgtaaatggctcttgctttactgtaatgactgacggaccaagtaatggtcaggcatcacataagatcttcaaaatggaaaaagggaaagtggttaaatcagtcgaattggatgctcctaattatcactatgaggaatgctcctgttatcctgatgccggcgaaatcacatgtgtgtgcagggataattggcatggctcaaatcggccatgggtatctttcaatcaaaatttggagtatcaaataggatatatatgcagtggagttttcggagacaatccacgccccaatgatggaacaggtagttgtggtccggtgtcctctaacggggcatatggggtaaaagggttttcatttaaatacggcaatggtgtctggatcgggagaacaaaaagcactaattccaggagcggctttgaaatgatttgggatccaaatgggtggactgaaacggacagtagcttttcagtgaaacaagatatcgtagcaataactgattggtcaggatatagcgggagttttgtccagcatccagaactgacaggactagattgcataagaccttgtttctgggttgagttgatcagagggcggcccaaagagagcacaatttggactagtgggagcagcatatctttttgtggtgtaaatagtgacactgtgggttggtcttggccagacggtgctgagttgccattcaccattgacaagtagtttgttcaaaaaaactccttgtttctacta</GBSeq_sequence>
+  </GBSeq>

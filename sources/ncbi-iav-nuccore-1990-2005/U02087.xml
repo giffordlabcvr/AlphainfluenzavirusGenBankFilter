@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IVU02087</GBSeq_locus>
+    <GBSeq_length>890</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>04-OCT-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Fort Monmouth/1/1947(H1N1)) nonstructural protein 2 and nonstructural protein 1 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>U02087</GBSeq_primary-accession>
+    <GBSeq_accession-version>U02087.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U02087.1|IVU02087</GBSeqid>
+      <GBSeqid>gi|406045</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Fort Monmouth/1/1947(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Fort Monmouth/1/1947(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Krystal,M.</GBAuthor>
+          <GBAuthor>Buonagurio,D.</GBAuthor>
+          <GBAuthor>Young,J.F.</GBAuthor>
+          <GBAuthor>Palese,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequential mutations in the NS genes of influenza virus field strains</GBReference_title>
+        <GBReference_journal>J. Virol. 45 (2), 547-554 (1983)</GBReference_journal>
+        <GBReference_pubmed>6834468</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Smeenk,C.A.</GBAuthor>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The influenza virus variant A/FM/1/47-MA possesses single amino acid replacements in the hemagglutinin, controlling virulence, and in the matrix protein, controlling virulence as well as growth</GBReference_title>
+        <GBReference_journal>J. Virol. 68 (1), 530-534 (1994)</GBReference_journal>
+        <GBReference_pubmed>8254767</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-SEP-1993) Earl G. Brown, Dept. of Microbiology and Immunology, University of Ottawa, Faculty of Medicine, 451 Smyth Rd., Ottawa, Ontario K1H 8M5, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..890</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>890</GBInterval_to>
+            <GBInterval_accession>U02087.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Fort Monmouth/1/1947(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Fort Monmouth/1/1947</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:367120</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>3-8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>chicken embryo allantois</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(27..56,529..864)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>56</GBInterval_to>
+            <GBInterval_accession>U02087.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>529</GBInterval_from>
+            <GBInterval_to>864</GBInterval_to>
+            <GBInterval_accession>U02087.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA67340.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDPNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLEEAVMRLGDLHSFQNRNGKWREQLGQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQLI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>27..635</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>635</GBInterval_to>
+            <GBInterval_accession>U02087.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA67341.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDPNTVSSFQVDCFLWHVRKRVADQELGDAPFLDRLRRDQKSLKGRGSTLGLNIETATRVGKQIVERILKEESDEALKMTMASAPASRYLTDMTIEEMSRDWFMLMPKQKVAGPLCIRMDQAIMDKSIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGLEWNDNTVRVSKTLQRFA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtgacaaagacataatggatcccaacactgtgtcaagctttcaggtagattgctttctttggcatgtccgcaaacgagttgcagaccaagaactaggtgatgccccattccttgatcggcttcgccgagatcagaaatccctaaagggaagaggcagcactctcggtctgaacatcgaaacagccacccgtgttggaaagcagatagtggagaggattctgaaggaagaatccgatgaggcacttaaaatgaccatggcctctgcacctgcttcgcgctacctaactgacatgactattgaggaaatgtcaagggactggttcatgctcatgcccaagcagaaagtggcaggccctctttgtatcagaatggaccaggcgatcatggataagagcatcatactgaaagcgaatttcagtgtgatttttgaccggctggagactctaatattactaagggctttcaccgaagagggagcaattgttggcgaaatttcaccattgccttctcttccaggacatactaatgaggatgtcaaaaatgcaattggggtcctcatcggaggacttgaatggaatgataacacagttcgagtctctaaaactctacagagattcgcttgaagaagcagtaatgagactgggagacctccactcattccaaaacagaaacggaaaatggcgagaacaattaggtcagaagttcgaagaaataagatggttgattgaagaagtgagacacagattgaaaataacagagaatagttttgagcaaataacatttatgcaagccttacagctattgcttgaagtggagcaagagataagaactttctcgtttcagcttatttaatgataaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

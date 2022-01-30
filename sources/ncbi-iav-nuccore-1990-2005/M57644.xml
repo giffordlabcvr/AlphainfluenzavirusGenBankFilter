@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAHAEW</GBSeq_locus>
+    <GBSeq_length>1035</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAY-2015</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Wyoming/3/1987(H3N2)) hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>M57644</GBSeq_primary-accession>
+    <GBSeq_accession-version>M57644.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M57644.1|FLAHAEW</GBSeqid>
+      <GBSeqid>gi|324117</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Wyoming/3/1987(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Wyoming/3/1987(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1035</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fitch,W.M.</GBAuthor>
+          <GBAuthor>Leiter,J.M.</GBAuthor>
+          <GBAuthor>Li,X.Q.</GBAuthor>
+          <GBAuthor>Palese,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Positive Darwinian evolution in human influenza A viruses</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 88 (10), 4270-4274 (1991)</GBReference_journal>
+        <GBReference_pubmed>1840695</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>M57644.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Wyoming/3/1987(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Wyoming/3/1987</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:387189</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>M57644.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1035</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1035</GBInterval_to>
+            <GBInterval_accession>M57644.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43165.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KTIIALSYIFCLVFAQKLPGNDNSTATXXXGHHAVPNXXLVETITNDQIEVTNATELVQSSSTGRICDSPHRILDGKNCTLIDALLGDPHCDGFQNEKWDLFVERSKAFSNCYPYDVPDYASLRSLVASSGXLEFINEGFNWTGVTQSGGSYACKRESVNSFFSRLNWLYKSEYKYPALNVTMPNNGKFDKLYIWGVHHPSTDKEQTNLYVRASGRVTVSTKRSQQTVIPNIGSRPWVRGLSSRISMYWTIVKPGDILLINSTGNLIAPRGYXKIHTGKSSIMRSDAPIGTCSSECITPNGSIPNDKPXQNVNKITYRACPXYARQNTLKLATGMRDVPEKQTRG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aagactatcattgctttgagctacattttctgtctggttttcgcccagaaactgcccggaaatgacaacagcacagcaacnnnnnnnntgggacatcatgcagtgccaaacgannnnctagtagaaacaatcacgaatgatcagattgaagtgactaatgctactgagctggttcaaagttcctcaacaggtcgaatatgcgacagtcctcaccgaatccttgatgggaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggctttcaaaatgagaaatgggacctttttgttgaacgcagcaaagctttcagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatcaggcnccttggagtttatcaatgaaggcttcaattggactggagtcactcagagtgggggaagctatgcttgcaaaagggaatctgttaacagtttcttcagtagattgaattggttgtacaaatcagaatacaaatatccagcgctgaacgtgactatgccaaacaatggcaaatttgacaaattgtacatttggggggttcaccacccgagcacggacaaagaacaaaccaacctatatgttcgagcatcagggagagtcacagtctctaccaagagaagccagcaaactgtaatcccgaatattgggtctagaccctgggtgaggggtctgtccagtagaataagcatgtattggacaatagtaaaaccgggagacatactgttgattaatagcactgggaacctaattgctcctcggggttacttnaaaatacacactgggaaaagctcaataatgaggtcagatgcacccattggcacctgcagttctgaatgcatcactccaaatggaagcattcccaatgacaaaccctntcaaaatgtaaacaagatcacatatagggcatgtcccangtatgctaggcaaaacaccctgaaattggcaacagggatgcgggatgtaccagagaaacaaactagaggc</GBSeq_sequence>
+  </GBSeq>

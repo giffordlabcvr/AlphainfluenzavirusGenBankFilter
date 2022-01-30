@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAMSM54</GBSeq_locus>
+    <GBSeq_length>1027</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JAN-2001</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/swine/May/54 (H1N1)) membrane protein M1 and membrane protein M2 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M63535</GBSeq_primary-accession>
+    <GBSeq_accession-version>M63535.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M63535.1|FLAMSM54</GBSeqid>
+      <GBSeqid>gi|324378</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/swine/May/1954(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/swine/May/1954(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ito,T.</GBAuthor>
+          <GBAuthor>Gorman,O.T.</GBAuthor>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+          <GBAuthor>Bean,W.J.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolutionary analysis of the influenza A virus M gene with comparison of the M1 and M2 proteins</GBReference_title>
+        <GBReference_journal>J. Virol. 65 (10), 5491-5498 (1991)</GBReference_journal>
+        <GBReference_pubmed>1895397</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1027</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1027</GBInterval_to>
+            <GBInterval_accession>M63535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/swine/May/1954(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:383535</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(26..51,740..1007)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>51</GBInterval_to>
+            <GBInterval_accession>M63535.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>740</GBInterval_from>
+            <GBInterval_to>1007</GBInterval_to>
+            <GBInterval_accession>M63535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>membrane protein M2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43333.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRSEWGCRCNDSSDPLVAAASIIGILHLILWILDRLFFKCIYRRLEYGLKRGPSTEGLPESMREEYRQKQQSAVDVDDGHFVNIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..784</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>784</GBInterval_to>
+            <GBInterval_accession>M63535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>membrane protein M1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43334.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALMEWLKTRPILSPLTKGILGFVFTLTCPSERGLQRRRFVQNALNGNGDPNNMDKAVKLYRKLKREITFHGAKEVALSYSAGALASCMGLIYNRMGTVTTEVAFGLVCATCEQIADSQHQSHRQMVTTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRTIGTHPSSSAGLKDDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtagatgtttaaagatgagccttctaaccgaggtcgaaacgtacgttctctctatcgtcccatcaggccccctcaaagccgagatcgcacagagacttgaagatgtttttgcagggaaaaacaccgatcttgaggctctcatggaatggctaaagacaagaccaatcctgtcacctctgactaagggaattttaggatttgtgttcacgctcacctgtcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgcccttaacgggaacggtgacccaaacaacatggacaaagcagttaaactgtacagaaaacttaagagggagataacattccacggggccaaagaagtagcgctcagttattctgctggtgcacttgccagttgcatgggcctcatatacaacagaatgggaactgtgaccactgaagtggcatttggcctagtatgcgcaacctgtgaacagattgctgattcccagcatcagtctcacagacaaatggtgacaacaaccaacccactaatcagacatgagaacagaatggtattagccagcactacggctaaagctatggagcaaatggctggatcaagtgaacaagcggccgaggctatggaggttgctagccaggctaggcaaatggtacaggcaatgagaacaattgggactcaccctagttccagtgctggtttgaaagatgatcttcttgaaaatttgcaggcctatcagaagcgaatgggggtgcagatgcaacgattcaagtgaccctctcgttgctgccgcaagcatcatcgggatcttgcacttgatattgtggatccttgatcgtctttttttcaaatgcatttatcgacgccttgaatacggtttgaaaagagggccttctacggaaggattgccggagtctatgagggaagaatatcggcagaaacagcagagtgctgtggatgttgacgatggtcattttgtcaacatagagctggagtaaaaaactaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

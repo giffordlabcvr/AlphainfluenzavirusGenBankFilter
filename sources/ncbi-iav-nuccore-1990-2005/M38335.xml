@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANAZZ</GBSeq_locus>
+    <GBSeq_length>1461</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Kiev/59/1979(H1N1)) neuraminidase gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M38335</GBSeq_primary-accession>
+    <GBSeq_accession-version>M38335.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M38335.1|FLANAZZ</GBSeqid>
+      <GBSeqid>gi|324549</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>neuraminidase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Kiev/59/1979(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Kiev/59/1979(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1461</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Beklemishev,A.B.</GBAuthor>
+          <GBAuthor>Blinov,V.M.</GBAuthor>
+          <GBAuthor>Vasilenko,S.K.</GBAuthor>
+          <GBAuthor>Golovin,S.Ia.</GBAuthor>
+          <GBAuthor>Karginov,V.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Primary structure of a full-size DNA copy of the influenza virus A/Kiev/59/79 (H1N1) neuraminidase gene</GBReference_title>
+        <GBReference_journal>Bioorg. Khim. 11 (10), 1423-1426 (1985)</GBReference_journal>
+        <GBReference_pubmed>4074401</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1461</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1461</GBInterval_to>
+            <GBInterval_accession>M38335.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Kiev/59/1979(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Kiev/59/1979</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:384495</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>21..1433</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>1433</GBInterval_to>
+            <GBInterval_accession>M38335.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43435.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSICMAIGIISLILQIGNIISIWVSHSIQTGSQNHTGICNQRIITYENSTWVNQTYVNISNTNVVAGKDTTSMTLAGNSSLCPIRGWAIYSKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRALMSCPIGEAPSPYNSRFESVAWSASACHDGMGWLTIGISGPDDGAVAVLKYNGIITETIKSWRKQILRTQESECVCVNGSCFTIMTDGPSDGQASYRIFKIEKGKITKSIELDAPNSHYEECSCYPDNGTVMCVCRDNWHGSNRPWVSFNQNLDYQIGYICSGVFGDNPRPKDGKGSCDPVNVDGADGVKGFSYRYGNGVWIGRTKSNSSRKGFEMIWDPNGWTDTDSNFLVKQDVVAMTDWSGYSGSFVQHPELTGLDCMRPCFWVELIRGRPREKTTIWTSGSSISFCGVNSDTVNWSWPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtttaaaatgaatccaaatcagaaaataataaccattggttcaatctgtatggcaatcggaataattagtctaatattgcaaatagggaatattatctcaatatgggttagccactcaattcaaactggaagtcaaaaccatactggaatatgcaaccaaagaatcattacctatgaaaatagcacctgggtaaatcaaacatatgttaatattagcaacactaacgttgttgctggaaaggacacaacttcaatgacattagccggcaattcatctctttgtcctatccgtgggtgggctatatacagcaaagacaacagcataagaattggttccaaaggagatgtttttgtcataagagaaccttttatatcatgttctcacttggaatgcagaaccttttttctgacccaaggcgctctattaaatgacaagcattcaaatgggaccgttaaggacagaagcccttatagggccttaatgagctgtcctataggtgaagctccgtctccatacaattcaaggtttgaatcggttgcttggtcagcaagtgcatgtcatgatggcatgggctggctaacaatcggaatttctggtccagatgatggagcagtggctgtactaaaatacaacggcataataactgaaaccataaaaagttggaggaagcaaatattaagaacacaagagtctgaatgtgtctgtgtaaacggttcatgttttaccataatgaccgatggcccgagtgatgggcaggcctcgtacagaatcttcaaaatcgagaaggggaagattactaaatcaatagagttggatgcacccaattctcattacgaggaatgttcctgttacccagacaacggcacagtgatgtgtgtgtgcagagacaattggcatggttcgaatcgaccttgggtgtcttttaatcaaaacctggattatcaaataggatacatctgcagtggggttttcggtgacaatccgcgtcccaaagatggaaaaggcagctgtgatccagtaaatgttgatggagcagacggagtaaaggggttttcatacaggtatggtaatggtgtttggataggaaggactaaaagtaacagctccagaaagggatttgagatgatttgggatcctaatggatggacagataccgatagtaatttcttagtgaaacaggatgtagtggcaatgactgattggtcagggtacagcggaagtttcgttcaacatcctgagctaacaggattggactgtatgaggccttgcttctgggttgaattaatcagaggacgacccagagaaaaaacaacaatctggactagtgggagcagcatttctttttgtggcgtgaatagtgatactgtaaattggtcttggccagacggtgctgagttgccattcaccattgacaagtagtccgttaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

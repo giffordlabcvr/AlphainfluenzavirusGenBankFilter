@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY303638</GBSeq_locus>
+    <GBSeq_length>1419</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>30-MAR-2004</GBSeq_update-date>
+    <GBSeq_create-date>30-MAR-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Chile/4957/02(H7N3)) neuraminidase gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY303638</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY303638.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY303638.1|</GBSeqid>
+      <GBSeqid>gi|34597718</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/Chile/4957/02(H7N3))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Chile/4957/02(H7N3))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1419</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Banks,J.</GBAuthor>
+          <GBAuthor>Brown,I.H.</GBAuthor>
+          <GBAuthor>Essen,S.C.</GBAuthor>
+          <GBAuthor>Lee,C.W.</GBAuthor>
+          <GBAuthor>Manvell,R.J.</GBAuthor>
+          <GBAuthor>Mathieu-Benson,C.</GBAuthor>
+          <GBAuthor>Moreno,V.</GBAuthor>
+          <GBAuthor>Pedersen,J.C.</GBAuthor>
+          <GBAuthor>Panigrahy,B.</GBAuthor>
+          <GBAuthor>Rojas,H.</GBAuthor>
+          <GBAuthor>Spackman,E.</GBAuthor>
+          <GBAuthor>Alexander,D.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recombination resulting in virulence shift in avian influenza outbreak, Chile</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 10 (4), 693-699 (2004)</GBReference_journal>
+        <GBReference_pubmed>15200862</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1419</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+          <GBAuthor>Spackman,E.</GBAuthor>
+          <GBAuthor>Lee,C.-W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-MAY-2003) Southeast Poultry Research Laboratory, ARS/USDA, 934 College Station Rd, Athens, GA 30605, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1419</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1419</GBInterval_to>
+            <GBInterval_accession>AY303638.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Chile/4957/02(H7N3))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/chicken/Chile/4957/02(H7N3)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:244950</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1410</GBInterval_to>
+            <GBInterval_accession>AY303638.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>surface glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAQ77410.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGVVNTTLSTIALLIGVGNLIFNTVIHEKIGNHQPTTYPTATAPAIPNCSDTIITYNKTVINNITTTIITEAERPFKPSLPLCPFQGFFPFHKDNAIRLGENKDVIVTREPYISCDNDHCWSFALAQGALLGTKHSNGTIKDRTPYRSLIRFPIGTAPVLGNYREICIAWSSSSCFDGKEWMHVCMTGNDKDASAQIIYAGKMTDSIKSWRKDILRTQESECQCIGGTCVVAVTDGPAANSADHRVYWIREGRVLKYENVPKTKIQHLEECSCYMDIDVYCICRDNWKGSNRPWMRINNETILETGYVCSKFHSDTPRPADPSVVSCDSPSNINGEPGVKGFGFKVGSDVWLGRTVSTSGRSGFEVIKVTEGWINSPSQAKSVTQTLVSNNDWSGYSGSFIVQTGGCFQPCFYVELIRGRPNKNDDVSWTSNSIVTFCGLNNEPGSGNWPDGSNIGFMPK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatccaaatcagaagataataacaattggtgttgtgaacactactctatcaacaatagcccttctcattggagtggggaacctaatcttcaatacagtcatacatgagaaaataggaaaccaccaacccacgacatacccaaccgcaacagcacccgcaataccaaactgcagcgacaccattataacatataacaaaacggtaataaacaacataacaacaacaataataactgaggcagagaggcctttcaagccttcattaccactctgcccctttcaagggtttttccctttccacaaagacaacgcaatacgactgggtgagaacaaggatgtcatagtcacaagggaaccctacattagctgcgataacgatcactgctggtcctttgctcttgctcaaggagcgctattagggaccaaacatagcaatggaaccatcaaagacagaacgccgtataggtcgttaatccggttcccaataggaacagccccggtccttggaaattacagggaaatatgcattgcttggtcgagcagtagctgtttcgatgggaaagaatggatgcatgtatgcatgacagggaatgataaagatgcaagtgctcaaataatatatgcagggaaaatgacagactccatcaaatcatggagaaaagacatactaagaacccaggaatctgaatgtcagtgcattggcggaacctgtgttgtggctgttacagatggccctgctgctaacagtgcagaccatagggtttactggatacgagaggggagggttttgaagtatgagaatgttcctaaaacaaagatacagcacctggaagagtgttcttgctacatggacattgatgtgtactgcatatgcagagacaactggaaaggctcaaacaggccttggatgaggattaacaacgaaaccatattagagacaggatacgtgtgtagcaaatttcactcagacactcccagacctgctgatccttcagtagtatcatgtgattccccaagcaatattaatggagaacccggagtgaagggatttggcttcaaagttggcagtgacgtgtggctgggcagaacggtgtcaaccagtggtagatcaggctttgaagtcatcaaagtcactgagggatggatcaactcacccagtcaagccaaatcggtcacacagacactagtgtcaaacaatgattggtcaggctactcaggtagcttcatcgtccaaactggtggatgtttccaaccgtgcttttatgttgaactcatacgagggagacctaataagaatgatgatgtctcttggacgagcaacagtatagtcacattctgtgggctaaacaatgaacctggatcgggtaattggccggatggttccaacattgggttcatgcccaagtaatagaaaaaa</GBSeq_sequence>
+  </GBSeq>

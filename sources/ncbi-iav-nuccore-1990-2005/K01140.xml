@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLABML</GBSeq_locus>
+    <GBSeq_length>1027</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>10-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Bangkok/1/1979(H3N2)) M2 protein and M1 protein genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>K01140</GBSeq_primary-accession>
+    <GBSeq_accession-version>K01140.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|K01140.1|FLABML</GBSeqid>
+      <GBSeqid>gi|323976</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>matrix protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Bangkok/1/1979(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Bangkok/1/1979(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ortin,J.</GBAuthor>
+          <GBAuthor>Martinez,C.</GBAuthor>
+          <GBAuthor>del Rio,L.</GBAuthor>
+          <GBAuthor>Davila,M.</GBAuthor>
+          <GBAuthor>Lopez-Galindez,C.</GBAuthor>
+          <GBAuthor>Villanueva,N.</GBAuthor>
+          <GBAuthor>Domingo,E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolution of the nucleotide sequence of influenza virus RNA segment 7 during drift of the H3N2 subtype</GBReference_title>
+        <GBReference_journal>Gene 23 (2), 233-239 (1983)</GBReference_journal>
+        <GBReference_pubmed>6688599</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1027</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1027</GBInterval_to>
+            <GBInterval_accession>K01140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Bangkok/1/1979(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Bangkok/1/1979</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:385630</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(26..51,740..1007)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>51</GBInterval_to>
+            <GBInterval_accession>K01140.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>740</GBInterval_from>
+            <GBInterval_to>1007</GBInterval_to>
+            <GBInterval_accession>K01140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43091.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRNEWGCRCNDSSDPLVVAASIIGILHLILWILDRLFFKCIYRFFKHGLKRGPSTEGVPESMREEYRKEQQNAVDADDSHFVSIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..784</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>784</GBInterval_to>
+            <GBInterval_accession>K01140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43092.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALMEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDRAVKLYRKLKREITFHGAKEIALSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHRSLRQMVATTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRAIGTHPSSSAGLKDDLLENLQTYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtagatattgaaagatgagccttctaaccgaggtcgaaacgtatgttctctctatcgttccgtcaggccccctcaaagccgaaatcgcgcagagacttgaagatgtctttgctggaaagaacacagatcttgaggctctcatggaatggctaaagacaagaccaatcctgtcacctctgactaaggggattttgggatttgtgttcacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgccctcaatgggaatggggatccaaataacatggacagagcagttaaactatacagaaaacttaagagggagataacattccatggggccaaagaaatagcactcagttattctgctggtgcacttgccagttgcatgggcctcatatacaacaggatgggggctgtaaccactgaagtggcctttggcctggtatgtgcaacctgtgaacagattgctgactcccagcacaggtctcttaggcaaatggtggcaacaaccaatccactaataagacatgagaacagaatggttctggccagcactacagctaaggctatggagcaaatggctggatcaagtgagcaggcagcagaggccatggaggttgctagtcaggccaggcaaatggtgcaggcaatgagagccattgggacccatcctagctccagtgctggtctaaaagatgatcttcttgaaaatttgcagacctatcagaaacgaatgggggtgcagatgcaacgattcaagtgaccctcttgttgttgctgcgagtatcattgggatcttgcacttgatattgtggattcttgatcgtctttttttcaaatgcatctatcgattcttcaaacacggcctgaaaagagggccttctacggaaggagtacctgagtctatgagggaagaatatcgaaaggaacagcagaatgctgtggatgctgacgacagtcattttgtcagcatagagctggagtaaaaaactaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

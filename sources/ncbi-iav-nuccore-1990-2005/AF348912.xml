@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF348912</GBSeq_locus>
+    <GBSeq_length>979</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-APR-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Philippines/2/82(H3N2)) M1 protein gene, complete cds; and M2 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF348912</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF348912.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF348912.1|</GBSeqid>
+      <GBSeqid>gi|20065768</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Philippines/2/1982(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Philippines/2/1982(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..979</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+          <GBAuthor>Liu,H.</GBAuthor>
+          <GBAuthor>Baird,S.</GBAuthor>
+          <GBAuthor>Chang Kit,L.</GBAuthor>
+          <GBAuthor>Nesrallah,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-FEB-2001) Biochemistry, Microbiology and Immunology, University of Ottawa, 451 Smyth Rd, Ottawa, ONT K1H 8M5, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..979</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>979</GBInterval_to>
+            <GBInterval_accession>AF348912.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Philippines/2/1982(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382825</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(1..26,715..&gt;979)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>26</GBInterval_to>
+            <GBInterval_accession>AF348912.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>715</GBInterval_from>
+            <GBInterval_to>979</GBInterval_to>
+            <GBInterval_accession>AF348912.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAM09297.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRNEWGCRCNDSSDSLVVAASIIGILHLILWILDRLFFKCIYRFFKHGLKRGPSTEGVPESMREEYRKEQQNAVDADDSHFVSIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..759</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>759</GBInterval_to>
+            <GBInterval_accession>AF348912.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAM09296.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALTEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDRAVKLYRKLKREITFHGAKEIALSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHRSHRQMVATTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRAIGTHPSSSAGLKDDLLENLQTYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagccttctaaccgaggtcgaaacgtatgttctctctatcgttccatcgggccccctcaaagccgaaatcgcgcagagacttgaagatgtctttgcagggaaaaacacagatcttgaggctctcacggaatggctaaagacaagaccaatcctgtcacctctgactaaggggattttgggatttgtgttcacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgccctcaatgggaatggggatccaaacaacatggacagagcagttaaactatacagaaaacttaagagggagataacattccatggggccaaagaaatagcactcagttattctgctggtgcacttgccagttgcatgggcctcatatacaacaggatgggggctgtaaccactgaagtggcctttggcctggtatgtgcaacatgtgaacagattgctgactcccagcacaggtctcataggcaaatggtggcaacaaccaacccactaataagacatgagaacagaatggttctggccagcactacagctaaggctatggagcaaatggctggatcaagtgagcaggcagcagaggccatggaggttgctagtcaggccaggcaaatggtgcaggcaatgagagccattgggactcatcctagctccagtgctggtctaaaagatgatcttcttgaaaatttgcagacctatcagaaacgaatgggggtgcagatgcaacgattcaagtgactctcttgttgttgctgcgagtatcattgggatcttgcacttgatattgtggattcttgatcgtctttttttcaaatgcatctatcgattcttcaaacacggcctgaaaagagggccttctacggaaggagtacctgagtctatgagggaagaatatcgaaaggaacagcagaatgctgtggatgctgacgacagtcattttgtcagcatagagctggag</GBSeq_sequence>
+  </GBSeq>

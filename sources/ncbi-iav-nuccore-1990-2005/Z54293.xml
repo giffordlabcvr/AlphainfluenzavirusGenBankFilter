@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>Z54293</GBSeq_locus>
+    <GBSeq_length>1188</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-FEB-1996</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (Mongolia/162/91 (H1N1)) nucleoprotein gene</GBSeq_definition>
+    <GBSeq_primary-accession>Z54293</GBSeq_primary-accession>
+    <GBSeq_accession-version>Z54293.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|Z54293.1|</GBSeqid>
+      <GBSeqid>gi|1177509</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Mongolia/162/91(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Mongolia/162/91(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1188</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Anchlan,D.</GBAuthor>
+          <GBAuthor>Ludwig,S.</GBAuthor>
+          <GBAuthor>Nymadawa,P.</GBAuthor>
+          <GBAuthor>Mendsaikhan,J.</GBAuthor>
+          <GBAuthor>Scholtissek,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Previous H1N1 influenza A viruses circulating in the Mongolian population</GBReference_title>
+        <GBReference_journal>Arch. Virol. 141 (8), 1553-1569 (1996)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/BF01718254</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>8856033</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1188</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Anchlan,D.</GBAuthor>
+          <GBAuthor>Ludwig,S.</GBAuthor>
+          <GBAuthor>Nymadava,P.</GBAuthor>
+          <GBAuthor>Mendsaikhan,J.</GBAuthor>
+          <GBAuthor>Scholtissek,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Previous H1N1 influenza A viruses circulating in the mongolian population</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1188</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ludwig,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-SEP-1995) Ludwig S., Institut f. Med. Strahlenkunde und Zellforschung, Versbacher Strasse 5, Wuerzburg, Germany, 97078</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1188</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1188</GBInterval_to>
+            <GBInterval_accession>Z54293.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Mongolia/162/91(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Mongolia/162/91 (H1N1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:311246</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1188</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1188</GBInterval_to>
+            <GBInterval_accession>Z54293.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein (partial)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA91087.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q82769</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002141</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q82769</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>NKYLEEHPSAGKDPKKTGGPIYKRVDGKWMRELVLYDKEEIRRIWRQANNGDDATAGLTHMMIWHSNLNDTTYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRKTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGPAVASGYEFEKEGYSLVGIDPFKLLQNSQVYSLIRPNENPAHKSQLVWMACNSAAFEDIRVSSFIRGTKVIPRGKLSTRGVQIASNENMDTMESSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFDKPTIMAAFTGNAEGRTSDMRAEIIRMMEGSKPEEVSFQGRGVFELSDEKAT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaataaatatctggaagaacatcccagcgcggggaaggatcctaagaaaactggaggacccatatacaagagagtagatggaaagtggatgagggaactcgtcctttatgacaaagaagaaataaggcgaatctggcgccaagctaataatggtgatgatgcaacagctggtctgactcacatgatgatctggcattccaatttgaatgatacaacataccagaggacaagagctcttgttcgcaccggaatggatcccaggatgtgctctttgatgcagggttcgactctccctaggaggtctggagccgcagctgcagtcaaaggagttgggacaatggtgatggagttgatcaggatgatcaaacgtgggatcaatgatcggaacttctggagaggtgagaatgggcggaaaacaaggattgcttatgagagaatgtgcaacattctcaaaggaaaatttcaaacagctgcacaaagagcaatgatggatcaagtgagagaaagccggaacccaggaaatgctgagatcgaagatctcatctttctggcacggtctgcactcatattgagagggtcagttgctcacaaatcttgtctgcctgcctgtgtgtatggacctgccgtagccagtgggtacgaattcgaaaaagagggatactctttagtagggatagaccctttcaaactgcttcaaaacagccaagtatacagcctaatcagaccgaacgagaatccagcacacaagagtcagctggtgtggatggcatgcaattctgctgcatttgaagatataagagtatcaagcttcatcagagggaccaaagtaatcccaagggggaaactttccactagaggagtacaaattgcttcaaatgaaaacatggatactatggaatcaagtactcttgaactgagaagcaggtactgggccataaggaccagaagtggaggaaacactaatcaacagagggcctctgcaggtcaaatcagtgtacaacctacgttttctgtgcaaagaaacctcccatttgacaaaccaaccatcatggcagcattcactgggaatgcagagggaagaacatcagacatgagggcagaaatcataaggatgatggaaggttcaaaaccagaagaagtgtccttccaggggcggggagtcttcgagctctcggacgaaaaggcaac</GBSeq_sequence>
+  </GBSeq>

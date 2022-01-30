@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANAMT</GBSeq_locus>
+    <GBSeq_length>1467</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-APR-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/X-47(H3N2)) neuraminidase gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>J02173</GBSeq_primary-accession>
+    <GBSeq_accession-version>J02173.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|J02173.1|FLANAMT</GBSeqid>
+      <GBSeqid>gi|1389683</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>glycoprotein</GBKeyword>
+      <GBKeyword>neuraminidase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/X-47(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/X-47(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1467</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Van Rompuy,L.</GBAuthor>
+          <GBAuthor>Jou,W.M.</GBAuthor>
+          <GBAuthor>Huylebroeck,D.</GBAuthor>
+          <GBAuthor>Fiers,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Complete nucleotide sequence of a human influenza neuraminidase gene of subtype N2 (A/Victoria/3/75)</GBReference_title>
+        <GBReference_journal>J. Mol. Biol. 161 (1), 1-11 (1982)</GBReference_journal>
+        <GBReference_pubmed>6185683</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1467</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Beernaert,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-JAN-1988) Laboratory for Molecular Biology, University Gent, Ledeganckstraat, 35, Gent 9000, Belgium</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jun 26, 1996 this sequence version replaced gi:324527.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1467</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1467</GBInterval_to>
+            <GBInterval_accession>J02173.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/X-47(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/X-47</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380905</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>the X-47 recombinant strain is derived from A/Victoria/3/75 and A/Pr/8/34;
+subtype: H3N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1429</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1429</GBInterval_to>
+            <GBInterval_accession>J02173.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAB03361.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECDSPANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPKLVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLENKHSNDTIHDRTPHRTLLMNELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGYDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVVMTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSSYVCSGLVGDTPRKNDRSSSSYCRNPNNEKGNHGVKGWAFDDGNDVWMGRTISEDSRSGYETFKVIGGWSTPNSKLQINRQVIVDSANRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtgaagatgaatccaaatcaaaagataataacaattggctctgtctctctcaccattgcaacaatatgcttcctcatgcagattgccatcctggtaactactgtaacattgcatttcaagcaatatgagtgcgactcccccgcgaacaaccaagtaatgccgtgtgaaccaataataatagaaaggaacataacagagatagtgtatttgactaacaccaccatagaaaaagagatatgccccaaattagtggaatacaggaattggtcaaagccacaatgtaaaattacaggatttgcacctttctctaaggacaattcaattcggctttctgctggtggggacatttgggtgacgagagaaccttatgtgtcatgcgatcctggcaaatgttatcaatttgcactcgggcaggggaccacactagaaaacaaacattcaaatgacacaatacatgatagaacccctcatcgaaccctattgatgaatgagttgggtgttccatttcacttgggaaccaggcaagtgtgtatagcatggtccagctcaagttgtcacgatggaaaagcatggctgcatgtttgtgtcactgggtatgataaaaatgcaactgctagcttcatttacgatgggaggcttgtagacagcattggttcatggtctcaaaatatcctcaggacccaggagtcggaatgtgtttgtatcaatgggacttgtacagtagtaatgactgatggaagtgcttcaggaagagctgatactaaaatactattcattgaagaggggaaaattgttcatattagcccattgtcaggaagtgctcagcatgtagaggagtgttcctgttatcctcgatatcctggtgtcagatgtatctgcagagacaactggaaaggctctaataggccagtcgtagatataaatgtgaaagattatagcattgattccagttatgtgtgctcagggcttgttggcgacacacccagaaaaaacgacagatctagcagtagctattgccggaatcctaacaatgaaaaagggaatcacggagtgaaaggctgggcctttgacgatggaaatgacgtgtggatgggaagaacgatcagcgaggattcacgctcaggttatgaaaccttcaaagtcattggtggttggtccacacctaattccaaattgcagataaataggcaagtcatagttgacagcgctaataggtcaggttattctggtattttctctgttgagggcaaaagctgcatcaataggtgcttttatgtggagttgataaggggaagggaacaggaaactagagtatggtggacctcaaacagtattgttgtgttttgtggcacttcaggtacctatgggacaggctcatggcctgatggggcggacatcaatctcatgcctatataagctttcgcaattttagaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

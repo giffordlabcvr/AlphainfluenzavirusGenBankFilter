@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>Z26855</GBSeq_locus>
+    <GBSeq_length>1554</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>01-JAN-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus(A/oystercatcher/Germany/87(H1N1)) NP gene for nucleoprotein</GBSeq_definition>
+    <GBSeq_primary-accession>Z26855</GBSeq_primary-accession>
+    <GBSeq_accession-version>Z26855.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|Z26855.1|</GBSeqid>
+      <GBSeqid>gi|438085</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>NP gene</GBKeyword>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/oystercatcher/Germany/87(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/oystercatcher/Germany/87(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1554</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ludwig,S.</GBAuthor>
+          <GBAuthor>Haustein,A.</GBAuthor>
+          <GBAuthor>Kaleta,E.</GBAuthor>
+          <GBAuthor>Scholtissek,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recent influenza A H1N1 infections of pigs and turkeys in northern europe</GBReference_title>
+        <GBReference_journal>Virology (1993) In press</GBReference_journal>
+        <GBReference_remark>(sites)</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1554</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Haustein,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-OCT-1993) Haustein A., Institut f. Virologie, Frankfurter Str. 107, Giessen, Hessen, Deutschland</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1554</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1554</GBInterval_to>
+            <GBInterval_accession>Z26855.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/oystercatcher/Germany/87(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/oystercatcher/Germany/87</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:394222</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>35..1531</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>35</GBInterval_from>
+            <GBInterval_to>1531</GBInterval_to>
+            <GBInterval_accession>Z26855.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>Nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA81460.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q82801</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002141</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q82801</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETGGERQNATEIRASVGRMVGGIGRFYIRMCTELKLSDYEGRLIQNSITIERMVLSAFDERRNKYLEEHPSAGKDPKKTGGPIYGRRDGKWIRELILYDKEEIRRIWRQANNGEDATAGLTHLMIWHSNLNDATYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTRGVQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERTTIMAAFTGNTEGRTSDMRTEIIRTMESARPEDVSFQGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggtagataatcactcactgagtgacatccacatcatggcgtctcaaggcaccaaacgatcttatgaacagatggaaactggtggagagcgccagaatgccactgaaatcagagcgtctgttggaagaatggtcggtggaattggaagattctacatacggatgtgcactgaactcaaactcagcgactatgaaggaaggctgatccaaaacagcataacaatagagaggatggttctctctgcatttgatgaaaggaggaacaaatacctggaagagcatcccagtgcagggaaggacccgaagaaaactggaggtccaatctacggaaggagagacggaaaatggataagagaactaattctgtatgacaaagaggagatcaggagaatctggcgtcaagcaaacaatggagaggacgcaactgctggtctaactcatctgatgatctggcattctaatctgaatgatgccacgtatcagaggacaagagctctcgtgcgtactgggatggaccccagaatgtgctctctgatgcaaggatcaactctcccgaggagatctggagctgccggcgcagcagtaaagggagttgggacaatggtaatggagctaattcgaatgataaagcgggggatcaatgatcggaatttctggagaggtgaaaatggacgaagaacaaggattgcatatgagagaatgtgcaacatcctcaaaggaaaattccaaacagcagcacaacgagcaatgatggatcaggtacgagagagcaggaatcctgggaatgctgaaattgaagatctcatcttcctggcgcggtctgcactcattctgagaggatcagtggctcacaagtcctgcctacctgcttgtgtgtatggacttgctgtggccagtggatacgactttgagagagaggggtactctctggtcggaatagatcctttccgtctgcttcaaaacagccaggtgttcagcctcattagaccaaatgagaacccagcacataagagtcaattggtatggatggcatgccactctgcagcatttgaagacctgagagtatcaagcttcatcagagggacaagagtggttccaaggggacaactgtccaccagaggagttcagattgcatcaaatgagaacatggaaacaatggactccagtactcttgaactgagaagcagatactgggctataaggaccaggagcgggggaaacactaatcaacagagagcatctgcaggacaaatcagtgtacaacccactttctcggtacagagaaatcttcctttcgagagaacgaccatcatggcagcattcacagggaacactgaaggcagaacatctgacatgaggactgagatcataagaacgatggaaagtgccagaccagaagatgtgtctttccaggggcggggagtcttcgagctctcggacgaaaaggcaacgaacccgatcgtgccttcctttgacatgagtaatgagggatcttatttcttcggagacaatgcagaggagtatgacaattaaagaaaaatacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

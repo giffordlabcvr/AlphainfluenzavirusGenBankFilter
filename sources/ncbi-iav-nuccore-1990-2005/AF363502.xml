@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF363502</GBSeq_locus>
+    <GBSeq_length>1704</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAR-2002</GBSeq_update-date>
+    <GBSeq_create-date>14-MAY-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Paris/896/97(H3N2)) hemagglutinin gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF363502</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF363502.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF363502.1|</GBSeqid>
+      <GBSeqid>gi|14030466</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Paris/896/97(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Paris/896/97(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1704</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Medeiros,R.</GBAuthor>
+          <GBAuthor>Escriou,N.</GBAuthor>
+          <GBAuthor>Naffakh,N.</GBAuthor>
+          <GBAuthor>Manuguerra,J.C.</GBAuthor>
+          <GBAuthor>van der Werf,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hemagglutinin residues of recent human A(H3N2) influenza viruses that contribute to the inability to agglutinate chicken erythrocytes</GBReference_title>
+        <GBReference_journal>Virology 289 (1), 74-85 (2001)</GBReference_journal>
+        <GBReference_pubmed>11601919</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1704</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Medeiros,R.</GBAuthor>
+          <GBAuthor>Naffakh,N.</GBAuthor>
+          <GBAuthor>Escriou,N.</GBAuthor>
+          <GBAuthor>Manuguerra,J.-C.</GBAuthor>
+          <GBAuthor>van der Werf,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (23-MAR-2001) Virologie, Institut Pasteur, 25, Rue du Dr Roux, Paris 75015, France</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1704</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1704</GBInterval_to>
+            <GBInterval_accession>AF363502.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Paris/896/97(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Paris/896/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:158609</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H3N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1701</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1701</GBInterval_to>
+            <GBInterval_accession>AF363502.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK52910.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKTIIALSYILCLVFAQKLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHQILDGKNCTLIDALLGDPHCDGFQNKEWDLFVERSTAYSNCYPYDVPDYASLRSLVASSGTLEFTKEGFNWTGVAQDGTSYACKRGSVKSFFSRLNWLHKLEYKYPALNVTMPNNDKFDKLYIWGVHHPSTDSDQTSLYVQASGRVTVSTKRSQQTVIPNIGSRPWVRGVSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPIDNCNSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQTRGIFGAIAGFIENGWEGMVDGWYGFRHQNSEGTGQAADLKSTQAAINQINGKLNRLIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFERTRKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQKGNIRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaagactatcattgctttgagctacattttatgtctggttttcgctcaaaaacttcccggaaatgacaacagcacggcaacgctgtgcctgggacaccatgcagtgccaaacggaacgctagtgaaaacaatcacgaatgaccaaattgaagtgactaatgctactgagctggttcagagttcctcaacaggtagaatatgcgacagtcctcaccaaatccttgatggaaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcacagcttacagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatccggcaccctggagtttaccaaagaaggcttcaattggactggagtcgctcaggatggaacaagctatgcttgcaaaaggggatctgttaaaagtttctttagtagattgaattggttgcacaaattagaatacaaatatccagcactgaacgtgactatgccaaacaatgacaaatttgacaaattgtacatttggggggttcaccacccgagtacggacagtgaccaaaccagcctatatgttcaagcatcagggagagtcacagtctctaccaaaagaagccaacaaactgtaatcccgaatatcgggtctagaccctgggtaaggggtgtctccagcagaataagcatctattggacaatagtaaaaccgggagacatacttttgattaacagcacagggaatctaattgctcctcggggttacttcaaaatacgaagtgggaaaagctcaataatgaggtcggatgcacccattgacaactgcaattctgaatgcattactccaaatggaagcattcccaatgacaaaccttttcaaaatgtaaacaggatcacatatggggcctgtcccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaactagaggcatattcggcgcaatcgcaggtttcatagaaaatggttgggagggaatggtagacggttggtacggtttcaggcatcaaaattctgaaggcacaggacaagcagcagatcttaaaagcactcaagcagcaatcaaccaaatcaacgggaaactgaataggttaatcgagaaaacgaacgagaaattccatcaaatcgaaaaagaattctcagaagtagaagggagaattcaggacctcgagaaatatgttgaagacactaaaatagatctctggtcttacaacgcggagcttcttgttgccctggagaaccaacatacaattgatctaactgactcagaaatgaacaaactgtttgaaagaacaagaaagcaactgagggaaaatgctgaggacatgggcaatggttgcttcaaaatataccacaaatgtgacaatgcctgcatagggtcaatcagaaatggaacttatgaccatgatgtatacagagacgaagcattaaacaaccggttccagatcaaaggtgttgagctgaagtcaggatacaaagattggatcctatggatttcctttgccatatcatgctttttgctttgtgttgttttgctggggttcattatgtgggcctgccaaaaaggcaacattaggtgcaacatttgcatttgagtg</GBSeq_sequence>
+  </GBSeq>

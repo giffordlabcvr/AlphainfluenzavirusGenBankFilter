@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF348186</GBSeq_locus>
+    <GBSeq_length>1467</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>07-JUN-2001</GBSeq_update-date>
+    <GBSeq_create-date>09-MAY-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hong Kong/1/68(H3N2)) isolate MA20 neuraminidase gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF348186</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF348186.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF348186.1|</GBSeqid>
+      <GBSeqid>gi|14009711</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/1/1968(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/1/1968(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1467</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+          <GBAuthor>Liu,H.</GBAuthor>
+          <GBAuthor>Kit,L.C.</GBAuthor>
+          <GBAuthor>Baird,S.</GBAuthor>
+          <GBAuthor>Nesrallah,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Pattern of mutation in the genome of influenza A virus on adaptation to increased virulence in the mouse lung: identification of functional themes</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 98 (12), 6883-6888 (2001)</GBReference_journal>
+        <GBReference_pubmed>11371620</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1467</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G. M</GBAuthor>
+          <GBAuthor>Liu,H.</GBAuthor>
+          <GBAuthor>Chang Kit,L.</GBAuthor>
+          <GBAuthor>Baird,S.</GBAuthor>
+          <GBAuthor>Nesrallah,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-FEB-2001) Biochemistry, Microbiology, and Immunology, University of Ottawa, 451 Smyth Rd, Otawa, Ont K1H 8M5, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1467</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1467</GBInterval_to>
+            <GBInterval_accession>AF348186.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/1/1968(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Hong Kong/1/68(H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>MA20</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:506350</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1429</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1429</GBInterval_to>
+            <GBInterval_accession>AF348186.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK51728.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSVSLTIATVCFLMQIAILVTTVTLHFKQYECDSPASNQVMPCEPIIIERNITEIVYLNNTTIEKEICPKVVEYRNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDHGKCYQFALGQGTTLDNKHSNDTIHDRIPHRTLLMNELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVVMTDGSASGRADTRILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINMEDYSIDSSYVCSGLVGDTPRNDDRSSNSNCRNPNNERGNQGVKGWAFDNGDDVWMGRTISKDLRSGYETFKVIGGWSTPNSKSQINRQVIVDSDNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETRVWWTSNSIVVFCGTSGTYGTGSWPDGANINFMHI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtgaaaatgaatccaaatcaaaagataataacaattggctctgtctctctcaccattgcaacagtatgcttcctcatgcagattgccatcctggtaactactgtaacattgcattttaagcaatatgagtgcgactcccccgcgagcaaccaagtaatgccgtgtgaaccaataataatagaaaggaacataacagagatagtgtatttgaataacaccaccatagagaaagagatatgccccaaagtagtggaatacagaaattggtcaaagccgcaatgtcaaattacaggatttgcacctttttctaaggacaattcaatccggctttctgctggtggggacatttgggtgacgagagaaccttatgtgtcatgcgatcatggcaagtgttatcaatttgcactcgggcaggggaccacactagacaacaaacattcaaatgacacaatacatgatagaatccctcatcgaaccctattaatgaatgagttgggtgttccatttcatttaggaaccaggcaagtgtgtatagcatggtccagctcaagttgtcacgatggaaaagcatggctgcatgtttgtatcactggggatgacaaaaatgcaactgctagcttcatttatgacgggaggcttgtggacagtattggttcatggtctcaaaatatcctcagaacccaggagtcggaatgcgtttgtatcaatgggacttgcacagtagtaatgactgatggaagtgcttcaggaagagccgatactagaatactattcattgaagaggggaaaattgtccatattagcccattgtcaggaagtgctcagcatgtagaagagtgttcctgttatcctagatatcctggcgtcagatgtatctgcagagacaactggaaaggctctaataggcccgtcgtagacataaatatggaagattatagcattgattccagttatgtgtgctcagggcttgttggcgacacacctagaaacgacgacagatctagcaatagcaattgcaggaatcctaacaatgagagagggaatcaaggagtgaaaggctgggcctttgacaatggagatgacgtgtggatgggaagaacgatcagcaaggatttacgctcaggttatgaaactttcaaagtcattggtggttggtccacacctaattccaaatcgcagatcaatagacaagtcatagttgacagcgataatcggtcaggttactctggtattttctctgttgagggcaaaagctgcatcaataggtgcttttatgtggagttgataaggggaaggaaacaggagactagagtgtggtggacctcaaacagtattgttgtgttttgtggcacttcaggtacctatggaacaggctcatggcctgatggggcgaacatcaatttcatgcatatataagctttcgcaattttagaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

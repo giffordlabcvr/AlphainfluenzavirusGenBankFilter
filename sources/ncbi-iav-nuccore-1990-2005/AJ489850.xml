@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ489850</GBSeq_locus>
+    <GBSeq_length>1407</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-JAN-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus partial NA gene for neuraminidase, strain A/England/97/02, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ489850</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ489850.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ489850.1|</GBSeqid>
+      <GBSeqid>gi|27526936</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>NA gene</GBKeyword>
+      <GBKeyword>neuraminidase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/England/97/02(H1N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/England/97/02(H1N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1407</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ellis,J.S.</GBAuthor>
+          <GBAuthor>Alvarez-Aguero,A.</GBAuthor>
+          <GBAuthor>Gregory,V.</GBAuthor>
+          <GBAuthor>Lin,Y.P.</GBAuthor>
+          <GBAuthor>Hay,A.</GBAuthor>
+          <GBAuthor>Zambon,M.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza AH1N2 viruses, United Kingdom, 2001-02 influenza season</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 9 (3), 304-310 (2003)</GBReference_journal>
+        <GBReference_pubmed>12643824</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1407</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ellis,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-JUN-2002) Ellis J.S., Respiratory Virus Unit, Central Public Health Laboratory, 61 Colindale Avenue, Colindale, London, UNITED KINGDOM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1407</GBInterval_to>
+            <GBInterval_accession>AJ489850.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/England/97/02(H1N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/England/97/02</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>allantoic fluid</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:198067</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>United Kingdom</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1407</GBInterval_to>
+            <GBInterval_accession>AJ489850.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1407</GBInterval_to>
+            <GBInterval_accession>AJ489850.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD35676.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8B3C2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HSSP:1IVF</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001860</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011040</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q8B3C2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSVSLTIATICFLTQIAILVTTVTLHFKQYECNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPKLAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNGHSNDTVHDRTPYRTLLMNELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASFIYNGRLVDSIGSWSKKILRTQESECVCINGTCTVVMTDGSASGKADTKILFIEEGKIVHTSLLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSGLVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIEGWSKPNSKLQINRQVIVDRGNRSGYSGIFSVEGKSCINRCFYVELIRGRNQETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatccaaatcaaaaaataataacgattggctctgtttctctcaccattgccacaatatgcttccttacgcaaattgccatcctggtaactactgtaacattgcatttcaagcaatatgaatgcaactcccccccaaacaaccaagtgatgctgtgtgaaccaacaataatagaaagaaacataacagagatagtgtatctgaccaacaccaccatagagaaggaaatatgccccaaactagcagaatacagaaattggtcaaagccgcaatgtaacattactggatttgcacctttttctaaggacaattcgattcggctttccgctggtggggacatctgggttacaagagaaccttatgtgtcatgcgatcctgacaagtgttatcaatttgcccttggacagggaacaacactaaacaacgggcattcaaatgacacagtacatgataggaccccttatcggaccctattgatgaatgagttgggtgttccatttcatttgggaaccaagcaagtgtgcatagcatggtccagctcaagttgtcacgatggaaaagcatggctgcatgtttgtgtaacgggggatgataaaaatgcaactgctagcttcatttacaatgggaggcttgtagacagtataggttcatggtccaaaaaaatcctcaggacccaggagtcggaatgcgtttgtatcaatggaacttgtacagtagtaatgactgatgggagtgcttcaggaaaagctgatactaaaatactattcattgaggaggggaaaatcgttcatactagcctattgtcagggagtgctcagcatgtcgaggagtgctcctgttatcctcgatatcctggtgtcagatgtgtctgcagagacaactggaaaggctccaataggcccatcgtagatataaatgtaaaggattatagcattgtttccagttatgtgtgctcaggacttgttggagacacacccagaaaaaacgacagctccagcagtagccattgcttggatcctaacaatgaggaaggtggtcatggagtgaaaggctgggcctttgatgatggaaatgacgtgtggatgggaagaacgatcagcgagaagttacgctcaggatatgaaaccttcaaagtcattgaaggctggtccaaacctaactccaaactgcagataaataggcaagtcatagttgacagaggtaataggtccggttattctggtattttctctgttgaaggcaaaagctgcatcaatcggtgcttttatgtggagctgataaggggaaggaaccaggaaactgaagtcttgtggacctcaaacagtattgttgtgttttgtggcacctcaggtacatatggaacaggctcatggcctgatggggcggacatcaatctcatgcctata</GBSeq_sequence>
+  </GBSeq>

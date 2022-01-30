@@ -1,2 +1,4 @@
   create module -f modules/iavGenbankXmlPopulator.xml genbankXmlPopulator
   create module -f modules/fluTabularUtility.xml 
+  create module -f modules/iavSegmentRecogniser.xml
+  create module -f modules/iavSubtypeRecogniserSegment4.xml

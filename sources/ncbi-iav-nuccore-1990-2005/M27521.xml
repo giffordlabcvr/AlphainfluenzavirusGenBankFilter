@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANPJ</GBSeq_locus>
+    <GBSeq_length>1565</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/gull/Maryland/704/1977(H13N6)) nucleoprotein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M27521</GBSeq_primary-accession>
+    <GBSeq_accession-version>M27521.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M27521.1|FLANPJ</GBSeqid>
+      <GBSeqid>gi|324697</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>M30754</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/gull/Maryland/704/1977(H13N6))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/gull/Maryland/704/1977(H13N6))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gorman,O.T.</GBAuthor>
+          <GBAuthor>Bean,W.J.</GBAuthor>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolution of the nucleoprotein gene of influenza A virus</GBReference_title>
+        <GBReference_journal>J. Virol. 64 (4), 1487-1497 (1990)</GBReference_journal>
+        <GBReference_pubmed>2319644</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mandler,J.</GBAuthor>
+          <GBAuthor>Gorman,O.T.</GBAuthor>
+          <GBAuthor>Ludwig,S.</GBAuthor>
+          <GBAuthor>Schroeder,E.</GBAuthor>
+          <GBAuthor>Fitch,W.M.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Scholtissek,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Derivation of the nucleoproteins (NP) of influenza A viruses isolated from marine mammals</GBReference_title>
+        <GBReference_journal>Virology 176 (1), 255-261 (1990)</GBReference_journal>
+        <GBReference_pubmed>2330674</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Draft entry and computer-readable sequence for ]kindly submitted by O.T.Gorman, 14-DEC-1989, and by J.Mandler 01-SEP-1989.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1565</GBInterval_to>
+            <GBInterval_accession>M27521.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/gull/Maryland/704/1977(H13N6))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/gull/Maryland/704/1977</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H13N6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:384499</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>46..1542</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1542</GBInterval_to>
+            <GBInterval_accession>M27521.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43462.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETGGDRQNANEIRASVGRMVGGIGRFYIQMCTELKLSDNEGRLIQNSITIERMVLSAFDERRNKYLEEHPSTGRDPKKTGGPIYRRRDGKWVRELVLYDKEEIRRIWRQANNGEDATAGLTHLMIWHSNLNDATYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGVNDRNFWRGENGRRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGAVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVLPRGQLSTRGVQIASNENMETMNSSTLELRSKYWAIRTRSGGNTNQQRASAGQVSVQPTFSVQRNLPFERATIMAAFTGNTEGRTSDMRTEIIRMMENSRPEDVSFQGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEFDS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtagataatcactcactgagtgacatccacatcatggcgtcccaaggcaccaaacgatcttatgagcagatggaaactggtggcgatcgccagaatgccaatgaaatcagggcatctgtcgggagaatggttgggggaatcggaagattctacatacagatgtgcactgaactcaagctcagtgataatgagggaagattgatccaaaacagcatcaccatagagagaatggtcctatcagcatttgatgagagaaggaacaagtacctggaagagcaccccagtactgggagagaccccaagaaaactggaggaccaatttacagaaggagagatgggaagtgggtgagagaattagttctatatgacaaagaagaaataaggaggatctggcggcaagcaaacaatggagaagatgcaacagctggtctcactcacttgatgatctggcattccaatttgaatgacgccacgtatcagagaacaagagcactagtgcgaacagggatggatccccggatgtgctccctcatgcagggctcgacactccctagaaggtctggagctgctggtgcagcagtaaagggagttgggacaatggtaatggaactcatcaggatgataaagagaggagtcaatgaccgcaatttttggagaggtgaaaacgggcgaagaacaagaattgcctatgaaaggatgtgcaacattctcaaagggaaatttcaaacagcagcacaacgagctatgatggaccaagtgcgagaaagccggaatcctggaaatgctgaaatagaagaccttatatttctggctcgatctgcacttatcctgagaggagcagtagctcacaaatcatgccttcctgcctgtgtatatggactggctgtggcaagtgggtatgactttgaaagggagggatattccctcgttggaatagatcctttccgtctgctccaaaacagccaggtattcagtctaatccgaccaaacgaaaatccagcacataagagtcaattggtgtggatggcatgccattccgccgcatttgaggatttgagagtgtcaagtttcatccggggaacaagggtgctaccaagaggacaactgtctactaggggtgtccaaattgcatccaatgaaaacatggaaaccatgaattccagcactcttgaattgagaagcaaatactgggcaataaggaccagaagcggaggaaacactaaccaacaaagagcatctgcaggacaagtcagtgtgcaacccactttctctgtgcagagaaacctcccctttgagagggcgaccatcatggctgctttcacagggaatacagagggcaggacatctgatatgaggactgaaatcataaggatgatggaaaattcaagaccagaggatgtgtctttccaggggcggggagtcttcgagctctcggacgaaaaggccacgaacccgatcgtgccttcctttgacatgagtaatgagggatcttatttcttcggagacaatgctgaggagtttgacagttaaagaaaaatacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

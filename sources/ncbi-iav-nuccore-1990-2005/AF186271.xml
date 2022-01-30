@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF186271</GBSeq_locus>
+    <GBSeq_length>674</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>08-DEC-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Silkie Chicken/Hong Kong/SF43/99(H9N2)) segment 5 nucleoprotein (NP) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF186271</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF186271.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF186271.1|</GBSeqid>
+      <GBSeqid>gi|6537271</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Silkie Chicken/Hong Kong/SF43/99(H9N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Silkie Chicken/Hong Kong/SF43/99(H9N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..674</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guo,Y.J.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Mo,I.P.</GBAuthor>
+          <GBAuthor>Lo,K.S.</GBAuthor>
+          <GBAuthor>Xiong,X.P.</GBAuthor>
+          <GBAuthor>Norwood,M.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Guan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of the pathogenicity of members of the newly established H9N2 influenza virus lineages in Asia</GBReference_title>
+        <GBReference_journal>Virology 267 (2), 279-288 (2000)</GBReference_journal>
+        <GBReference_pubmed>10662623</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..674</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-SEP-1999) Virology and Molecular Biology, St. Jude Children's Research Hospital, 332 North Lauderdale, Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..674</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>674</GBInterval_to>
+            <GBInterval_accession>AF186271.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Silkie Chicken/Hong Kong/SF43/99(H9N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Silkie Chicken/Hong Kong/SF43/99</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:109242</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H9N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;674</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>674</GBInterval_to>
+            <GBInterval_accession>AF186271.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;674</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>674</GBInterval_to>
+            <GBInterval_accession>AF186271.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF15585.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRSNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVIPRGQLSTRGVQIASNENMETIDSSTLELRSRYWAIRTRSGGNTNQHRASAGQISVQPTFSVQRSLPFERATIMAAFTGNTEGRTSDMRTEIIRMMENA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aagggaaattccaaacagcagcacaacgagcaatgatggaccaagtgcgagaaagcagaaatcctggtaatgctgaaattgaagaccttatctttctggcacggtctgcactcattctgagaggatcagtggctcacaagtcctgtttgcctgcttgtgtatatgggcttgctgtagccagtggatatgactttgagagagaagggtactctctggtcggaatagatccgtttcgtctgctccaaaacagccaggtgttcagcctcattagatcaaatgagaatccagcacataagagtcaactggtatggatggcatgtcattctgcagcatttgaagacctgagagtgtcaagcttcatcaggggaacaagagtaatcccaaggggacaactgtccaccagaggtgttcaaatagcttcaaatgagaacatggaaacaatagactccagtactcttgaactaagaagcagatactgggctataaggaccaggagtggaggaaacaccaaccaacatagggcatctgcagggcaaatcagtgtacaacctaccttctcggtacagagaagccttcctttcgagagagcaaccatcatggcggcattcacagggaacactgaaggcagaacatccgacatgaggactgaaatcataagaatgatggagaatgcc</GBSeq_sequence>
+  </GBSeq>

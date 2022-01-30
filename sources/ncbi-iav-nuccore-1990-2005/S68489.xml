@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>S68489</GBSeq_locus>
+    <GBSeq_length>1754</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-JUN-2005</GBSeq_update-date>
+    <GBSeq_create-date>23-SEP-1994</GBSeq_create-date>
+    <GBSeq_definition>hemagglutinin [H5N1 avian influenza virus, A/turkey/England/50-92/91, Genomic, 1773 nt]</GBSeq_definition>
+    <GBSeq_primary-accession>S68489</GBSeq_primary-accession>
+    <GBSeq_accession-version>S68489.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>bbm|331014</GBSeqid>
+      <GBSeqid>bbs|142797</GBSeqid>
+      <GBSeqid>gb|S68489.2|</GBSeqid>
+      <GBSeqid>gi|67107296</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/turkey/England/50-92/1991(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/turkey/England/50-92/1991(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1754</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wood,G.W.</GBAuthor>
+          <GBAuthor>Banks,J.</GBAuthor>
+          <GBAuthor>McCauley,J.W.</GBAuthor>
+          <GBAuthor>Alexander,D.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Deduced amino acid sequences of the haemagglutinin of H5N1 avian influenza virus isolates from an outbreak in turkeys in Norfolk, England</GBReference_title>
+        <GBReference_journal>Arch. Virol. 134 (1-2), 185-194 (1994)</GBReference_journal>
+        <GBReference_pubmed>7506519</GBReference_pubmed>
+        <GBReference_remark>GenBank staff at the National Library of Medicine created this entry [NCBI gibbsq 142797] from the original journal article.</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jun 9, 2005 this sequence version replaced S68489.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1754</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1754</GBInterval_to>
+            <GBInterval_accession>S68489.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/turkey/England/50-92/1991(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:402530</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>22..1722</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>22</GBInterval_from>
+            <GBInterval_to>1722</GBInterval_to>
+            <GBInterval_accession>S68489.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>conceptual translation presented here differs from translation in publication; mismatches(138[C-&gt;W],187[N-&gt;D])</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAB29507.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEKIVLLLAIVSLVKSDQICIGYHANNSTEQVDTIMEKNVTVTHAQDILEKTHNGKLCSLNGVKPLILRDCSVAGWLLGNPMCDEFLNVPEWSYIVEKDNPVNGLCYPGDFNDYEELKHLLSSTNHFEKIQIIPRSSWSNHDASSGVSSACPYNGRSSFFRNVVWLIKKNNAYPTIKRSYSNTNQEDLLVLWGIHHPNDAAEQTELYQNPTTYVSVGTSTLNQRSVPAIATRPKVNGQSGRMEFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSAIMKSGLEYGNCNTKCQTPMGAINSSMPLHNIHPLTIGECPKYVKSDRLVLATGPRNVPQRKRKTRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGITNKVNSIIDKMNTQFEAVGKEFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVKNGTYNYPQYSEEARLNREEISGVKLESMGTYQILSIYSTVASSLALAIMIAGLSFWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcaggggtataatctgtcaaaatggagaaaatagtgcttcttcttgcaatagtcagtcttgttaaaagtgaccagatttgcattggttaccatgcaaacaactcgacagagcaggttgacacaataatggaaaagaatgttactgtcacacatgcccaagacatactggagaagacacacaacgggaagctctgcagcctaaatggagtgaagcctctcattttgagggattgtagtgtagctggatggctcctcggaaaccccatgtgtgacgaattcctcaatgtgccggaatggtcttacatagtggaaaaggacaatcctgtcaatggcctctgctaccctggggatttcaacgactatgaagaactgaaacaccttttaagcagcacaaaccattttgagaaaattcaaatcatccccagaagttcttggtccaatcatgatgcctcatcaggggtgagctccgcatgtccatataatgggaggtcctcttttttcaggaatgtggtatggcttatcaaaaagaataatgcatacccaacaataaagaggagttacagtaataccaaccaggaagatcttttggtactgtgggggattcaccatcctaatgatgcggcagagcaaacagagctctatcaaaacccaaccacctacgtttccgttggaacatcaacactgaaccagagatcagtcccagcaatagccactaggcccaaagtaaatgggcaaagtggaagaatggagttcttctggacaattttgaagccgaatgatgccatcaattttgagagtaatggaaattttattgctccagaatatgcatacaaaattgtcaagaaaggggattcagcaatcatgaaaagtggattggaatatggtaactgcaacaccaagtgccaaactccaatgggtgcgataaactctagcatgccactccacaatatacaccctctcaccattggggaatgccccaaatacgtgaaatcagatagattggtccttgcgactggacccagaaacgtccctcaaagaaaaagaaaaacaagaggactatttggggctatagcaggcttcatagagggaggatggcaaggaatggtagacggttggtatgggtaccaccatagcaacgagcaggggagtggatacgctgcagacaaggaatccactcaaaaggcaatagatggaatcactaataaggtcaactcaatcattgacaaaatgaacactcagtttgaggccgttggaaaggaatttaataacttggaaaggaggatagagaatttgaacaagaagatggaagacgggtttctagatgtctggacttataatgctgaacttctggttctcatggaaaatgagagaactctagatttccatgactcaaatgtcaagaacctttacgacaaagttcgactacagcttagggataatgcaaaggagctgggtaatggttgtttcgagttctatcacaaatgtgacaatgaatgtatggaaagtgtaaaaaacggaacatataactacccgcagtattcagaagaagcaagactaaacagagaggaaataagtggggtaaaattggaatcaatgggaacttaccagatactgtcaatttattcaacagtggcgagttccctagcactggcaatcatgatagctggtctatctttctggatgtgctccaatggatcattgcagtgcagaatttgcatttaaacttgtgagtccagattgtagttaaaaacacc</GBSeq_sequence>
+  </GBSeq>

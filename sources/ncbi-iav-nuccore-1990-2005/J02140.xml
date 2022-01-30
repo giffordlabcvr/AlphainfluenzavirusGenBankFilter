@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAP3M0A</GBSeq_locus>
+    <GBSeq_length>2341</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-JUN-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/nt/60/1968(H3N2)) polymerase 3 (pb2) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>J02140</GBSeq_primary-accession>
+    <GBSeq_accession-version>J02140.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|J02140.1|FLAP3M0A</GBSeqid>
+      <GBSeqid>gi|324919</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RNA polymerase</GBKeyword>
+      <GBKeyword>polymerase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/nt/60/1968(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/nt/60/1968(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jones,K.L.</GBAuthor>
+          <GBAuthor>Huddleston,J.A.</GBAuthor>
+          <GBAuthor>Brownlee,G.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The sequence of RNA segment 1 of influenza virus A/NT/60/68 and its comparison with the corresponding segment of strains A/PR/8/34 and A/WSN/33</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 11 (5), 1555-1566 (1983)</GBReference_journal>
+        <GBReference_pubmed>6828387</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Submitted as clean copy from authors. Protein product of segment 1 as pb2.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2341</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2341</GBInterval_to>
+            <GBInterval_accession>J02140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/nt/60/1968(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/nt/60/1968</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:384505</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>J02140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase 3 (pb2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43613.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIKELRNLMSQSRTREILTKTTVDHMAIIKKYTSGRQEKNPSLRMKWMMAMKYPITADKRITEMVPERNEQGQTLWSKMSDAGSDRVMVSPLAVTWWNRNGPMTSTVHYPKVYKTYFEKVERLKHGTFGPVHFRNQVKIRRRVDINPGHADLSAKEAQDVIMEVVFPNEVGARILTSESQLTITKEKKEELQDCKISPLMVAYMLERELVRKTRFLPVAGGTSSVYIEVLHLTQGTCWEQMYTPGGEVRNDDVDQSLIIAARNIVRRAAVSADPLASLLEMCHSTQIGGTRMVDILRQNPTEEQAVDICKAAMGLRISSSFSFGGFTFKRTSGSSIKREEELLTGNLQTLKIRVHDGYEEFTMVGKRATAILRKATRRLVQLIVSGRDEQSVAEAIIVAMVFSQEDCMIKAVRGDLNFVNRANQRLNPMHQLLRHFQKDAKVLFQNWGIEHIDNVMGMIGVLPDMTPSTEMSMRGIRVSKMGVDEYSSTERVVVSIDRFLRVRDQRGNVLLSPEEVSETQGTEKLTITYSSSMMWEINGPESVLVNTYQWIIRNWETVKIQWSQNPTMLYNKMEFEPFQSLVPKAIRGQYSGFVRTLFQQMRDVLGTFDTTQIIKLLPFAAAPPKQSRMQFSSLTVNVRGSGMRILVRGNSPAFNYNKTTKRLTILGKDAGTLIEDPDEGTSGVESAVLRGFLILGKEDRRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRMAIN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>variation</GBFeature_key>
+        <GBFeature_location>1312</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1312</GBInterval_point>
+            <GBInterval_accession>J02140.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>a in 3 clones; g in 1 clone</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtcaattatattcaacatggaaagaataaaagaactacggaatctgatgtcgcagtctcgcactcgcgagatactaacaaaaaccacagttgaccatatggccataattaagaagtatacatcagggagacaggaaaagaacccgtcacttaggatgaaatggatgatggcaatgaaatatccaattacagctgacaagaggataacagaaatggttcctgagagaaatgagcaaggacaaactctatggagcaaaatgagtgatgccggatcagatcgagtgatggtatcacccttggcagtgacatggtggaatagaaatggaccaatgacaagtacggttcattatccaaaagtctacaagacttattttgagaaagtcgaaaggttaaaacatggaacctttggccctgtccattttagaaaccaagtcaaaatacgccgaagagttgacataaaccctggtcatgcagacctcagtgccaaggaggcacaagatgtaatcatggaagttgttttccccaatgaagtgggggccagaatactaacgtcggaatcacaattaacaataaccaaagagaaaaaagaagaactccaagattgcaaaatttctcctttgatggttgcatacatgttagagagagaacttgtccgaaaaacgagatttctcccagttgctggtggaacaagcagtgtatacatcgaagtgttacacttgactcaaggaacgtgttgggaacagatgtacactccaggtggagaagtgaggaatgatgatgttgatcaaagtctaattattgcagccaggaacatagtgagaagagcagcagtatcagcagatccactagcatctttattggagatgtgccacagcacacagattggcgggacaaggatggtggacattcttaggcagaacccaacggaagaacaagctgtggatatatgcaaagctgcaatgggactgagaatcagctcgtccttcagttttggcggattcacatttaagagaacaagcgggtcatcaatcaagagagaggaagaattgcttacgggcaatctccaaacattaaaaataagggtgcatgatgggtacgaggaattcacaatggtggggaaaagggcaacagctatactcagaaaagcaaccaggagattggttcagctgatagtgagtggaagagacgaacagtcagtagccgaagcaataattgtagccatggtgttttcacaagaagattgcatgataaaagcagttagaggtgatctgaatttcgttaacagggcaaatcagcgattgaatcccatgcatcaacttttaaggcattttcagaaagatgcgaaagtgctttttcaaaattggggaattgaacatatcgacaatgtaatggggatgattggagtattaccagacatgactccaagcacagagatgtcaatgagagggataagagtcagcaaaatgggcgtggatgaatactccagcacagagagggttgtggtgagcattgaccggtttttgagagttcgagaccaacgaggaaatgtgttactatctcctgaggaggtcagtgaaacacaggggacagagaaactgacaataacttactcatcgtcaatgatgtgggagattaatggccctgagtcagtgttggtcaatacctatcagtggatcatcagaaactgggaaactgtcaaaattcaatggtctcagaatcctacaatgttatacaacaaaatggaatttgagccatttcagtctttagttcctaaggccattagaggccaatacagtggatttgttaggactctattccaacaaatgagggatgtacttgggacatttgataccacccagataataaagcttctcccctttgcagccgccccaccaaagcaaagtaggatgcagttctcttcattgactgtgaatgtgaggggatcagggatgagaatacttgtaaggggcaattctcctgcattcaactacaacaagacaacgaaaagactaacaattctcggaaaagatgctggcactttaattgaagacccagatgaaggtacatccggagtggagtcagctgttctgagagggttcctcattctgggtaaggaagatagaagatatggaccagcattaagcatcaatgaactgagtaaccttgcaaaaggagaaaaggctaatgtactaattgggcaaggagacgtggtgttggtaatgaaacgaaaacgggactctagcatacttactgacagccagacagcgaccaaaagaattcggatggccatcaattaatgttgaatagtttaaaaacgaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

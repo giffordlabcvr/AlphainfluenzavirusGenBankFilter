@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB101675</GBSeq_locus>
+    <GBSeq_length>1410</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JAN-2009</GBSeq_update-date>
+    <GBSeq_create-date>17-JUN-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Memphis/1/1971(H3N2)) NA gene for neuraminidase, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AB101675</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB101675.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB101675.1|</GBSeqid>
+      <GBSeqid>gi|31790583</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Memphis/1/1971(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Memphis/1/1971(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1410</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Takahashi,T.</GBAuthor>
+          <GBAuthor>Suzuki,T.</GBAuthor>
+          <GBAuthor>Hidari,K.I.</GBAuthor>
+          <GBAuthor>Miyamoto,D.</GBAuthor>
+          <GBAuthor>Suzuki,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A molecular mechanism for the low-pH stability of sialidase activity of influenza A virus N2 neuraminidases</GBReference_title>
+        <GBReference_journal>FEBS Lett. 543 (1-3), 71-75 (2003)</GBReference_journal>
+        <GBReference_pubmed>12753908</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1410</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Takahashi,T.</GBAuthor>
+          <GBAuthor>Suzuki,T.</GBAuthor>
+          <GBAuthor>Suzuki,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-FEB-2003) Contact:Takashi Suzuki University of Shizuoka, School of Pharmaceutical Sciences, Department of Biochemistry; Yada 52-1, Shizuoka, Shizuoka 422-8526, Japan URL :http://w3pharm.u-shizuoka-ken.ac.jp/~biochem/</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1410</GBInterval_to>
+            <GBInterval_accession>AB101675.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Memphis/1/1971(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Memphis/1/1971(H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:383586</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>Gallus gallus egg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>synonym: Influenza A virus (A/Memphis/1/71(H3N2))</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1410</GBInterval_to>
+            <GBInterval_accession>AB101675.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1410</GBInterval_to>
+            <GBInterval_accession>AB101675.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>3.2.1.18</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>sialidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAC77664.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSVSLTIATVCFLMQIAILVTTVTLHFKQYECDSPANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPKLVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRIPHRTLLMNELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVVMTDGSASGRADTRILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSRYVCSGLVGDTPRNNDRSSNSNCRNPNNDKGNHGVKGWAFDDGNDVWMGRTISKDSRSGYETFKVIGGWSTPNSKSQINRQVIVDSDNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatccaaatcaaaagataataacaattggctctgtctctctcaccattgcaacagtatgcttcctcatgcagattgccatcctggtaactactgtaacattgcatttcaagcaatatgagtgcgactcccccgcgaacaaccaagtaatgccgtgtgaaccaataataatagaaaggaacataacagagatagtgtatttgactaacaccaccatagagaaagagatatgccccaaattagtggaatacagaaattggtcaaagccgcaatgtaaaattacaggatttgcacctttttctaaggacaattcaattcggctttctgctggtggggacatttgggtgacgagagaaccttatgtgtcatgcgatcctggcaagtgttatcaatttgcactcgggcaggggaccacactagacaacaaacattcaaatgacacaatacatgatagaatccctcatcgaaccctattgatgaatgagttgggtgttccatttcatttaggaaccaggcaagtgtgtatagcatggtccagctcaagttgtcacgatggaaaagcatggctgcatgtttgtgtcactggggatgataaaaatgcaactgctagcttcatttacgatgggaggcttgtggacagtattggttcatggtctcaaaatatcctcaggacccaggagtcggaatgcgtttgtatcaatgggacttgtacagtagtaatgactgatggaagtgcttcaggaagagctgatactagaatactattcattgaagaggggaaaatcgttcatattagcccattgtcaggaagtgctcagcatgtagaggagtgttcctgttatcctcgatatcctggcgtcagatgtatctgcagagacaactggaaaggctctaataggcccgtcgtagatataaatgtgaaagattatagcattgattcccgttatgtgtgctcagggcttgttggcgacacacccagaaacaacgacagatctagcaatagcaattgcaggaatcctaacaatgataaagggaatcatggagtgaaaggctgggcctttgacgatggaaatgacgtgtggatgggaagaacgatcagcaaggattcacgctcaggttatgaaaccttcaaagtcattggtggttggtccacacctaattccaaatcacagataaataggcaagtcatagttgacagcgataataggtcaggttattctggtattttctctgttgagggcaaaagctgcatcaataggtgcttttacgtggagttgataaggggaagggaacaggagactagagtatggtggacctcaaacagtattgttgtgttttgtggcacttctggtacctatgggacaggctcatggcctgatggggcggacatcaatctcatgcctatataa</GBSeq_sequence>
+  </GBSeq>

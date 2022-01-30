@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF368440</GBSeq_locus>
+    <GBSeq_length>984</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>21-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>17-MAY-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Finland/524/97 (H3N2)) hemagglutinin gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF368440</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF368440.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF368440.1|</GBSeqid>
+      <GBSeqid>gi|14133827</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Finland/524/97 (H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Finland/524/97 (H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..984</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pyhala,R.</GBAuthor>
+          <GBAuthor>Ikonen,N.</GBAuthor>
+          <GBAuthor>Santanen,R.</GBAuthor>
+          <GBAuthor>Haanpaa,M.</GBAuthor>
+          <GBAuthor>Visakorpi,R.</GBAuthor>
+          <GBAuthor>Jappinen,P.</GBAuthor>
+          <GBAuthor>Valle,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Vaccination-induced HI antibody response to intraepidemic influenza A(H3N2) virus variants of the 1996-1997 epidemic season</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 65 (3), 584-589 (2001)</GBReference_journal>
+        <GBReference_pubmed>11596097</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..984</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pyhala,R.</GBAuthor>
+          <GBAuthor>Ikonen,N.</GBAuthor>
+          <GBAuthor>Santanen,R.</GBAuthor>
+          <GBAuthor>Haanpaa,M.</GBAuthor>
+          <GBAuthor>Visakorpi,R.</GBAuthor>
+          <GBAuthor>Jappinen,P.</GBAuthor>
+          <GBAuthor>Valle,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-APR-2001) Department of Microbiology, National Public Health Institution, Mannerheimintie 166, Helsinki 00300, Finland</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..984</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>984</GBInterval_to>
+            <GBInterval_accession>AF368440.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Finland/524/97 (H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Finland/524/97 (H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:159486</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;984</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>984</GBInterval_to>
+            <GBInterval_accession>AF368440.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK54145.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>QKLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHQILDGKNCTLIDALLGDPHCDGFQNKEWDLFVERSTAYSNCYPYDVPDYASLRSLVASSGTLEFTKEGFNWTGVAQDGTSYACKRGSVKSFFSRLNWLHKPEYKYPALNVTMPNNDKFDKLYIWGVHHPSTDSDQTSLYVQASGRITVSTKRSQQTVIPNIGSRPWVRGVSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPIDNCNSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaaacttcccggaaatgacaacagcacggcaacgctgtgcctgggacaccatgcagtgccaaacggaacgctagtgaaaacaatcacgaatgaccaaattgaagtgactaatgctactgagctggttcagagttcctcaacaggtagaatatgcgacagtcctcaccaaatccttgatggaaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcacagcttacagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatccggcaccctggagtttaccaaagaaggcttcaattggactggagtcgctcaggatggaacaagctatgcttgcaaaaggggatctgtcaaaagtttctttagtagattgaattggttgcacaaaccagaatacaaatatccagcactgaacgtgactatgccaaacaatgacaaatttgacaaattgtacatttggggggttcaccacccgagtacggacagtgaccaaaccagcctatatgttcaagcatcagggagaatcacagtctctaccaaaagaagccaacaaactgtaatcccgaatatcgggtctagaccctgggtaaggggtgtctccagcagaataagcatttattggacaatagtgaaaccgggagacatacttttgattaacagcacagggaatctaattgctcctcggggttacttcaaaatacgaagtgggaaaagctcaataatgaggtcggatgcacccattgacaactgcaattctgaatgcattactccaaatggaagcattcccaatgacaaaccttttcaaaatgtaaacaggatcacatatggggcctgtcccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaact</GBSeq_sequence>
+  </GBSeq>

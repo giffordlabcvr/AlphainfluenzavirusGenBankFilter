@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF242181</GBSeq_locus>
+    <GBSeq_length>1404</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-MAR-2000</GBSeq_update-date>
+    <GBSeq_create-date>29-MAR-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/China) segment 5 nucleoprotein (NP) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF242181</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF242181.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF242181.1|</GBSeqid>
+      <GBSeqid>gi|7340282</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/China)</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/China)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1404</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,D.</GBAuthor>
+          <GBAuthor>Pan,J.</GBAuthor>
+          <GBAuthor>Chen,P.</GBAuthor>
+          <GBAuthor>Cai,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A strain of avian influenza virus isolated from the material suggested to be infectious bronchitis virus in China</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1404</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,D.</GBAuthor>
+          <GBAuthor>Pan,J.</GBAuthor>
+          <GBAuthor>Chen,P.</GBAuthor>
+          <GBAuthor>Cai,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-MAR-2000) College of Veterinary Medicine, Nanjing Agricultural University, 6 Tongwei Road, Nanjing, Jiangsu 210095, P.R.China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1404</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1404</GBInterval_to>
+            <GBInterval_accession>AF242181.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/China)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:119240</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>segment 5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..1404</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1404</GBInterval_to>
+            <GBInterval_accession>AF242181.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1368</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1368</GBInterval_to>
+            <GBInterval_accession>AF242181.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF61171.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>ASVGRMVSGIGRFYIQMCTELKLSDYEGRLIQNSITIERMVLSAFDERRNRYLEEHPSAGKDPKKTGGPIYRRRDGKWVRELILYDKEEIRRIWRQANNGEDATAGLTHLMIWHSNLNDATYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTRGVQIASNENMEAMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMAAFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRGVFELSDEKAANPIVPSFDI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcatctgttggaagaatggttagtggcattgggaggttctacatacagatgtgcacagaactcaaactcagtgactatgaagggaggctgatccagaacagcataacaatagagagaatggtactctctgcatttgatgaaaggaggaacagatacctggaagaacaccccagtgcggggaaggacccgaagaaaactggaggtccaatttatcggaggagagacgggaaatgggtgagagagctgattctgtatgacaaagaggagatcaggaggatttggcgtcaagcgaacaatggagaagacgcaactgctggtcttacccacctgatgatatggcattccaacctaaatgatgccacataccagagaacgagagctctcgtgcgtactggaatggatcccaggatgtgctctctgatgcaaggatcaactctcccgaggagatctggagctgccggtgcagcagtaaagggggtagggacaatggtgatggagctgattcggatgataaagcgagggatcaacgaccggaatttctggagaggcgaaaacggaagaagaacaaggattgcatatgagagaatgtgcaacatcctcaaagggaaattccaaacagcagcacaaagagcaatgatggatcaagtgagagagagcagaaatcctgggaatgctgaaattgaagatctcatttttctggcacggtctgcactcatcctgagaggatcagtggcccataagtcctgcttgcctgcttgtgtgtacggacttgccgtggccagtggatatgactttgagagagaagggtactctctggttggaatagatcctttccgtctgcttcaaaacagccaggtctttagtctcattaggccaaatgagaatccagcacataagagtcaattggtgtggatggcatgccactctgcagcatttgaggatctgagagtctcaagtttcatcagagggacaagagtggtcccaagaggacagctatccaccagaggagttcaaattgcttcaaatgagaacatggaagcaatggactccagcactcttgaactgagaagtagatattgggctataagaaccaggagtggaggaaacaccaaccaacagagagcatctgcaggacagatcagcgttcaacccactttctcggtacagagaaatcttcccttcgaaagagcgaccattatggcagcatttacagggaatactgagggcagaacgtctgacatgaggaccgaaatcataagaatgatggaaagtgccagaccagaagatgtgtcattccaggggcggggagtcttcgagctctcggacgaaaaggcagcgaacccgatcgtgccttcctttgacatttgagaaagcttgcccttatgttagttatggcaagaatcg</GBSeq_sequence>
+  </GBSeq>

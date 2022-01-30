@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF398863</GBSeq_locus>
+    <GBSeq_length>2213</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>17-APR-2002</GBSeq_update-date>
+    <GBSeq_create-date>14-JAN-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Charlottesville/31/95(H1N1)) delNA-31 PA (PA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF398863</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF398863.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF398863.1|</GBSeqid>
+      <GBSeqid>gi|18140817</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Charlottesville/31/95(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Charlottesville/31/95(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2213</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nedyalkova,M.S.</GBAuthor>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Accumulation of defective neuraminidase (NA) genes by influenza A viruses in the presence of NA inhibitors as a marker of reduced dependence on NA</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. 185 (5), 591-598 (2002)</GBReference_journal>
+        <GBReference_pubmed>11865415</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2213</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nedyalkova,M.S.</GBAuthor>
+          <GBAuthor>Murti,G.</GBAuthor>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Impaired assembly of and infection by influenza A virus that lacks neuraminidase</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..2213</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nedyalkova,M.S.</GBAuthor>
+          <GBAuthor>Murti,G.</GBAuthor>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-JUL-2001) Internal Medicine, University of Virginia, 1300 Jefferson Park Ave, Box 800473, Charlottesville, VA 22908, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2213</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2213</GBInterval_to>
+            <GBInterval_accession>AF398863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Charlottesville/31/95(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Charlottesville/31/95</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>delNA-31</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:183516</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isolated from neuraminidase-deficient mutant delNA-31; isolated from nasopharyngeal swab and grown in MDCK cells;
+subtype: H1N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>20..2167</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>2167</GBInterval_to>
+            <GBInterval_accession>AF398863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..2167</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>2167</GBInterval_to>
+            <GBInterval_accession>AF398863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subunit of RNA polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAL60432.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEDFVRQCFNPMIVELAEKAMKEYGEDLKIETNKFAAICTHLEVCFMYSDFHFINEQGESIIVEPEDPNALLKHRFEIIEGRDRTMAWTVVNSICNTTGAEKPKFLPDLYDYKENRFIEIGVTRREVHIYYLEKANKIKSEKTHIHIFSFTGEEMATKADYTLDEESRARIKTRLFTIRQEMASRGLWDSFRQSERGEETIEERFEITGTMRRLADQSLPPNFSCLENFRAYVDGFEPNGYIEGKLSQMSKEVNARIEPFLKTTPRPIRLPDGPPCFQRSKFLLMDSLKLSIEDPSHEGEGIPLYDAIKCMRTFFGWKEPSVVKPHGKGINPNYLLSWKQVLAELQDIESEEKIPRTKNMKKTSQLKWALGENMAPEKVDFDDCKDISDLKQYDSDEPELRSLSSWVQNEFNKACELTDSIWIELDEIGEDVAPIEHIASMRRNYFTAEVSHCRATEYIMKGVYVNTALLNASCAAMDDFQLIPMISKCRTKEGRRKTNLYGFIIKGRSHLRNDTDVVNFVSMEFSLTDPRIEPHKWEKYCVLEIGDMLLRSAIGQVSRPMFLYVRTNGTSKIKMKWGMEMRRCLLQSLQQIESMIEAESSVKEKDMTKEFFENRSETWPIGESPKGVEEGSIGKVCRTLLAKSVFNSLYASPQLEGFSAESRKLLLIVQALRDNLEPGTFDLGGLYEAIEECLINDPWVLLNASWFNSFLTHAL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aagcaggtactgattcgaaatggaagattttgtgcgacagtgcttcaatccgatgattgtcgagcttgcggaaaaggcaatgaaagagtatggagaggacctgaaaatcgaaacgaacaaatttgcagcaatatgcactcacttggaagtatgcttcatgtattcagattttcatttcatcaatgagcaaggagagtcaataatagtagagcctgaagacccaaacgcacttttaaagcacagatttgaaataatagagggacgagatcgtacaatggcatggacagttgtaaacagtatttgcaacaccacaggagctgagaaaccaaagttccttccagatttgtatgattacaaggagaatagattcatcgagattggagtgacaaggagggaagttcacatatactatctggaaaaggccaacaaaattaaatctgagaagacacacatacacattttctcattcactggtgaagaaatggccacaaaggccgattacactctcgatgaagaaagcagggctaggattaaaaccaggctattcaccataagacaagaaatggcaagcagaggactttgggattcctttcgtcagtccgagagaggcgaagaaacaattgaagaaagatttgaaatcacaggaacaatgcgcaggctcgctgaccaaagcctcccgccgaacttctcctgccttgagaattttagagcctatgtggatggattcgaaccgaacggctacattgagggcaagctttctcaaatgtccaaagaagtaaatgctagaattgagccttttctgaaaacaacaccacgaccaattaggcttccggatgggcctccttgttttcagcggtcaaaattcctgctgatggattctttaaaattaagcattgaggatccaagtcatgaaggagagggaataccactatatgatgcgatcaagtgtatgagaacattctttggatggaaagaaccctctgttgtcaaaccacacgggaagggaataaatccgaattatctgctgtcatggaagcaggtactggcagaactgcaggacattgagagtgaggagaagattccaagaactaaaaacatgaaaaagacgagtcagcttaagtgggcacttggtgagaacatggcaccagagaaggtagattttgacgactgtaaagatataagcgatttgaagcaatatgatagtgacgagcctgaattaaggtcactttcaagttgggtccagaatgagttcaacaaggcatgcgagctgactgattcaatctggatagagctcgatgagattggagaagatgtggctccgattgaacacattgcaagcatgagaagaaattacttcacagcagaggtgtctcattgcagagccaccgaatatataatgaagggggtatacgttaatactgctttgcttaatgcatcctgtgcagcaatggatgatttccaactaatccccatgataagcaaatgtagaactaaagagggaaggcgaaagactaatttgtacggcttcatcataaaaggaagatctcacttaaggaatgacaccgatgtggtaaactttgtgagcatggagttttccctcactgacccaagaattgagccacacaaatgggagaagtactgtgttcttgagataggggatatgcttctaagaagtgcaataggccaagtgtcaaggcccatgttcttgtatgtgaggacaaatggaacctccaaaattaaaatgaaatgggggatggagatgaggcgttgcctcctccaatcccttcaacaaatagagagtatgattgaagctgagtcctctgtcaaggagaaagacatgacaaaagaattttttgagaatagatcagaaacatggcccattggagagtcacccaaaggagtggaagaaggttccattgggaaagtatgcaggacgttattggctaagtcagtattcaatagtttgtatgcatctccacaattagaaggattttcagctgaatcaagaaagttgctccttattgttcaggctcttagggacaatctggaacctgggacctttgatcttggggggctatatgaagcaattgaggagtgcctgattaatgatccctgggttttgcttaatgcttcttggttcaactccttcctaacacatgcattgtgatagctgtggcaatgctactatttgctatccatactgtccaaaaaag</GBSeq_sequence>
+  </GBSeq>

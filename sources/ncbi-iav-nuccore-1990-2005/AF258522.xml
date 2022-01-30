@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF258522</GBSeq_locus>
+    <GBSeq_length>1027</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-AUG-2000</GBSeq_update-date>
+    <GBSeq_create-date>15-AUG-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hong Kong/470/97(H1N1)) M1 and M2 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF258522</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF258522.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF258522.1|</GBSeqid>
+      <GBSeqid>gi|9802287</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/470/1997(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/470/1997(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cooper,L.A.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A simple restriction fragment length polymorphism-based strategy that can distinguish the internal genes of human H1N1, H3N2, and H5N1 influenza A viruses</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. 38 (7), 2579-2583 (2000)</GBReference_journal>
+        <GBReference_pubmed>10878047</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cooper,L.A.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-APR-2000) Influenza Branch, Centers for Disease Control and Prevention, 1600 Clifton Road, N.E. MSG-16, Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1027</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1027</GBInterval_to>
+            <GBInterval_accession>AF258522.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/470/1997(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/Hong Kong/470/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:132614</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H1N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(26..51,740..1007)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>51</GBInterval_to>
+            <GBInterval_accession>AF258522.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>740</GBInterval_from>
+            <GBInterval_to>1007</GBInterval_to>
+            <GBInterval_accession>AF258522.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF99671.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRNEWGCRCNDSSDPLVVAASIIGIVHLILWIIDRLFSKSIYRIFKHGLKRGPSTEGVPESMREEYREEQQNAVDADDGHFVSIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..784</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>784</GBInterval_to>
+            <GBInterval_accession>AF258522.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF99670.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALMEWLKTRPILSPLTKGILGFVFTLTVPTERGLHRTLFVQNALNGNGDPNNMDRAVKLYRKLKREITFHGAKEIALSYSAGALASCMGLIYNRMGAVTTESAFGLICATCEQIADSQHKSHRQMVTTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRAIGTHPSSSTGLKNDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtagatattgaaagatgagtcttctaaccgaggtcgaaacgtacgttctctctatcgtcccgtcaggccccctcaaagccgagatcgcacagagacttgaagatgtctttgctggaaagaacaccgatcttgaggctctcatggaatggctaaagacaagaccgatcctgtcacctctgactaaggggattttaggatttgtgttcacgctcaccgtgcccactgagcgaggactgcatcgtacactctttgtccaaaatgcccttaatgggaatggggatccaaataatatggacagagcagttaaactgtatagaaagcttaagagggagataacattccatggggccaaagaaatagcactcagttattctgctggtgcacttgccagttgtatgggactcatatacaacaggatgggggctgtgaccaccgaatcagcatttggccttatatgcgcaacctgtgaacagattgccgactcccagcataagtctcataggcaaatggtaacaacaaccaatccattaataagacatgagaacagaatggttctggccagcactaccgctaaggctatggagcaaatggctggatcgagtgaacaagcagctgaggccatggaggttgctagtcaggccaggcaaatggtgcaggcaatgagagccattgggactcatcctagctctagcactggtctgaaaaatgatctccttgaaaatttgcaggcctatcagaaacgaatgggggtgcagatgcaacgattcaagtgaccctcttgttgttgccgcaagtataattgggattgtgcacctgatattgtggattattgatcgccttttttccaaaagcatttatcgtatctttaaacacggtttaaaaagagggccttctacggaaggagtaccagagtctatgagggaagaatatcgagaggaacagcagaatgctgtggatgctgacgatggtcattttgtcagcatagagctagagtaaaaaactaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

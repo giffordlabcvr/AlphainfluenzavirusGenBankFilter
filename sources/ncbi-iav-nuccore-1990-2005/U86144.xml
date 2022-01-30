@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IAU86144</GBSeq_locus>
+    <GBSeq_length>1438</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-MAR-1997</GBSeq_update-date>
+    <GBSeq_create-date>05-JAN-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Swine/Quebec/192/81 (SwQc81)) neuraminidase mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>U86144</GBSeq_primary-accession>
+    <GBSeq_accession-version>U86144.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U86144.1|IAU86144</GBSeqid>
+      <GBSeqid>gi|4099318</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/swine/Quebec/192/81(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/swine/Quebec/192/81(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1438</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Arora,D.J.S.</GBAuthor>
+          <GBAuthor>Tijssen,P.</GBAuthor>
+          <GBAuthor>Dea,S.</GBAuthor>
+          <GBAuthor>Henrichon,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Complete sequences of the neuraminidase genes of swine influenza viruses (H1N1) associated with the respiratory disease in pigs</GBReference_title>
+        <GBReference_journal>Virus Genes (1997) In press</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1438</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dea,S.</GBAuthor>
+          <GBAuthor>Arora,D.J.S.</GBAuthor>
+          <GBAuthor>Tijssen,P.</GBAuthor>
+          <GBAuthor>Henrichon,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-JAN-1997) CRV, Institut Armand-Frappier, 531 Boul. des Prairies, Laval, QC H7N4Z3, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1438</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1438</GBInterval_to>
+            <GBInterval_accession>U86144.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/swine/Quebec/192/81(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Sw/Quebec/192/81 (SwQc81)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:172149</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>tissue culture-adapted virus</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1438</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1438</GBInterval_to>
+            <GBInterval_accession>U86144.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1410</GBInterval_to>
+            <GBInterval_accession>U86144.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>H1N1; peplomeric</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD00583.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNTNQRIITIGTICLIVGIVSLLLQIGNIVSLWISHSIQTGEKSHPEVCNQSVVTYENNTWVNQTYVNISNTNIAAGQGVTPIILAGNSPLCPISGWAIYSKDNSIRIGSKGDIFVMREPFISCSHFECRTFFLTQGALLNDRHSNGTVKDRSPYRTLMSCPIGEAPSPYNSRFESVAWSASACHDGMGWLTIGTSGPDNGAVAVLKYNGIITDTIKSWRNKILRTQESECVCINGSCFTIMTDGPSNGQASYKIFKMEKGKIIKSIELDAPNYHYEECSCYPDTGKVVCVCRDNWHASNRPWVSFDQNLDYQIGYICSGVFGDNPRSNDGKGNCGPVLSNGANGVKGFSFRYGNGVWIGRTKSISSRSGFEMIWDPSGWTETDSSFSMKQDIIALTDWSGYSGSFVQHPELTGMNCIRPCFWVELIRGQPKESTIWTSGSSISFCGVNSETASWSWPDGADLPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatacaaatcaaagaataataaccattgggacaatctgtctaatagttggaatagttagtctattattgcagataggaaatatagtctcgttatggataagccattcaattcagactggagaaaaaagccaccctgaggtatgcaaccaaagtgtcgttacatatgaaaacaacacatgggtgaaccaaacttatgttaacattagcaataccaatattgctgctggacagggtgtgactccaataatactagccggcaattcccctctttgcccaataagtgggtgggctatatacagcaaagacaatagcataaggattggttccaaaggagacatttttgtcatgagagagccattcatttcatgctctcactttgagtgcagaaccttttttctgacccaaggcgctttgctgaatgacaggcattctaatggaaccgtcaaggacaggagtccttatagaaccttaatgagttgccccatcggagaagctccatctccgtacaattcaaggttcgaatcagttgcttggtcagcaagtgcatgccatgatggaatgggatggctaacaatcgggacttccggtcccgataatggagcagtggctgttttaaaatacaatggtataataacagatacaataaaaagttggagaaacaaaatattaagaacacaagagtctgaatgtgtttgtataaacggttcgtgttttactataatgactgacggcccaagcaatgggcaggcctcgtacaaaatattcaaaatggagaaagggaagattattaaatcgattgaactggatgcacctaattaccactatgaggaatgctcctgttaccctgatacaggcaaagtggtgtgtgtgtgcagagacaattggcatgcttcgaatcgaccatgggtctctttcgatcagaatcttgattatcaaatagggtacatatgcagtggggttttcggtgacaacccgcgttctaatgatgggaaaggcaattgtggcccagtactttctaatggagcaaatggagtgaaggggttttcatttagatatggcaatggtgtttggataggaagaactaaaagtatcagctctagaagtggatttgagatgatttgggatcctagtggatggacagaaactgatagtagtttctctatgaagcaagatattatagcattaactgattggtcgggatacagtggaagttttgtccaacaccctgaattaacaggaatgaactgcataaggccttgtttctgggtagagttaatcagagggcaacccaaggagagcacaatctggactagtggaagcagcatttctttctgtggcgtgaacagtgaaactgcaagctggtcatggccagacggagctgatctgccattcaccatagacaagtagtttatccaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

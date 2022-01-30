@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AX399731</GBSeq_locus>
+    <GBSeq_length>890</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>06-JUN-2002</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-2002</GBSeq_create-date>
+    <GBSeq_definition>Sequence 8 from Patent WO0224876</GBSeq_definition>
+    <GBSeq_primary-accession>AX399731</GBSeq_primary-accession>
+    <GBSeq_accession-version>AX399731.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AX399731.1|</GBSeqid>
+      <GBSeqid>pat|WO|0224876|8</GBSeqid>
+      <GBSeqid>gi|21335489</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Singapore/1/1957(H2N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Singapore/1/1957(H2N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ferko,B.</GBAuthor>
+          <GBAuthor>Egorov,A.</GBAuthor>
+          <GBAuthor>Romanova,J.</GBAuthor>
+          <GBAuthor>Katinger,D.</GBAuthor>
+          <GBAuthor>Katinger,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Live vaccine and method of manufacture</GBReference_title>
+        <GBReference_journal>WO0224876-A2 8 28-MAR-2002 POLYMUN SCIENT IMMUNBIO FORSCH (AT)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..890</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>890</GBInterval_to>
+            <GBInterval_accession>AX399731.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Singapore/1/1957(H2N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382781</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtgacaaagacataatggatcctaacactgtgtcaagctttcaggtagattgcttcctttggcatgtccgcaaacaagttgcagaccaagaactaggtgatgccccattccttgatcggcttcgccgagatcagaagtccctaaggggaagaggcagcactctcggtctgaacatcgaaacagccacccgtgttggaaagcagatagtggagaggattctgaaggaagaatccgatgaggcacttaaaatgaccatggcctccgcacctgcttcgcgatacctaactgacatgactattgaggaaatgtcaagggactggttcatgctaatgcccaagcagaaagtgtcaggccctctttgtatcagaatggaccaggcaatcatggataagaacatcatattgaaagcgaatttcagtgtgatttttgaccggctagagaccctaatattactaagggctttcaccgaagagggagcaattgttggcgaaatttcaccattgccttctcttccaggacatactaatgaggatgtcaaaaatgcaattggggtcctcatcggaggacttgaatggaatgataacacagttcgagtctctaaaactctacagagattcgcttggagaaacagtaatgagaatgggagacctccactcactccaaaacagaaacggaaaatggcgagaacaattaggtcaaaagttcgaagaaataagatggctgattgaagaagtgagacacaaattgaagataacagagaatagttttgagcaaataacatttatgcaagccttacagctgctatttgaagtggaacaagagataagaactttctcgtttcagcttatttaatgataaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

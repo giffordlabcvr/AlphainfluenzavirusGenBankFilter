@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF115295</GBSeq_locus>
+    <GBSeq_length>2151</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-JUN-2000</GBSeq_update-date>
+    <GBSeq_create-date>11-JUN-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hong Kong/486/97(H5N1)) segment 3 polymerase acidic protein (PA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF115295</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF115295.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF115295.1|</GBSeqid>
+      <GBSeqid>gi|8452853</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/486/97(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/486/97(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2151</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hiromoto,Y.</GBAuthor>
+          <GBAuthor>Yamazaki,Y.</GBAuthor>
+          <GBAuthor>Fukushima,T.</GBAuthor>
+          <GBAuthor>Saito,T.</GBAuthor>
+          <GBAuthor>Lindstrom,S.E.</GBAuthor>
+          <GBAuthor>Omoe,K.</GBAuthor>
+          <GBAuthor>Nerome,R.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Sugita,S.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolutionary characterization of the six internal genes of H5N1 human influenza A virus</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 81 (Pt 5), 1293-1303 (2000)</GBReference_journal>
+        <GBReference_pubmed>10769072</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2151</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hiromoto,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-DEC-1998) Virology I, National Institute of Infectious Diseases, 1-23-1 Toyama Shinjuku-ku, Tokyo 162-8640, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2151</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2151</GBInterval_to>
+            <GBInterval_accession>AF115295.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/486/97(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Hong Kong/486/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:107424</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..2151</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2151</GBInterval_to>
+            <GBInterval_accession>AF115295.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..2151</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2151</GBInterval_to>
+            <GBInterval_accession>AF115295.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase acidic protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF75124.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEDFVRQCFNPMIVELAEKTMKEYGEDPKIETNKFAAICTHLEVCFMYSDFHFIDERGESIIVESGDPNALLKHRFEIIEGRDRAMAWTVVNSICNTTGVDKPKFLPDLYDYKENRFTEIGVTRREVHIYYLEKANKIKSEKTHIHIFSFTGEEMATKADYTLDEESRARIKTRLFTIRQEMASRGLWDSFRQSERGEETIEERFEITGTMRRLADQSLPPNFSSLENFRAYVDGFKPNGCIEGKLSQMSKEVNARIEPFLKTTPRPLRLPDGPPCSQRSKFLLMDALKLSIEDPSHEGEGIPLYDAIKCMKTFFGWREPNIIKPHEKGINPNYLLAWKQVLAELQDIENEDKIPKTKNMKKTSQLMWALGENMAPEKVDFEDCKDIDDLKQYHSDEPELRSLASWIQNEFNKACELTDSSWIELDEIGEDVAPIEHIASMRRNYFTAEVSHCRATEYIMKGVYINTALLNASCAAMDDFQLIPMISKCRTKEGRRRTNLYGFIVKGRSHLRNDTDVVNFVSMEFSLTDPRLEPHKWEKYCVLEIGEMLLRTAIGQVSRPMFLYVRTNGTSKIKMKWGMEMRRCLLQSLQQIESMIEAESSIKEKDMTKEFFENRSETWPIGESPKGVEEGSIGKVCRTLLAKSVFNSLYSSPQLEGFSAESRKLLLIVQALRDNLEPGTFDLEGLYGAIEECLINDPWVLLNASWFNSFLTHALR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggaagactttgtgcgacaatgcttcaatccaatgattgtcgagcttgcggaaaagacaatgaaagagtatggggaagatccgaagattgaaacaaacaagttcgctgcaatatgcacacacttagaagtctgcttcatgtattcagacttccatttcattgacgaacgaggcgaatcaataattgtggaatctggtgatccgaatgcattgttgaaacaccggtttgagataattgaaggaagagaccgagcaatggcctggacagtggtgaatagcatctgcaacaccacaggagtcgataaacccaaatttcttccggatctatacgactacaaggaaaaccgattcactgaaattggtgtgacacggagggaagttcatatatattacttagagaaagctaacaagataaaatccgagaaaacacatatccacatcttctcattcactggagaagaaatggccactaaagctgactacacccttgatgaagagagcagggcaagaatcaaaaccagactattcaccataagacaggaaatggcaagcaggggtctatgggactcctttcgtcagtccgagagaggcgaagagacaattgaagaaagatttgaaatcacagggaccatgcgtaggcttgccgaccaaagtctcccacctaacttctccagccttgaaaactttagagcctatgtggatggattcaaaccgaacggctgcattgagggcaagctttctcaaatgtcgaaagaagtgaacgccagaattgagccatttctgaaaacaacaccacgtcctctcagattgcctgatggacctccctgctcccagcggtcgaaattcttgctgatggatgctctgaaattaagcattgaggacccgagccatgagggggaggggataccgctatatgatgcgatcaaatgcatgaaaacattctttggctggagagagcccaacatcatcaaaccacacgaaaaaggcataaatccaaattatctcctggcttggaagcaggtgctggcagaactccaggatattgaaaatgaggataaaatcccaaaaacaaagaacatgaagaaaacaagccaattaatgtgggcactcggagaaaatatggcaccggaaaaagtggactttgaggattgcaaagacattgacgatctgaaacagtatcacagtgatgagccagagctcagatcgctagcaagctggatccagaatgagttcaacaaggcatgtgaattgaccgattcgagctggatagaacttgatgagataggggaagatgttgccccaattgagcacattgcaagtatgagaaggaactacttcacagcggaggtgtcccattgcagggctactgagtacataatgaagggggtttacataaacacagctttgctcaatgcatcttgtgcagccatggatgacttccaactgattccaatgataagcaaatgcagaacaaaagaaggaaggaggaggacaaacctgtatgggttcattgtaaaaggaaggtcccatttgagaaatgatactgacgtggtgaactttgtgagtatggaattctcccttactgacccaaggctggagccacacaaatgggaaaagtactgtgttcttgaaataggggaaatgctcttgcggactgcaataggtcaagtgtcaaggcccatgttcctgtatgtgagaactaacggaacctcaaaaattaagatgaaatgggggatggaaatgaggcgctgccttcttcaatctcttcaacagattgagagcatgatcgaggctgagtcttctatcaaagagaaagacatgaccaaagagttctttgaaaacagatcggagacatggccaattggagagtcacctaagggagtggaggaaggctccatcgggaaggtgtgcagaaccttactagcaaaatctgtgttcaacagcctatattcatctccacaactcgaaggattttcagctgaatcgagaaaactactgctcattgttcaagcacttagggacaacctggaacctggaaccttcgatcttgaagggctatatggagcaattgaggagtgcctgattaatgatccctgggttttgcttaatgcatcttggttcaactccttcctcacacatgcactaagatag</GBSeq_sequence>
+  </GBSeq>

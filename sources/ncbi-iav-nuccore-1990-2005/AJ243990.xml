@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ243990</GBSeq_locus>
+    <GBSeq_length>2215</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>20-SEP-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (STRAIN A/FOWL PLAGUE VIRUS/ROSTOCK/34) partial mRNA for PB1 protein</GBSeq_definition>
+    <GBSeq_primary-accession>AJ243990</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ243990.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ243990.1|</GBSeqid>
+      <GBSeqid>gi|5918179</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>PB1 gene</GBKeyword>
+      <GBKeyword>PB1 protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/chicken/Rostock/8/1934(H7N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Rostock/8/1934(H7N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Naffakh,N.</GBAuthor>
+          <GBAuthor>Massin,P.</GBAuthor>
+          <GBAuthor>Escriou,N.</GBAuthor>
+          <GBAuthor>Crescenzo-Chaigne,B.</GBAuthor>
+          <GBAuthor>van der Werf,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic analysis of the compatibility between polymerase proteins from human and avian strains of influenza A viruses</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 81 (PT 5), 1283-1291 (2000)</GBReference_journal>
+        <GBReference_pubmed>10769071</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Naffakh,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-JUL-1999) Naffakh N., Unite de Genetique Moleculaire des Virus Respiratoires, Institut Pasteur, 25 Rue du Dr. Roux, 75015 Paris, FRANCE</GBReference_journal>
+        <GBReference_remark>Revised by author 23-JUL-1999</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2215</GBInterval_to>
+            <GBInterval_accession>AJ243990.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Rostock/8/1934(H7N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:392810</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;2215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2215</GBInterval_to>
+            <GBInterval_accession>AJ243990.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pb1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;2215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2215</GBInterval_to>
+            <GBInterval_accession>AJ243990.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pb1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>function</GBQualifier_name>
+            <GBQualifier_value>RNA dependent RNA polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PB1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAB56286.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q9PY91</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR007099</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q9PY91</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KVPAQNAISTTFPYTGDPPYSHGTGTGYTMDTVNRTHQYSEKGKWTANTETGAPQLNPIDGPLPEDNEPSGYAQTDCVLEAMAFLEESHPGIFENSCLETMEAVQQTRVDKLTQGRQTYDWTLNRNQPAATALANTIEVFRSNGLTANESGRLIDFLKDVMESMDKEEMEITTHFQRKRRVRDNMTKKMVTQRTIGKKKQRLNKRSYLIRALTLNTMTKDAERGKLKRRAIATPGMQIRGFVYSVETLARSICEKLEQSGLPVGGNEKKAKLANVVRKMMTNSQDTELSFTITGDNTKWNENQNPRMFLAMITYITRNQPEWFRNVLSIAPIMFSNKMARLGKGYMFESKSMKLRTQIPAEMLASIDLKYFNESTRKKIEKIRPLLIDGTASLSPGMMMGMFNMLSTVLGVSILNLGQKRYTKTTYWWDGLQSSDDFALIVNAPNHEGIQAGVDRFYRTCKLVGINMSKKKSYINRTGTFEFTSFFYRYGFVANFSMELPSFGVSGINESADMSIGVTVIKNNMINNDLGPATAQMALQLFIKDYRYTYRCHRGDTQIQTRRSFELKKLWEQTRSKAGLLVSDGGPNLYNIRNLHIPEVCLKWELMDEDYQGRLCNPLNPFVSHKEIESVNNAVVMPAHGPAKSTEYDAVATTHSWIPKRNRSILNTSQRGILEDEQMYQKCCNLFEKFFPSSSYRRPVGISSMVEAMVSRARIDARIDFESGRIKKEEFAEIMKICS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaagttccagcgcaaaatgccataagtactacattcccttacacgggagaccctccatacagccatggaacgggaacagggtacaccatggacacagttaataggacacaccaatattcagaaaaggggaaatggacagcaaacacggagactggagcaccccaactcaacccaattgatggaccactacctgaggacaatgagccaagtggatatgcacagacagactgcgtcctggaggcaatggctttccttgaagagtctcaccccggaatctttgaaaactcatgtcttgagacgatggaagctgttcagcaaacaagagtagacaaactgacccaaggtcgtcagacctatgattggacattgaacagaaaccagccggctgcaactgcattagctaacactatagaagtttttagatcgaatggtctgacagctaatgaatcagggaggctcatagatttcctcaaggatgtaatggaatcgatggataaagaggaaatggagataacaacacatttccaacgaaaaagaagagtaagagacaacatgaccaagaaaatggtcacacagaggacaatagggaagaagaagcagaggctaaataaaaggagttacctaataagagcactaacattgaacacaatgacgaaagatgcagaaagaggtaaactaaagaggcgagcaattgcaacaccaggaatgcagatcagggggtttgtgtactctgtcgaaacactggcaagaagcatctgtgaaaagcttgaacagtctgggctaccagttggagggaatgagaagaaggctaagttggcgaatgttgtaaggaagatgatgacgaactcgcaagacacagagctctctttcacaatcactggagacaataccaaatggaatgagaatcaaaatcctcggatgttcctggcaatgataacatacatcacaagaaatcaacctgaatggtttagaaacgttctaagcatcgcaccaataatgttctcaaacaaaatggcgagactagggaaggggtacatgtttgaaagcaagagtatgaagctccgaacacaaataccagcagaaatgctagcaagtattgatctaaaatacttcaatgaatcaacaagaaagaaaatcgagaaaataaggcccctcctaatagatggtaccgcctcattgagccctggaatgatgatgggcatgtttaacatgctgagcacggtattgggagtctcaattctgaatcttggacaaaagagatacaccaaaaccacatactggtgggatggacttcagtcctctgatgattttgccctcatagtgaatgcaccaaatcatgagggaatacaagcgggagtggatagattttacaggacttgcaagctagttggaatcaatatgagcaagaaaaagtcctatataaataggacagggacatttgaattcacaagctttttctaccgctatggatttgtagccaatttcagcatggagttgcccagttttggggtgtccgggattaatgaatcagctgacatgagcatcggagtaacagtaataaagaacaacatgataaacaacgatcttggaccagcaacagcccagatggctcttcaattgtttatcaaggattacagatacacatatcggtgtcacaggggagacacacaaattcagacgaggagatcattcgagctgaagaagctttgggagcaaacccgctcaaaggctgggctgttggtttcagacggaggaccaaacctatacaacattcggaatctccacattccggaagtctgtttaaagtgggaacttatggatgaagattaccagggaaggctctgcaatcccctgaatccatttgtcagtcacaaagaaattgaatctgtaaacaatgctgtagtaatgccagcccatggtccggccaagagcacggagtatgacgctgtggcaactacacactcctggattcctaagagaaatcgctccattcttaacacgagccaaaggggcattcttgaagatgaacaaatgtatcagaagtgctgcaacctattcgagaaattcttccctagcagttcatacaggaggccggttggaatttccagtatggtggaggccatggtgtctagggcccgaattgatgcacgaattgacttcgagtctggaaggattaagaaggaagagtttgctgagatcatgaaaatctgttcca</GBSeq_sequence>
+  </GBSeq>

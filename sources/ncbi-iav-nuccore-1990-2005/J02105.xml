@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANSDA</GBSeq_locus>
+    <GBSeq_length>890</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/duck/Alberta/60/1976(H12N5)) nonstructural protein NS2 and nonstructural protein NS1 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>J02105</GBSeq_primary-accession>
+    <GBSeq_accession-version>J02105.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|J02105.1|FLANSDA</GBSeqid>
+      <GBSeqid>gi|324783</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>M17071</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>nonstructural protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/duck/Alberta/60/1976(H12N5))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/duck/Alberta/60/1976(H12N5))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Baez,M.</GBAuthor>
+          <GBAuthor>Zazra,J.J.</GBAuthor>
+          <GBAuthor>Elliott,R.M.</GBAuthor>
+          <GBAuthor>Young,J.F.</GBAuthor>
+          <GBAuthor>Palese,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of the influenza A/duck/Alberta/60/76 virus NS RNA: conservation of the NS1/NS2 overlapping gene structure in a divergent influenza virus RNA segment</GBReference_title>
+        <GBReference_journal>Virology 113 (1), 397-402 (1981)</GBReference_journal>
+        <GBReference_pubmed>6927848</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Assignment of coding regions and IVS by consideration of open reading frame, consensus splice sites and comparison to non-structural protein coding region on segment 8 from strain A/pr/8/34.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..890</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>890</GBInterval_to>
+            <GBInterval_accession>J02105.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/duck/Alberta/60/1976(H12N5))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/duck/Alberta/60/1976</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H12N5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:385582</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>8</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(27..56,529..864)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>56</GBInterval_to>
+            <GBInterval_accession>J02105.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>529</GBInterval_from>
+            <GBInterval_to>864</GBInterval_to>
+            <GBInterval_accession>J02105.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein NS2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43508.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSNTITSFQDILQRMSKMQLESSSVDLNGMITQFERLKIYRDSLGESVMRMGDLHSLQSRNATWREELSQKFEEIRWLIAECRNILTKTENSFEQITFLQALQLLLEVESEIRTFSFQLI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>27..719</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>719</GBInterval_to>
+            <GBInterval_accession>J02105.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43509.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSNTITSFQVDCYLWHIRKLLSMRDMCDAPFDDRLRRDQKALKGRGSTLGLDLRVATMEGKKIVEDILKSETDENLKIAIASSPAPRYITDMSIEEISREWYMLMPRQKITGGLMVKMDQAIMDKRITLKANFSVLFDQLETLVSLRAFTDDGAIVAEISPIPSMPGHSTEDVKNAIGILIGGLEWNDNSIRASENIQRFAWGIRDENGGPPLPPKQKRYMARRVESEV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtgacaaatacataatggactccaacacgataacctcgtttcaggtagattgctatctatggcacataagaaagctgctcagcatgagagacatgtgtgatgctccctttgatgatagactcaggagagatcaaaaagcattaaaggggagaggcagcacacttgggctcgacctacgagtggctacgatggaaggcaaaaagattgttgaggacatcctaaagagtgagacggatgaaaatctcaagattgcaattgcatccagccctgctcctcggtacattactgatatgagcatagaggaaataagcagggaatggtacatgctcatgcccagacagaagataacagggggcctgatggtgaaaatggatcaggccattatggacaagaggataacactcaaagcaaatttctctgtcctattcgatcaactggagacattagtctcactgagggctttcacagatgatggcgccattgtagctgaaatatctcccattccctctatgccaggacattctacagaggatgtcaaaaatgcaattggaatcctcatcggtggacttgaatggaatgataactcaattcgagcgtctgaaaatatacagagattcgcttggggaatccgtgatgagaatgggggacctccactccctccaaagcagaaacgctacatggcgagaagagttgagtcagaagtttgaagaaatcagatggttaattgcagaatgcagaaacatactaaccaaaactgagaacagtttcgagcagataacattcttgcaagcattgcaactcttacttgaagttgagagtgagataaggacattttcttttcagcttatttagtactaaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

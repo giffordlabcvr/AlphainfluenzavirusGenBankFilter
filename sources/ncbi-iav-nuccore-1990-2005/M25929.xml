@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAPB1AF</GBSeq_locus>
+    <GBSeq_length>2341</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/equine/Tennessee/5/1986(H3N8)) PB1 polymerase subunit gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M25929</GBSeq_primary-accession>
+    <GBSeq_accession-version>M25929.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M25929.1|FLAPB1AF</GBSeqid>
+      <GBSeqid>gi|324953</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>PB1 gene</GBKeyword>
+      <GBKeyword>polymerase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/equine/Tennessee/5/1986(H3N8))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/equine/Tennessee/5/1986(H3N8))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Avian-to-human transmission of the PB1 gene of influenza A viruses in the 1957 and 1968 pandemics</GBReference_title>
+        <GBReference_journal>J. Virol. 63 (11), 4603-4608 (1989)</GBReference_journal>
+        <GBReference_pubmed>2795713</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Draft entry and computer readable sequence kindly submitted by Y.Kawaoka, 06-JUL-1989 for release after publication.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2341</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2341</GBInterval_to>
+            <GBInterval_accession>M25929.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/equine/Tennessee/5/1986(H3N8))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/equine/Tennessee/5/1986</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380339</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>25..2298</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>25</GBInterval_from>
+            <GBInterval_to>2298</GBInterval_to>
+            <GBInterval_accession>M25929.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PB1 polymerase subunit</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43638.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDVNPTLLFLKVPAQNAISTTFPYTGDPPYSHGTGTGYTMDTVNRTHQYSEKGKWTTNTEIGAPQLNPIDGPLPEDNEPSGYAQTDCVLEAMAFLEESHPGIFENSCLETMEVVQQTRVDKLTQGRQTYDWTLNRNQPAATALANTIEVFRSNDLTSNESGRLMDFLKDVMESMNKEEMEITTHFQRKRRVRDNMTKKMVTQRTIGKKKQRLNRKSYLIRALTLNTMTKDAERGKLKRRAIATPGMQIRGFVYFVETLARRICEKLEQSGLPVGGNEKKAKLANVVRKMMTNSQDTELSFTITGDNTKWNENQNPRMFLAMITYITRNQPEWFRNVLSIAPIMFSNKMARLGKGYMFESKSMKLRTQIPAGMLASIDLKYFNDSTKKKIEKIRPLLVDGTASLSPGMMMGMFNMLSTVLGVSILNLGQRKYTKTTYWWDGLQSSDDFALIVNAPNHEGIQAGVDRFYRTCKLVGINMSKKKSYINRTGTFEFTSFFYRYGFVANFSMELPSFGVSGINESADMSIGVTVIKNNMINNDLGPATAQMALQLFIKDYRYTYRCHRGDTQIQTRRSFELKKLWEQTRSKTGLLVSDGGPNLYNIRNLHIPEVCLKWELMDEDYKGRLCNPLNPFVSHKEIESVNSAVVMPAHGPAKSMEYDAVATTHSWIPKRNRSILNTSQRGILEDEQMYQKCCNLFEKFFPSSSYRRPVGISSMVEAMVSRARIDARIDFESGRIKKEEFAEIMKICSTIEELRRQK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggcaaactatttgaatggatgtcaatccgactctactcttcttaaaggtgccagcgcaaaatgctataagcacaacattcccttatactggagatcctccctacagtcatggaacagggacaggatacaccatggatactgtcaacagaacacaccaatactcagaaaaggggaaatggacaacaaacactgagattggagcaccacaacttaatccaatcgatggaccgcttcctgaagacaatgaaccaagcgggtacgcccaaacagattgtgtattggaagcaatggctttccttgaagaatcccatcccggaatctttgaaaattcgtgtcttgaaacgatggaggtggttcagcagacaagagtggacaaactaacacaaggccgacaaacttacgattggaccttgaataggaatcaacctgccgcaacagcacttgctaatacaattgaagtgttcagatcaaatgatctgacttccaatgagtcagggagattaatggacttcctcaaagatgtcatggagtccatgaacaaggaagaaatggaaataacaacacacttccaacggaagagaagagtaagagacaacatgacaaagaaaatggtgacacagagaaccatagggaagaaaaaacaacgattgaacagaaagagctatctgatcagggcattaaccctgaacacaatgaccaaggacgctgagagagggaaattgaaacgacgagcaattgcaaccccaggaatgcagataagagggtttgtatattttgttgaaacattagcccgaagaatatgtgaaaagcttgaacaatcaggattgccagttggcggtaatgagaaaaaggccaaactggctaatgtcgtcagaaaaatgatgactaattcccaagacactgaactctccttcaccatcactggggacaataccaaatggaatgaaaatcagaacccacgcatgttcctggcaatgatcacatacataactagaaaccagccagaatggttcagaaatgttctaagcattgcaccgattatgttctcaaataaaatggcaagactggggaaaggatatatgtttgaaagcaaaagtatgaaattgagaactcagataccagcaggaatgctcgcaagcattgatctgaaatatttcaatgactcaacaaaaaagaaaattgagaagatacgaccacttctggtcgatgggactgcttcactgagtcctggcatgatgatgggaatgttcaacatgttgagcactgtactaggtgtatccatattaaacctaggccagaggaaatacacaaagaccacatactggtgggatggtctgcaatcatccgatgattttgctttgatagtgaatgcgcccaatcatgaaggaatacaggctggagtagacagattctataggacttgcaaactggtcgggatcaacatgagcaaaaagaagtcctacataaatagaaccggcacattcgaattcacaagctttttctaccggtatggttttgtcgccaatttcagcatggagctacccagttttggggtttccgggataaatgaatctgcagacatgagcattggagtgacagtcatcaaaaacaacatgataaataatgatctcggtcccgccacggcacaaatggcactccaactcttcattaaggattatcggtacacataccggtgccatagaggcgatacccagatacaaaccagaagatcttttgagttgaagaaactgtgggaacagactcgatcaaagactggtctactggtatcagatgggggtccaaacctatacaacatcagaaacctacacatcccggaagtctgtttgaaatgggagctgatggatgaagattataaggggaggctatgtaatccattgaatcctttcgttagccacaaagaaattgaatcagtgaacagtgcagtagtaatgcctgcgcatggccctgccaaaagcatggagtatgatgctgttgcaacaacacactcttggatccccaagagaaaccggtccatactgaacacgagccaaaggggaatactcgaagatgagcagatgtatcagaaatgctgcaacctgtttgaaaaattcttccccagcagctcatacagaagaccagtcggaatttctagtatggttgaggccatggtgtccagggcccgcattgatgcacggattgacttcgaatctggacggataaagaaggaggagttcgctgagatcatgaaaatctgttccaccattgaagagctcagacggcaaaaatagtgaatttagcttgatcttcgtgaaaaaatgccttgtttctact</GBSeq_sequence>
+  </GBSeq>

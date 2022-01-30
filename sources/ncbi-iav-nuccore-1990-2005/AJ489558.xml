@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ489558</GBSeq_locus>
+    <GBSeq_length>698</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-JAN-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/England/97/02(H1N2)) partial NS gene for nonstructural protein 1, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ489558</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ489558.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ489558.1|</GBSeqid>
+      <GBSeqid>gi|27526924</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nonstructural protein 1</GBKeyword>
+      <GBKeyword>NS gene</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/England/97/02(H1N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/England/97/02(H1N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..698</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ellis,J.S.</GBAuthor>
+          <GBAuthor>Alvarez-Aguero,A.</GBAuthor>
+          <GBAuthor>Gregory,V.</GBAuthor>
+          <GBAuthor>Lin,Y.P.</GBAuthor>
+          <GBAuthor>Hay,A.</GBAuthor>
+          <GBAuthor>Zambon,M.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza AH1N2 viruses, United Kingdom, 2001-02 influenza season</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 9 (3), 304-310 (2003)</GBReference_journal>
+        <GBReference_pubmed>12643824</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..698</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ellis,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-JUN-2002) Ellis J.S., Respiratory Virus Unit, Central Public Health Laboratory, 61 Colindale Avenue, Colindale, London, UNITED KINGDOM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..698</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>698</GBInterval_to>
+            <GBInterval_accession>AJ489558.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/England/97/02(H1N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/England/97/02(H1N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:198067</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>allantoic fluid</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>United Kingdom</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..574</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>574</GBInterval_to>
+            <GBInterval_accession>AJ489558.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..574</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>574</GBInterval_to>
+            <GBInterval_accession>AJ489558.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD33897.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8B3C8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HSSP:1NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000256</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR009068</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q8B3C8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RSLRGRGNTLGLDIKAATHVGKQIVEKILKEESDEALKMTMVSTPASRYITDMTIEELSRNWFMLMPKQKVEGPLCIRMDQAIMEKNIMLKANFSVIFDRLETIVLLRAFTEEGAIVGEISPLPSFPGHTIEDVKNAIGVLIGGLEWNDNTVRVSKNLQRFAWRSSNENGGPPLTTKQKRKMARTARSKV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>regulatory</GBFeature_key>
+        <GBFeature_location>572..574</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>572</GBInterval_from>
+            <GBInterval_to>574</GBInterval_to>
+            <GBInterval_accession>AJ489558.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>regulatory_class</GBQualifier_name>
+            <GBQualifier_value>terminator</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaggtccctaaggggaagaggcaacactctcggtctagacatcaaagcagccacccatgttggaaagcaaattgtagaaaagattctgaaagaagaatctgatgaggcacttaaaatgaccatggtctccacacctgcttcgcgatacataactgacatgactattgaggaattgtcaagaaactggttcatgctaatgcccaagcagaaagtggaaggacctctttgcatcagaatggaccaggcaatcatggagaaaaacatcatgttgaaagcgaatttcagtgtgatctttgaccgactagagaccatagtattactaagggctttcaccgaagagggagcaattgttggcgaaatctcaccattgccttcttttccaggacatactattgaggatgtcaaaaatgcaattggggtcctcatcggaggacttgaatggaatgataacacagttcgagtctctaaaaatctacagagattcgcttggagaagcagtaatgagaatgggggacctccacttactacaaaacagaaacggaaaatggcgagaacagctaggtcaaaagtttgaagagataagatggctgattgaagaagtgagacacagactaaaaacaactgaaaatagctttgagcaaataacattcatgcaagcattacagctgctgtttgaagtggaacaggagataagaact</GBSeq_sequence>
+  </GBSeq>

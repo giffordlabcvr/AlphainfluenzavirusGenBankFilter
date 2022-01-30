@@ -1,13 +1,13 @@
-delete project betainfluenza_filter
+delete project alphainfluenza_filter
 
-create project betainfluenza_filter "GLUE project for filtering alphainfluenzavirus data" --minVersion 1.1.41
+create project alphainfluenza_filter "GLUE project for filtering alphainfluenzavirus data" --minVersion 1.1.41
 
-schema-project betainfluenza_filter
+schema-project alphainfluenza_filter
 
   run file glue/fluSchemaExtensions.glue
   exit
 
-project betainfluenza_filter
+project alphainfluenza_filter
 
   # Create extension modules  
   run file glue/fluModules.glue

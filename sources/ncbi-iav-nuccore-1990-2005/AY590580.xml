@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY590580</GBSeq_locus>
+    <GBSeq_length>825</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>18-APR-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1)) nonstructural protein NS1 and nonstructural protein NS2 (NS) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY590580</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY590580.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY590580.2|</GBSeqid>
+      <GBSeqid>gi|51094105</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..825</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Viseshakul,N.</GBAuthor>
+          <GBAuthor>Thanawongnuwech,R.</GBAuthor>
+          <GBAuthor>Amonsin,A.</GBAuthor>
+          <GBAuthor>Suradhat,S.</GBAuthor>
+          <GBAuthor>Payungporn,S.</GBAuthor>
+          <GBAuthor>Keawchareon,J.</GBAuthor>
+          <GBAuthor>Oraveerakul,K.</GBAuthor>
+          <GBAuthor>Wongyanin,P.</GBAuthor>
+          <GBAuthor>Plitkul,S.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The genome sequence analysis of H5N1 avian influenza A virus isolated from the outbreak among poultry populations in Thailand</GBReference_title>
+        <GBReference_journal>Virology 328 (2), 169-176 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.virol.2004.06.045</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15464837</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..825</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Payungporn,S.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+          <GBAuthor>Thongmee,C.</GBAuthor>
+          <GBAuthor>Chutinimitkul,S.</GBAuthor>
+          <GBAuthor>Pakdeeviroj,P.</GBAuthor>
+          <GBAuthor>Viseshakul,N.</GBAuthor>
+          <GBAuthor>Oraveerakul,K.</GBAuthor>
+          <GBAuthor>Kaewcharoen,J.</GBAuthor>
+          <GBAuthor>Suradhat,S.</GBAuthor>
+          <GBAuthor>Thanawongnuwech,R.</GBAuthor>
+          <GBAuthor>Amonsin,A.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-FEB-2004) Pediatric Department, Chulalongkorn University, Rama 4, Pratumwan, Bangkok 10330, Thailand</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..825</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Payungporn,S.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+          <GBAuthor>Thongmee,C.</GBAuthor>
+          <GBAuthor>Chutinimitkul,S.</GBAuthor>
+          <GBAuthor>Pakdeeviroj,P.</GBAuthor>
+          <GBAuthor>Viseshakul,N.</GBAuthor>
+          <GBAuthor>Oraveerakul,K.</GBAuthor>
+          <GBAuthor>Kaewcharoen,J.</GBAuthor>
+          <GBAuthor>Suradhat,S.</GBAuthor>
+          <GBAuthor>Thanawongnuwech,R.</GBAuthor>
+          <GBAuthor>Amonsin,A.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-JUL-2004) Pediatric Department, Chulalongkorn University, Rama 4, Pratumwan, Bangkok 10330, Thailand</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Aug 10, 2004 this sequence version replaced AY590580.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..825</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>825</GBInterval_to>
+            <GBInterval_accession>AY590580.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/chicken/Nakorn-Patom/Thailand/CU-K2/2004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:270485</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..823</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>823</GBInterval_to>
+            <GBInterval_accession>AY590580.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..678</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>678</GBInterval_to>
+            <GBInterval_accession>AY590580.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAS89188.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRAGKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMDKTIILKGNFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGLEWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;488..823</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>488</GBInterval_from>
+            <GBInterval_to>823</GBInterval_to>
+            <GBInterval_accession>AY590580.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein NS2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAS89189.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQIRNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQLI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggattccaacactgtgtcaagctttcaggtagactgctttctttggcatgtccgcaaacgatttgcagaccaagaactgggtgatgccccattccttgaccggcttcgccgagatcagaagtccctaagaggaagaggcaacactcttggtctggacatcgaaacagctactcgcgcaggaaagcagatagtggagcggattctggaggaggagtctgataaggcacttaaaatgccggcttcacgctacctaactgacatgactctcgaagaaatgtcaagggactggttcatgctcatgcccaagcagaaagtggcaggttccctttgcatcaaaatggaccaggcaataatggataaaaccatcatattgaaaggcaacttcagtgtgatttttgaccggttggaaaccctaatactacttagagctttcacagaagaaggagcaatcgtgggagaaatctcaccattaccttctcttccaggacatactggtgaggatgtcaaaaatgcaattggcgtcctcatcggaggacttgaatggaatgataacacagttcgagtcactgaaactatacagagattcgcttggagaagcagtgatgaggatgggagacttccactccctccaaatcagaaacggaaaatggcgagaacaattgagtcagaagtttgaagaaataaggtggctgattgaagaagtaagacatagattgaaaattacagaaaacagcttcgaacagataacgtttatgcaagccttacaactactgcttgaagtggagcaagagataagagccttctcgtttcagcttatttaatg</GBSeq_sequence>
+  </GBSeq>

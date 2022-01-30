@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAMS84HA</GBSeq_locus>
+    <GBSeq_length>1727</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Germany/N/1949(H10N7)) hemagglutinin precursor, gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M21647</GBSeq_primary-accession>
+    <GBSeq_accession-version>M21647.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M21647.1|FLAMS84HA</GBSeqid>
+      <GBSeqid>gi|324365</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/chicken/Germany/N/1949(H10N7))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Germany/N/1949(H10N7))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1727</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Feldmann,H.</GBAuthor>
+          <GBAuthor>Kretzschmar,E.</GBAuthor>
+          <GBAuthor>Klingeborn,B.</GBAuthor>
+          <GBAuthor>Rott,R.</GBAuthor>
+          <GBAuthor>Klenk,H.D.</GBAuthor>
+          <GBAuthor>Garten,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The structure of serotype H10 hemagglutinin of influenza A virus: comparison of an apathogenic avian and a mammalian strain pathogenic for mink</GBReference_title>
+        <GBReference_journal>Virology 165 (2), 428-437 (1988)</GBReference_journal>
+        <GBReference_pubmed>3407149</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>The sequence reported here is the + strand.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1727</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1727</GBInterval_to>
+            <GBInterval_accession>M21647.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Germany/N/1949(H10N7))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/chicken/Germany/N/1949</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H10N7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>birds</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382838</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passed in embryonated chicken eggs (11 day)</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1705</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1705</GBInterval_to>
+            <GBInterval_accession>M21647.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA79775.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MYKVVVIIALLGAVKGLDRICLGHHAVANGTIVKTLTNEQEEVTNATETVESTNLNKLCMKGRSYKDLGNCHPVGMLIGTPVCDPHLTGTWDTLIERENAIAHCYPGATINEEALRQKIMESGGISKMSTGFTYGSSITSAGTTKACMRNGGDSFYAELKWLVSKTKGQNFPQTTNTYRNTDTAEHLIIWGIHHPSSTQEKNDLYGTQSLSISVESSTYQNNFVPVVGARPQVNGQSGRIDFHWTLVQPGDNITFSDNGGLIAPSRVSKLTGRDLGIQSEALIDNSCESKCFWRGGSINTKLPFQNLSPRTVGQCPKYVNQRSLLLATGMRNVPEVVQGRGLFGAIAGFIENGWEGMVDGWYGFRHQNAQGTGQAADYKSTQAAIDQITGKLNRLIEKTNTEFESIESEFSETEHQIGNVINWTKDSITDIWTYNAELLVAMENQHTIDMADSEMLNLYERVRKQLRQNAEEDGKGCFEIYHTCDDSCMESIRNNTYDHSQYREEALLNRLNINPVKLSSGYKDIILWFSFGESCFVLLAVVMGLVFFCLKNGNMRCTICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>20..67</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>67</GBInterval_to>
+            <GBInterval_accession>M21647.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin signal peptide</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MYKVVVIIALLGAVKG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>68..1036</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>68</GBInterval_from>
+            <GBInterval_to>1036</GBInterval_to>
+            <GBInterval_accession>M21647.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin 1 (HA1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>LDRICLGHHAVANGTIVKTLTNEQEEVTNATETVESTNLNKLCMKGRSYKDLGNCHPVGMLIGTPVCDPHLTGTWDTLIERENAIAHCYPGATINEEALRQKIMESGGISKMSTGFTYGSSITSAGTTKACMRNGGDSFYAELKWLVSKTKGQNFPQTTNTYRNTDTAEHLIIWGIHHPSSTQEKNDLYGTQSLSISVESSTYQNNFVPVVGARPQVNGQSGRIDFHWTLVQPGDNITFSDNGGLIAPSRVSKLTGRDLGIQSEALIDNSCESKCFWRGGSINTKLPFQNLSPRTVGQCPKYVNQRSLLLATGMRNVPEVVQG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1040..1702</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1040</GBInterval_from>
+            <GBInterval_to>1702</GBInterval_to>
+            <GBInterval_accession>M21647.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin 2 (HA2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GLFGAIAGFIENGWEGMVDGWYGFRHQNAQGTGQAADYKSTQAAIDQITGKLNRLIEKTNTEFESIESEFSETEHQIGNVINWTKDSITDIWTYNAELLVAMENQHTIDMADSEMLNLYERVRKQLRQNAEEDGKGCFEIYHTCDDSCMESIRNNTYDHSQYREEALLNRLNINPVKLSSGYKDIILWFSFGESCFVLLAVVMGLVFFCLKNGNMRCTICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggtcacaatgtacaaagtagtagtaataattgcgctccttggagcagtgaaaggtcttgacagaatctgcctaggacaccatgcggttgccaatggaaccattgtgaagacccttacaaatgaacaagaggaagtgaccaatgctactgagacggtagagagcacaaatttgaataaattgtgtatgaaaggaagaagctacaaggacttgggcaattgtcacccggtaggaatgttgataggaacacctgtttgtgatccgcacttgaccgggacctgggacactctcattgagcgagagaatgccattgcccactgttatccaggggcaaccataaatgaagaagcattgaggcagaaaataatggaaagtggaggaatcagcaagatgagcactggcttcacttatgggtcttccatcacctcagctgggaccactaaggcatgcatgagaaatggaggagatagtttctatgcagagctcaaatggctagtgtcaaagacaaagggacaaaatttccctcagacaacaaacacctatcggaatacggacacagcagaacatctcataatatggggaattcatcacccttccagcacacaggaaaagaatgacttatacggaactcagtcactatctatatcagttgagagttctacatatcagaacaactttgttccagttgttggggcaagacctcaggtcaatggacaaagtgggcgaattgactttcactggacactagtacagccgggtgacaacataaccttctcagacaatggaggtctaatagcaccaagtcgagttagcaaattaactggaagggatttgggaatccaatcagaagcgttgatagacaacagttgtgaatccaaatgcttttggagagggggttctataaatacaaagctcccttttcaaaatctgtcacccagaacagtaggtcaatgccccaaatacgtaaatcagaggagtttactgcttgcaacagggatgaggaatgtgccagaagtggtgcagggaaggggtctgtttggtgcaatagcagggttcatagaaaacggatgggaaggaatggtagacggctggtatggtttcagacaccaaaatgcccagggcacaggccaagctgctgattacaagagtactcaagcagctattgaccaaatcacagggaaactgaacaggttgattgagaagaccaacactgagtttgagtcaatagaatctgaattcagtgagactgagcatcaaattggtaacgtcattaattggaccaaagattcaataaccgacatttggacttacaacgcagagctattagtggcaatggagaatcagcacacaattgacatggctgattcagagatgctaaatctgtatgaaagggtaagaaagcaactcagacagaatgcagaagaagacggaaagggatgttttgagatatatcatacttgtgatgattcgtgcatggagagtataaggaacaatacttatgaccattcacaatacagagaggaggctcttctgaatagactgaacatcaacccagtgaaactttcttcggggtacaaagacatcatactttggtttagcttcggggaatcatgctttgttcttctagccgttgttatgggtcttgttttcttctgcctgaaaaatggaaacatgcgatgcacaatctgtatttagttaaaaacaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

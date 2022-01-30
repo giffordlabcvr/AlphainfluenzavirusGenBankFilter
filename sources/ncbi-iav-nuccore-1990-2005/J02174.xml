@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLADL2M</GBSeq_locus>
+    <GBSeq_length>683</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-JUN-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/WSN/1933(H1N1)) defective interfering l2b, cdna</GBSeq_definition>
+    <GBSeq_primary-accession>J02174</GBSeq_primary-accession>
+    <GBSeq_accession-version>J02174.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|J02174.1|FLADL2M</GBSeqid>
+      <GBSeqid>gi|323992</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/WSN/1933(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/WSN/1933(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nayak,D.P.</GBAuthor>
+          <GBAuthor>Sivasubramanian,N.</GBAuthor>
+          <GBAuthor>Davis,A.R.</GBAuthor>
+          <GBAuthor>Cortini,R.</GBAuthor>
+          <GBAuthor>Sung,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Complete sequence analyses show that two defective interfering influenza viral RNAs contain a single internal deletion of a polymerase gene</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 79 (7), 2216-2220 (1982)</GBReference_journal>
+        <GBReference_pubmed>6954536</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>'defective interfering' in definition stands for defective interfering (di) viral RNA. Bases 1-270 (region a) on l2b are identical to bases 1-270 on polymerase 1 segment cDNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>683</GBInterval_to>
+            <GBInterval_accession>J02174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/WSN/1933(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/WSN/1933</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382835</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1</GBInterval_point>
+            <GBInterval_accession>J02174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>homology region a start; putative</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>683</GBInterval_point>
+            <GBInterval_accession>J02174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>homology region b end; putative</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcgaaagcaggcaaaccatttgaatggatgtcaatccgactttacttttcttaaaagtgccagcacaaaatgctataagcacaactttcccttatactggagaccctccttacagccatgggacaggaacaggatacaccatggatactgtcaacaggacacatcagtactcagaaaggggaagatggacaacaaacaccgaaactggagcaccgcaactcaacccgattgatgggccactgccagaagacaatgaaccaagtggttatagacattgaatcagtgaacaatgcagtgataatgccagcacatggtccagccaaaaacatggagtatgatgctgttgcaacaacacactcctggatccccaaaagaaatcgatccatcttgaatacaagccaaagaggaatacttgaagatgaacaaatgtaccaaaagtgctgcaacttatttgaaaaattcttccccagcagttcatacagaagaccagtcgggatatccagtatggtggaggctatggtttccagagcccgaattgatgcacgaattgatttcgaatctggaaggataaagaaagaggagttcactgagatcatgaagatctgttccaccattgaagagctcagacggcaaaaatagtgaatttagcttgtccttcatgaaaaaatgccttgtttctact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IAU03719</GBSeq_locus>
+    <GBSeq_length>1078</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>16-FEB-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/swine/QC91(H1)) hemagglutinin (HA) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U03719</GBSeq_primary-accession>
+    <GBSeq_accession-version>U03719.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U03719.1|IAU03719</GBSeqid>
+      <GBSeqid>gi|455068</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/swine/QC91(H1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/swine/QC91(H1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..350</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rekik,M.R.</GBAuthor>
+          <GBAuthor>Arora,D.J.</GBAuthor>
+          <GBAuthor>Dea,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic variation in swine influenza virus A isolate associated with proliferative and necrotizing pneumonia in pigs</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. 32 (2), 515-518 (1994)</GBReference_journal>
+        <GBReference_pubmed>7545918</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1078</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dea,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-NOV-1993) Serge Dea, Centre De Recherche En Virologie, Institut Armand Frappier, 531 Boul. Des Prairies, Laval, Quebec, H7N 4Z3, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1078</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1078</GBInterval_to>
+            <GBInterval_accession>U03719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/swine/QC91(H1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/swine/QC91</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380281</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>North American swine influenza virus A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1078</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1078</GBInterval_to>
+            <GBInterval_accession>U03719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..&gt;1078</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>1078</GBInterval_to>
+            <GBInterval_accession>U03719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC53845.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAILLVLLYTLTAANADTLCIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDKHNGKLCKLGGIAPLHLGKCNIAGWLLGNPECELLFTVSSWSYIVETSNSDNGTCYPGDFIDYEELREQLSSVSSFERFEIFPKESSWPNHETNRGVTAACPYAGANSFYRNLIWLVKKGNSYPKLSKSYVNNKGKEVLVLWGIHHPPTSNDQQSLYQNADTYVFVGSSKFNRKFKPEIATRPKVRNQAGRMNYYWTLVEPGDTITFEATGNLVVPRYAFAMKRGSGSGIIISDTPIHDCDTTCQTPKGAINTSLPFQNIHPVTIGECPKYVKSTKLRMATGLRNIPSIQSRGLFGAIA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcaggggaaaataaaagccaccaagatgaaggcaatactattagtcttgctatatacacttacagccgcaaatgcagacacactatgtataggttatcatgcaaataattcaactgacactgttgatacagtactagaaaagaatgtaacagtaacacactctgttaaccttctagaagacaaacataacggaaaactatgtaaactagggggaatagccccattgcacttgggtaaatgtaacattgctggatggcttttgggaaatccagaatgtgaattactattcacagtaagctcatggtcttacattgtggaaacatctaactcagacaatgggacatgctacccaggagatttcatcgattatgaggagctgagagagcagttgagctcagtatcatcatttgaaagatttgagatattccccaaggaaagttcatggcccaatcatgaaacaaacagaggtgtgacggcagcatgcccttatgctggagcaaacagcttctacagaaatttaatctggctggtgaaaaaaggaaattcatacccaaagctcagcaaatcctatgttaacaataaggggaaggaagtccttgttctatggggcattcaccatccacctaccagtaatgatcaacaaagtctctaccagaatgcagatacctatgtttttgtggggtcatcaaagtttaacaggaaattcaagccagaaatagcaacaagacccaaggtgagaaatcaagcagggagaatgaactattactggacactagtagagcctggagacacaataacattcgaagcaactggaaacctagtggtaccaagatatgccttcgcaatgaaaagaggttctggatctggtattataatttcagatacaccaatccacgattgtgatacgacttgtcaaacacccaaaggtgctataaacaccagcctcccatttcagaatatacatccagtcacaattggagaatgtccaaaatatgtcaaaagcacaaaattgagaatggctacaggactaaggaatatcccgtctattcaatctagaggtctgtttggagccattgct</GBSeq_sequence>
+  </GBSeq>

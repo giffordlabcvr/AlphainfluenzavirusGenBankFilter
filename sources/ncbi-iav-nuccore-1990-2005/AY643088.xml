@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY643088</GBSeq_locus>
+    <GBSeq_length>1404</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>05-JUL-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Japan/305/57(H2N2)) neuraminidase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY643088</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY643088.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY643088.1|</GBSeqid>
+      <GBSeqid>gi|49473494</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Japan/305/1957(H2N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Japan/305/1957(H2N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1404</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ison,M.G.</GBAuthor>
+          <GBAuthor>Mishin,V.P.</GBAuthor>
+          <GBAuthor>Braciale,T.J.</GBAuthor>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparative activities of oseltamivir and A-322278 in immunocompetent and immunocompromised murine models of influenza virus infection</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. 193 (6), 765-772 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1086/500464</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16479509</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1404</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ison,M.G.</GBAuthor>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+          <GBAuthor>Mishin,V.P.</GBAuthor>
+          <GBAuthor>Braciale,T.J.</GBAuthor>
+          <GBAuthor>Hayden,F.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza Infected Mice Shed Resistant Virus When Treated with Oseltamivir or ABT-315675</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1404</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gubareva,L.V.</GBAuthor>
+          <GBAuthor>Mishin,V.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-JUN-2004) Internal Medicine, University of Virginia, 1300 Jefferson Park Ave., rm 2231, Charlottesville, VA 22908, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1404</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1404</GBInterval_to>
+            <GBInterval_accession>AY643088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Japan/305/1957(H2N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Japan/305/57(H2N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>mouse adapted</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:387161</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1392</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1392</GBInterval_to>
+            <GBInterval_accession>AY643088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>glycoprotein; sialidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAT66419.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>IITIGSVSLTIATVCFLMQIAILATTVTLHFKQHKCDSPASNQVMPCEPIIIERNITEIVYLNNTTIEKEICPEVVEYRNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNGTIHDRIPHRTLLMNELGVPFHLGTKQVCVAWSSSSCHDGKAWLHVCVTGDDRNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVVMTDGSASGRADTRILFIKEGKIVHIGPLSGSAQHIEECSCYPRYPDVRCICRDNWKGSNRPVIDINMEDYSIDSSYVCSGLVGDTPRNDDSSSNSNCRDPNNERGNPGVKGWAFDNGDDVWMGRTISKDLRSGYETFKVIGGWSTPNSKSQVNRQVIVDNNNWSGYSGIFSVEGKSCINRCFYVELIRGRPQETRVWWTSNSIVVFCGTSGTYGTGSWPDGANTNFMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ataataacaattggctctgtctctctcaccattgcaacagtatgcttcctcatgcagattgccatcctggcaactactgtgacattgcattttaagcaacataagtgcgactcccccgcgagcaaccaagtaatgccatgtgaaccaataataatagaaaggaacataacagagatagtgtatttgaataacaccaccatagagaaagagatttgccccgaagtagtggaatacagaaattggtcaaagccgcaatgtcaaattacaggatttgcacctttttctaaggacaattcaatccggctttctgctggtggggacatttgggtgacgagagaaccttatgtgtcatgcgatcctggcaagtgttatcaatttgcactcgggcaggggaccacactagacaacaaacattcaaatggcacaatacatgatagaatccctcatcgaaccctattaatgaatgagttgggtgttccatttcatttaggaaccaaacaagtgtgtgtagcatggtccagctcaagttgtcacgatggaaaagcatggttgcatgtttgtgtcactggggatgatagaaatgcaactgctagcttcatttatgacgggaggcttgtggacagtattggttcatggtctcaaaatatcctcaggacccaggagtcggaatgcgtttgtatcaatgggacttgcacagtagtaatgactgatggaagtgcatcaggaagagccgatactagaatactattcattaaagaggggaaaattgtccatattggcccattgtcaggaagtgctcagcatatagaggagtgttcttgttaccctcgatatcctgacgtcagatgtatttgcagagacaactggaaaggctctaataggcccgttatagacataaatatggaagattatagcattgattccagttatgtgtgctcagggcttgttggcgatacacccaggaacgacgacagctctagcaatagcaattgcagggatcctaacaatgagagagggaatccaggagtgaaaggctgggcctttgacaatggagatgatgtatggatgggaagaacaatcagcaaagatttacgctcaggttatgaaactttcaaagtcattggtggttggtccacacctaattccaaatcgcaggtcaatagacaggtcatagttgacaacaataattggtctggttactctggtattttctctgttgagggcaaaagctgcatcaataggtgcttttatgtggagttgataaggggaaggccacaggagactagagtatggtggacctcaaacagtattgttgtgttttgtggcacttcaggtacttatggaacaggctcatggcctgatggggcgaacaccaatttcatgcctatataagctttcgcaatt</GBSeq_sequence>
+  </GBSeq>

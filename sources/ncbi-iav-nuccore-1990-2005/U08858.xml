@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IVU08858</GBSeq_locus>
+    <GBSeq_length>1685</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus A/Philippines/2/82 (H3N2) hemagglutinins HA1 and HA2 precursor gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U08858</GBSeq_primary-accession>
+    <GBSeq_accession-version>U08858.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U08858.1|IVU08858</GBSeqid>
+      <GBSeqid>gi|497235</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Philippines/2/1982(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Philippines/2/1982(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1685</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nakajima,S.</GBAuthor>
+          <GBAuthor>Takeuchi,Y.</GBAuthor>
+          <GBAuthor>Nakajima,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Location on the evolutionary tree of influenza H3 haemagglutinin genes of Japanese strains isolated during 1985-6 season</GBReference_title>
+        <GBReference_journal>Epidemiol. Infect. 100 (2), 301-310 (1988)</GBReference_journal>
+        <GBReference_pubmed>3356226</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1685</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hartley,C.A.</GBAuthor>
+          <GBAuthor>Ward,A.C.</GBAuthor>
+          <GBAuthor>Anders,E.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Virulence of influenza virus for mice is associated with loss of oligosaccharide from the hemagglutinin molecule</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1685</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ward,A.,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-APR-1994) Ward A. C., Biomolecular Research Institute, Virology, 343 Royal Parade, Parkville, Victoria, Australia, 3052</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1685</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1685</GBInterval_to>
+            <GBInterval_accession>U08858.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Philippines/2/1982(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Philippines/2/1982</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382825</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1653</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1653</GBInterval_to>
+            <GBInterval_accession>U08858.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinins HA1 and HA2 precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA18781.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>QNLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHRILDGKNCTLIDALLGDPHCDGFQNEKWDLFVERSKAFSNCYPYDVPDYASLRSLVASSGTLEFINEGFNWTGVTQSGGSYTCKRGSNNSFFSRLNWLYESESKYPVLNVTMPNNGKFDKLYIWGIHHPSTDKEQTNLYIRASGRVTVSTKRSQQTVIPNIGSRPWVRGLSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRTGKSSIMRSDAPIGTCSSECITPNGSIPNDKPFQNVNKITYGACPRYVKQNTLKLATGMRNVPEKQTRGIFGAIAGFIENGWEGMIDGWYGFRHQNSEGTGQAADLKSTQAAIDQINGKLNRVIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTRKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQKGNIRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1..984</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>984</GBInterval_to>
+            <GBInterval_accession>U08858.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>QNLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHRILDGKNCTLIDALLGDPHCDGFQNEKWDLFVERSKAFSNCYPYDVPDYASLRSLVASSGTLEFINEGFNWTGVTQSGGSYTCKRGSNNSFFSRLNWLYESESKYPVLNVTMPNNGKFDKLYIWGIHHPSTDKEQTNLYIRASGRVTVSTKRSQQTVIPNIGSRPWVRGLSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRTGKSSIMRSDAPIGTCSSECITPNGSIPNDKPFQNVNKITYGACPRYVKQNTLKLATGMRNVPEKQT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>988..1650</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>988</GBInterval_from>
+            <GBInterval_to>1650</GBInterval_to>
+            <GBInterval_accession>U08858.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HA2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GIFGAIAGFIENGWEGMIDGWYGFRHQNSEGTGQAADLKSTQAAIDQINGKLNRVIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTRKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQKGNIRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaaccttcccggaaatgacaacagcacagcaacgctgtgcctgggacatcatgcagtgccaaacggaacgctagtgaaaacaatcacgaatgatcagattgaagtgactaatgctactgagctggttcagagttcctcaacaggtaggatatgcgacagtcctcaccgaatccttgatgggaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggcttccaaaatgagaaatgggacctttttgttgaacgcagcaaagctttcagcaactgttacccttatgatgtgccagattatgcctcccttaggtcactagttgcctcatcaggcaccctggagtttatcaatgaaggcttcaattggactggagtcactcagagtgggggaagctatacttgcaaaaggggatctaataacagtttcttcagtagactgaactggttgtacgaatcagaaagcaaatatccagtgctgaacgtgactatgccaaacaatggcaaatttgacaaattgtacatttgggggattcaccacccgagcacggacaaagaacaaaccaacctatatattcgagcatcagggagagtcacagtctctaccaagagaagccagcaaactgtaatcccgaatatcgggtctagaccctgggtaaggggtctgtctagtagaataagtatctattggacaatagtaaaaccgggagacatactgttaattaatagcactgggaacctaattgctcctcggggttacttcaaaatacgcactgggaaaagctcaataatgaggtcagatgcacctattggcacctgcagttctgaatgcatcactccaaatggaagcattcccaatgacaagccctttcaaaacgtaaacaagatcacatatggggcatgtcccaggtatgttaagcaaaacactctgaagttggcaacagggatgcggaatgtaccagagaaacaaactagaggcatattcggcgcaatagcaggtttcatagaaaatggttgggagggaatgatagacggttggtacggtttcaggcatcaaaattctgagggcacaggacaagcagcagatcttaaaagcactcaagcagcaatcgaccaaatcaatgggaaactgaatagggtaatcgagaaaacgaacgagaaattccatcaaatcgaaaaggaattctcagaagtagaagggagaattcaggacctcgagaaatatgttgaagacactaaaatagatctctggtcttacaacgcggagcttcttgtcgctctggagaaccaacatacaattgatctgactgactcagaaatgaacaaactgtttgaaaaaacaaggaaacaactgagggaaaatgctgaggacatgggcaatggttgcttcaaaatataccacaaatgtgacaatgcttgcatagggtcaatcagaaatggaacttatgaccatgatgtatacagagacgaagcattaaacaaccggtttcagatcaaaggtgttgagctgaagtcaggatacaaagactggatcctatggatttcctttgccatatcatgctttttgctttgtgttgttttgctggggttcatcatgtgggcctgccaaaaaggcaacattaggtgcaacatttgcatttgagtgtattaattaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

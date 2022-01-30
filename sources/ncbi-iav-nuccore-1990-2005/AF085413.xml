@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF085413</GBSeq_locus>
+    <GBSeq_length>1778</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-JAN-1999</GBSeq_update-date>
+    <GBSeq_create-date>04-NOV-1998</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/swine/Scotland/410440/94(H1N2)) haemagglutinin precursor, mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF085413</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF085413.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF085413.1|</GBSeqid>
+      <GBSeqid>gi|3831762</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/swine/Scotland/410440/94(H1N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/swine/Scotland/410440/94(H1N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1778</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,I.H.</GBAuthor>
+          <GBAuthor>Harris,P.A.</GBAuthor>
+          <GBAuthor>McCauley,J.W.</GBAuthor>
+          <GBAuthor>Alexander,D.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Multiple genetic reassortment of avian and human influenza A viruses in European pigs, resulting in the emergence of an H1N2 virus of novel genotype</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 79 (Pt 12), 2947-2955 (1998)</GBReference_journal>
+        <GBReference_pubmed>9880008</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1778</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,I.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-AUG-1998) Virology Dept, Central Veterinary Laboratory, Woodham Lane, New Haw, Addlestone, Surrey KT15 3NB, UK</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1778</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1778</GBInterval_to>
+            <GBInterval_accession>AF085413.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/swine/Scotland/410440/94(H1N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/swine/Scotland/410440/94(H1N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:83206</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>33..1733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>33</GBInterval_from>
+            <GBInterval_to>1733</GBInterval_to>
+            <GBInterval_accession>AF085413.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>haemagglutinin precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD05215.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKEKLLVLLCALSATDADTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGKCSIAGWILGNPECELLFSKKSWSYIAETPNSENGICYPGYFSDYEELREQLSSVSSFERFEIFPKESSWPKHSVNKGVTKSCSHKGKSSFYRNLLWLTEKNGSYPNLSKSYVNNKEKEVLVLWGVHHPSNIENQKTIYRKETAYVSVVSSHYNRRFTPEITRRPKVRDQEGRINYYWTLLEPGDTIIFEANGNLIAPWYRFALSRGFGSGIIISNASMDECDAKCQTPQGAINSSLPFQNVHPVTIGECPKYVRSKKLRMVTGLRNIPSIQSRGLFGAIAGFIEGGWTGMIDGWYGYHHQNEQGSGYAADQKSTQNAINGITNKVNSVIEKMNTQFTAVGKEFNKLEKRIENLNKKVDDGFLDIWTYNAELLVLLENERTLDFHDSNVKTLYEKVKNQLKNNAKEIGNGCFEFYHKCNNECMESVKNGTYDYPKYSEESKLNREKIDGVKLESMGVYQILAIYSTVASSLVLLVSLGAASFWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggaaaataaaagcaaccaaaatgaaagaaaaactactggtcctgttatgtgcactttcagctacagatgcagacacaatatgtataggctaccatgcgaacaattcaaccgacactgttgacacagtactcgaaaagaacgttacagtgacacactctgtcaacctacttgaggacagtcacaatggaaaactatgcagactgaaaggaatagccccactacaattggggaaatgcagcatcgccggatggatcttagggaatccagaatgcgaattactgttttctaagaaatcatggtcctacattgcagaaacaccaaactctgagaatggaatatgttacccagggtatttctccgactatgaggagctgagagagcagttgagttcagtatcatcatttgagagattcgaaatattccctaaggaaagttcatggcccaaacacagcgtaaacaaaggagtaacgaaatcatgctcccataagggaaaaagtagtttttacagaaatttgctctggctgacagagaaaaatggttcgtacccaaatctgagcaagtcctatgtgaacaacaaagagaaagaagtccttgtactatggggtgttcaccacccgtctaacatagagaaccaaaagaccatctatcgtaaagaaactgcttatgtttctgtagtgtcctcgcattataacaggaggttcaccccagaaattacaagaagacccaaagtaagagatcaagaagggagaattaactactactggactctgctagaacccggggacacaataatatttgaggcaaatggaaatctaatagcgccatggtatcgtttcgctctgagtagaggctttgggtcagggatcatcatatcaaatgcatcgatggatgaatgtgatgcgaagtgtcaaacaccccagggagctataaacagtagtcttcctttccagaatgtacatccagttacaataggagagtgccccaagtacgtcaggagtaaaaaattaaggatggttacaggactaagraacattccatccattcaatccagaggtctgtttggagccattgccggtttcattgaagggggatggaccgggatgatagatggatggtatggttatcatcatcagaatgaacagggatctggctatgctgcggatcagaaaagcacacaaaatgccattaatgggattacaaacaaggtgaactctgtaatcgagaaaatgaacactcaattcacagctgtaggtaaagaattcaacaaattagaaaaaaggatagaaaacttgaataaaaaagttgatgatggttttctggacatttggacatataatgcagaattgttggttttactggaaaatgaaaggactttggattttcatgactcaaatgtgaagaccttgtatgaaaaagtaaaaaaccaattaaagaacaatgccaaagaaataggaaacgggtgttttgaattctaccacaagtgtaacaatgaatgcatggaaagtgtaaaaaatggaacttatgactatccaaaatattcagaggaatcaaagttaaacagggaaaaaattgatggagtaaagttggaatcaatgggagtctatcagattctggcgatctactcaactgtcgccagttcactggtgcttttagtctccctgggggcagccagcttttggatgtgttctaatgggtctttgcagtgcagaatatgcatctgagaccagaattccagaaatataagaaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

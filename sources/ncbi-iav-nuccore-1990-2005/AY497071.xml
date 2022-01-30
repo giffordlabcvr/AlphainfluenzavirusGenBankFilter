@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY497071</GBSeq_locus>
+    <GBSeq_length>996</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>08-JUL-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Mexico/28159-541/95 (H5N2)) hemagglutinin (HA1) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY497071</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY497071.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY497071.1|</GBSeqid>
+      <GBSeqid>gi|40732555</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/Mexico/28159-541/1995(H5N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Mexico/28159-541/1995(H5N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lee,C.W.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Effect of vaccine use in the evolution of Mexican lineage H5N2 avian influenza virus</GBReference_title>
+        <GBReference_journal>J. Virol. 78 (15), 8372-8381 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.78.15.8372-8381.2004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15254209</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lee,C.W.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-DEC-2003) Southeast Poultry Research Laboratory, ARS, USDA, 953 College Station Rd., Athens, GA 30605, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>AY497071.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Mexico/28159-541/1995(H5N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Chicken/Mexico/28159-541/95 (H5N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:680737</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>AY497071.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>AY497071.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAR88816.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DQICIGYHANNSTKQVDTIMEKNVTVTHAQDILEKEHNGRLCSLKGVKPLILKDCSVAGWLLGNPMCDEFLNVPEWSYIVEKDNPANGLCYPGNFDDYEELKHLMSSTNHFEKIQIFPRSSWSDHDASSGVSAACPYNGRSSFFRNVVWLIKKNNVYRTITRTYNNTNVEDLLIIWGIHHPNDAAEQIKLYQNSNTYVSVGTSKLNQRSIPEIAARPQVNGQRGRIEFFWTILRPNDSIIFESTGNFIAPEYAYKIIKKGDSAIMKSELDYGNCDAKCQTPVGAINSSMPFHNVHPFTIGECPKYVRSKKLVLATGLRNVPQRETRGLFGAI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaccaaatctgcattggttatcatgcaaacaattcaacaaaacaggttgacacaatcatggagaagaatgtgacggtcacacatgctcaggacatactggaaaaagaacacaatggaagactctgcagtcttaaaggagtgaagcccctcattctgaaggattgcagtgtagctggatggcttcttggaaacccaatgtgtgatgaattcctgaatgtaccggaatggtcatacatcgtggaaaaagacaatccagccaatggcctgtgctatccgggaaacttcgacgattatgaagaactgaagcatttaatgagcagcacaaaccattttgagaaaattcagatatttcctaggagctcttggtccgaccatgatgcctcatcaggagtgagcgcagcatgcccatacaatggtaggtcttcttttttcaggaatgtagtgtggttgatcaagaagaataatgtgtaccgaacaataacgaggacctacaacaacaccaatgtagaagaccttttaataatatggggaatccatcaccctaatgatgcagctgaacagataaaactataccagaattcgaacacttacgtgtcagtgggaacatcaaaattgaatcagaggtcaatcccagaaatagccgccagaccccaggtaaacggacaaagaggaaggatagaatttttttggacaatactaaggccgaacgattcaatcatctttgagagtactgggaactttatagctcccgaatatgcatacaagattattaaaaagggggattcagcaatcatgaaaagtgaactggattatggtaactgtgatgccaaatgtcagaccccagtgggtgctataaattccagtatgcctttccacaatgtccatccctttaccattggggagtgtcccaagtatgtcagatcgaaaaaactggtccttgcaacggggctcagaaacgtaccccaaagagaaacaagaggcctatttggagcaata</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X00028</GBSeq_locus>
+    <GBSeq_length>1068</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>13-JUN-1985</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Brazil/11/1978(H1N1)) hemagglutinin gene HA1 region</GBSeq_definition>
+    <GBSeq_primary-accession>X00028</GBSeq_primary-accession>
+    <GBSeq_accession-version>X00028.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X00028.1|</GBSeqid>
+      <GBSeqid>gi|60775</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Brazil/11/1978(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Brazil/11/1978(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1068</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Raymond,F.L.</GBAuthor>
+          <GBAuthor>Caton,A.J.</GBAuthor>
+          <GBAuthor>Cox,N.J.</GBAuthor>
+          <GBAuthor>Kendal,A.P.</GBAuthor>
+          <GBAuthor>Brownlee,G.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Antigenicity and evolution amongst recent influenza viruses of H1N1 subtype</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 11 (20), 7191-7203 (1983)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/11.20.7191</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>6634412</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>*source subtype==H1N1; strain=A/Brazil/11/78.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1068</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1068</GBInterval_to>
+            <GBInterval_accession>X00028.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Brazil/11/1978(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Brazil/11/1978</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:393560</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..1068</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1068</GBInterval_to>
+            <GBInterval_accession>X00028.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 region</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaagcaaaactactggtcctgttatgtgcactttcagctacagatgcagacacaatatgtataggctaccatgcgaacaactcaaccgacactgttgacacagtactcgaaaagaacgtgacagtgacacactctgtcaacctacttgaggacagtcacaacggaaaactatgcagactaaaaggaatagccccactacaattggggaaatgcagcattgccggatggatcttaggaaacccagaatgcgaatcactgttttctaagaaatcatggtcctacattgcagaaacaccaaactccgagaatggaacatgttacccaggatatttcgccgactatgaggaactgagggagcaattgagttcagtatcatcattcgagagattcgaaatattccccaaggaaagatcatggcccaaacacaacataaccagaggagtaacggcatcatgctcccataaggggaaaagcagtttttacagaaacttgctatggctgacggaggaaaatggctcgtacccaaatctgagcaagtcctatgtgaacaacaaagagaaagaagtccttgtactatggggtgttcatcacccgtctaacatagaggaccaaaagaccatctatcggaaagaaaatgcttatgtctctgtagtgtcttcaaattataacaggagattcaccccagaaatagcaaaaagacccaaagtaagaggtcaagaagggagaattaactactactggactctgctggaacccggggacacaataatatttgaggcaaatggaaatctaatagcgccatggtatgctttcgcactgagtagaggctttgggtcaggaatcatcacctcaaacgcatcgatggatgaatgtgacacgaagtgtcaaacnccccagggagctataaacagtagtcttcctttccagaatgtacacccagtcacaataggagagtgcccaaaatacgtcaggagtacaaaattaaggatggttacaggactaaggaacatcccatccattcaatccagaggtctgtttggagccattgccggtttcattgagggg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY233394</GBSeq_locus>
+    <GBSeq_length>1505</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>10-MAY-2003</GBSeq_update-date>
+    <GBSeq_create-date>10-MAY-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/duck/NC/91347/01(H1N2)) nucleoprotein (NP) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY233394</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY233394.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY233394.1|</GBSeqid>
+      <GBSeqid>gi|30522969</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/duck/NC/91347/01(H1N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/duck/NC/91347/01(H1N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1505</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olsen,C.W.</GBAuthor>
+          <GBAuthor>Karasin,A.</GBAuthor>
+          <GBAuthor>Erickson,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of a swine-like reassortant H1N2 influenza virus isolated from a wild duck in the United States</GBReference_title>
+        <GBReference_journal>Virus Res. 93 (1), 115-121 (2003)</GBReference_journal>
+        <GBReference_pubmed>12727349</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1505</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olsen,C.W.</GBAuthor>
+          <GBAuthor>Karasin,A.I.</GBAuthor>
+          <GBAuthor>Erickson,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-FEB-2003) Department of Pathobiological Sciences, School of Veterinary Medicine, University of Wisconsin-Madison, 2015 Linden Drive West, Madison, WI 53706, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1505</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1505</GBInterval_to>
+            <GBInterval_accession>AY233394.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/duck/NC/91347/01(H1N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Duck/NC/91347/01(H1N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:222774</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>9..1505</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9</GBInterval_from>
+            <GBInterval_to>1505</GBInterval_to>
+            <GBInterval_accession>AY233394.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>9..1505</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9</GBInterval_from>
+            <GBInterval_to>1505</GBInterval_to>
+            <GBInterval_accession>AY233394.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NP</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO65613.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETGGERQDATEIRASVGRMIGGIGRFYIQMCTELKLSDYEGRLIQNSITIERMVLSAFDERRNKYLEEHPSAGKDPKKTGGPIYRRVDGKWMRELILYDKEEIRRVWRQANNGEDATAGLTHIMIWHSNLNDATYQRTRALVRPGMDPRMCSLMQGSTLPRRSGAAGAAMKGIGTIAMELIRMIKRGINDRNFWRGENGRRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGLAVASGHDFEREGYSLVGIDPFKLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGKKVIPRGKLSTRGVLIASNENVEAMDSNTLELRSRYWAIRTRSGGNTNLQRASAGQISVQPTFSVQRNLPFERATVMAAFSGNNEGRTSDMRTEVIRMMESAKPEDLSFQGRGVFELSDEKATSPIVPSFDMSNEGSYFFGDNAEEYDS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcgaagccatggcgtctcaaggcaccaaacgatcatatgaacaaatggagactggtggggaacgccaggacgccacagaaatcagagcatctgtcggaagaatgattggtggaatcgggagattctacatccaaatgtgcactgaactcaaactcagtgactatgagggacggctaatccaaaatagcataacaatagagagaatggtgctctctgcttttgatgagagaagaaataaatacctagaagagcatcccagtgctggaaaggatcctaagaaaactggaggacccatatatagaagagtagacggaaagtggatgagagaactcatcctttatgacaaagaagaaataaggagagtttggcgccaagcaaacaatggtgaagatgcaacagctggtcttactcatatcatgatttggcattccaatctgaatgatgccacgtatcagagaacaagagcgcttgttcgacccggaatggatcccagaatgtgctctctaatgcaaggttcaacacttcccagaaggtctggggccgcaggtgctgcaatgaaaggaattggaacaatagcaatggagttaatcagaatgatcaaacgtggaatcaatgaccgaaacttctggaggggtgaaaatggacgaagaacaaggattgcatatgaaagaatgtgcaatattctcaaaggaaaatttcagacagctgcccagagggcaatgatggatcaagtgagagaaagtcggaacccaggaaacgctgagattgaagatctcattttcctggcacgatcagcacttattctaagaggatcagttgcacataagtcttgcctgcctgcttgtgtatatgggcttgcagtagcaagtgggcatgactttgaaagggaagggtattcactggtcgggatagacccatttaaattactccaaaacagtcaagtgttcagcctgataagaccaaatgaaaacccagctcacaagagtcaattggtgtggatggcatgccactctgcggcatttgaagatttaagagtatcaagtttcataagagggaagaaagtgattccaagaggaaagctttccacaagaggggttctgattgcttcaaatgagaatgtggaagccatggattccaataccctagaactgagaagcagatactgggccataaggaccaggagtggaggaaataccaatctacagagggcatccgcgggccagatcagtgtacaacctacattctcagtgcaacggaatctcccttttgaaagagcaaccgttatggcagctttcagcgggaacaatgaaggccggacatccgacatgcgaacagaagttataaggatgatggaaagtgcaaaaccagaagatttgtccttccaagggcggggagtctttgagctctcggacgaaaaggcaacgagcccgatcgtgccttcctttgacatgagtaatgaagggtcttatttcttcggagacaatgcagaggagtatgacagttaa</GBSeq_sequence>
+  </GBSeq>

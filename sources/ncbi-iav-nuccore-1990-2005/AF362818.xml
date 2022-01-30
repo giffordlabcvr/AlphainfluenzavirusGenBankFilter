@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF362818</GBSeq_locus>
+    <GBSeq_length>940</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-AUG-2001</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/human/Taiwan/3083/00(H3N2)) hemagglutinin (HA) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF362818</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF362818.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF362818.1|</GBSeqid>
+      <GBSeqid>gi|15055136</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Taiwan/3083/2000(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Taiwan/3083/2000(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..940</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shih,S.-R.</GBAuthor>
+          <GBAuthor>Chen,G.-W.</GBAuthor>
+          <GBAuthor>Bair,C.-H.</GBAuthor>
+          <GBAuthor>Bai,Y.-L.</GBAuthor>
+          <GBAuthor>Yang,C.-C.</GBAuthor>
+          <GBAuthor>Tsai,M.-C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Browser-Based Java Applications for Search and Analysis of Influenza Sequences in GenBank Format</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..940</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shih,S.-R.</GBAuthor>
+          <GBAuthor>Chen,G.-W.</GBAuthor>
+          <GBAuthor>Bair,C.-H.</GBAuthor>
+          <GBAuthor>Bai,Y.-L.</GBAuthor>
+          <GBAuthor>Yang,C.-C.</GBAuthor>
+          <GBAuthor>Tsai,M.-C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-MAR-2001) School of Medical Technology, Chang Gung University, 259 Wen-Hwa 1st Road, Kwei-Shan, Tao-Yuan 333, Taiwan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..940</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>940</GBInterval_to>
+            <GBInterval_accession>AF362818.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Taiwan/3083/2000(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/human/Taiwan/3083/00(H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:162511</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Taiwan</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;940</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>940</GBInterval_to>
+            <GBInterval_accession>AF362818.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;940</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>940</GBInterval_to>
+            <GBInterval_accession>AF362818.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK82867.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YCKSSSTDRICDSPHQILDGENCTLIDALLGDPHCDGFQNKEWDLFVERSTAYSNCYPYDVPDYASLRSLVASSGTLEFNNESFNWTGVAQNGTSSACKRRSIKSFFSRLNWLHQLKYKYPALNVTMPNNEKFDKLYIWGVHHPSTDSDQISLYAQASGRVTVSTKRSQQTVIPNIGSRPWVRGVSSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSNAPIGKCNSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQTRGIFGAIAGFIEKVGRMVDVVRFSXK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tactgtaagagctcctcaacagatagaatatgcgacagtcctcaccaaatccttgatggagaaaactgcacactaatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcacagcctacagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatccggcacactggagtttaacaatgaaagcttcaattggactggagtcgctcagaatggaacaagctctgcttgcaaaaggagatctattaaaagtttctttagtagattgaattggttgcaccaattaaaatacaaatatccagcactgaacgtgactatgccaaacaatgaaaaatttgacaaattgtacatttggggggttcaccacccgagtacggacagtgaccaaatcagcctatatgctcaagcatcagggagagtcacagtctctaccaaaagaagccaacaaactgtaatcccgaatatcggatctagaccctgggtaaggggtgtctccagcagaataagcatctattggacaatagtaaaaccgggagacatacttttgattaacagcacagggaatctaattgctcctcggggttactttaaaatacgaagtgggaaaagctcaataatgaggtcaaatgcacccattggcaaatgcaattctgaatgcatcactccaaatggaagcattcccaatgacaaaccatttcaaaatgtaaacaggatcacatatggggcctgtcccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaactagaggcatattcggcgcaatcgcgggtttcatagaaaaggttggaaggatggtggacgtggtacggttcagctnaaaaa</GBSeq_sequence>
+  </GBSeq>

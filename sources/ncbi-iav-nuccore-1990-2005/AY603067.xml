@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY603067</GBSeq_locus>
+    <GBSeq_length>1683</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-MAY-2004</GBSeq_update-date>
+    <GBSeq_create-date>18-MAY-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/duck/China(H9N2)) hemagglutinin (HA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY603067</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY603067.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY603067.1|</GBSeqid>
+      <GBSeqid>gi|47157066</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/duck/China(H9N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/duck/China(H9N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,R.H.</GBAuthor>
+          <GBAuthor>Wang,G.H.</GBAuthor>
+          <GBAuthor>Jin,M.L.</GBAuthor>
+          <GBAuthor>Chen,H.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cloning, Sequencing and Expression of the Hemagglutinin HA Gene of H9N2 Duck-derived Avian Influenza Virus</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,R.H.</GBAuthor>
+          <GBAuthor>Wang,G.H.</GBAuthor>
+          <GBAuthor>Zhao,S.T.</GBAuthor>
+          <GBAuthor>Yu,Z.J.</GBAuthor>
+          <GBAuthor>Jin,M.L.</GBAuthor>
+          <GBAuthor>Chen,H.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-APR-2004) Lab of Animal Virology, College of Animal Science and Veterinary Medicine, Huazhong Agricultural University, Wuhan, Hubei 430070, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1683</GBInterval_to>
+            <GBInterval_accession>AY603067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/duck/China(H9N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>duck</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:278675</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H9N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1683</GBInterval_to>
+            <GBInterval_accession>AY603067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1683</GBInterval_to>
+            <GBInterval_accession>AY603067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAT12413.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>METISLITILLVVTVSNADKICIGYQSTNSTETVDTLTENNVPVTHAKELLHTEHNGMLCATNLGHPLILDTCTIEGLIYGNPSCNLLLGGREWSYIVERPSAVNGLCYPGNVENLEELRSLFSSASSYQSIQIFPDTIWNVSYSGTSKACSDSFYRSMRWLTQKNNTYPIQDAQYTNNRGKNILFMWGINHPPTDTVQTNLYTRTDTTTSVATEDINRTFKPLIGPRPLVNGQQGRIDYYWSVLKPGQTLRVRSNGNLIAPWYGHILSGESHGRILKTDLNSGNCVVQCQTERGGLNTTLPFHNVSKYAFGNCPKYVGVKSLELAVGLRNVPARSSRGLFGAIAGFIEGGWSGLVAGWYGFQHSNDQGVGMAADRDSTQKAIDKITSKVNNIVDKMNKQYEIIDHEFSEVGTRLNMINDKIDDQIQDIWAYNAELLVLLENQKTLDEHDANVNNLYNKVKRTLGSNAVEDGKGCFELYHKCDDQCMETIRNGTYNRRKYKEESRLERRKIEGVKLESEGTYKILTIYSTVASSLVIAMGFAAFLFWAMSNGSCRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggaaacaatatcactaataactatactactagtagtaacagtaagcaatgcagataaaatctgcatcggctaccaatcaacaaactccacagaaactgtagacacgctaacagaaaacaatgttcctgtgacacatgccaaagaattgctccacacagagcacaatgggatgctgtgtgcaacaaatctgggacatcctcttattctagacacctgtaccattgaaggactaatctatggcaacccttcttgtaatctactgttgggaggaagagaatggtcctacatcgtcgaaagaccatcggctgttaatgggttgtgttaccccggtaatgtagaaaacctagaagaactaaggtcactttttagctctgctagttcttaccaaagcatccagatctttccagacacaatctggaatgtgtcttacagtgggacaagcaaagcatgttcagattcattctacagaagcatgagatggttgacccaaaagaacaacacttaccctattcaagacgcccaatacacaaataatagaggaaagaacattcttttcatgtggggcataaatcacccacccactgatactgtgcagacaaatctgtacacaaggactgacacaacaacaagtgtggcaacagaagatataaataggaccttcaaaccattgatagggccaaggcctcttgtcaatggtcagcagggaagaattgattattattggtcggtattgaaaccaggtcagacattgcgagtaagatccaatgggaatctaatcgctccatggtatgggcacattctttcaggagagagccacggaagaatcctgaagactgatttaaacagtggtaactgtgtagtgcaatgtcagacagaaagaggtggcttgaatactacattgccattccacaatgtaagtaagtatgcatttggaaactgcccaaaatatgttggagtaaagagtctcgaattggcagttggtctgaggaatgtgcctgctagatcaagtagaggactatttggagccatagctggattcatagagggaggttggtcagggctagtcgctggttggtatgggttccagcattcaaatgatcaaggggttggtatggctgcagatagagactcaactcaaaaggcaattgacaaaataacatccaaagtgaataatatagtcgataaaatgaacaaacagtatgaaattattgatcatgaattcagcgaggttggaactagactcaatatgatcaatgataagattgatgaccaaattcaagacatatgggcatataacgcagaattgctagtgctgcttgaaaaccagaaaacactcgatgagcatgatgcgaatgtaaacaatctctataacaaagtgaaaaggacactgggttccaatgcagtggaagatgggaaaggatgtttcgagctataccataaatgtgatgaccagtgcatggagacaattcggaacgggacctataacaggagaaagtataaagaggaatcaagactagaaagacggaaaatagaaggggtcaagctggaatctgaaggaacttacaaaatcctcaccatttattcgactgtcgcctcatctcttgtgattgcaatggggtttgctgccttcttgttctgggccatgtccaatggatcttgcagatgcaacatttgtatataa</GBSeq_sequence>
+  </GBSeq>

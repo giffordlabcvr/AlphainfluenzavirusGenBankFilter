@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF156376</GBSeq_locus>
+    <GBSeq_length>1566</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>27-DEC-2000</GBSeq_update-date>
+    <GBSeq_create-date>03-OCT-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Duck/Hong Kong/Y280/97(H9N2)) segment 4 hemagglutinin precursor, gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF156376</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF156376.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF156376.1|</GBSeqid>
+      <GBSeqid>gi|6006991</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/duck/Hong Kong/Y280/97(H9N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/duck/Hong Kong/Y280/97(H9N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1566</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of H9N2 influenza viruses: were they the donors of the 'internal' genes of H5N1 viruses in Hong Kong?</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 96 (16), 9363-9367 (1999)</GBReference_journal>
+        <GBReference_pubmed>10430948</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1566</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Senne,D.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-MAR-1999) Virology and Molecular Biology, St. Jude Children's Research Hospital, 332 North Lauderdale, Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1566</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1566</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/duck/Hong Kong/Y280/97(H9N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Duck/Hong Kong/Y280/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:97350</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>H9N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1566</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1566</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF00704.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEVVSLITILLVVTVSNADKICIGYQSTNSTETVDTLTENNVPVTHAKELLHTEHNGMLCATNLGHPLILDTCTIEGLIYGNPSCDLLLGGREWSYIVERPSAVNGLCYPGNVENLEELRSLFKSASSYQRIQIFPDTIWNVSYSGTSKACSDSFYRSMRWLTQKNNAYPIQDAQYTNNRGKNILFMWGINHPPTDTTQTNLYTRTDTTTSVATEDINRTFKPLIGPRPLVNGLQGRIDYYWSVLKPGQTLRVRSNGNLIAPWYGHILSGESHGRILKTDLNSGNCVVQCQTERGGLNTTLPFHNVSKYAFGNCPKYVGVKSLKLAVGLRNVPARSSRGLFGAIAGFIEGGWSGLVAGCNGFQHSNDQGVGIAADRDSTQRAIDKITSKVNNIVDKMNKQYEIIDHEFSEVENRLNMINNKIDDQIQDIWAYNAELLVLLENQKTLDEHDANVNNLYNKVKRALGSNAVEDGKGCFELYHKCDDQCMETIRNGTYNRRKYKEESRLERQKIEGVKLESEGTY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>1..54</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>54</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MEVVSLITILLVVTVSNA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>55..&gt;1566</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>55</GBInterval_from>
+            <GBInterval_to>1566</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DKICIGYQSTNSTETVDTLTENNVPVTHAKELLHTEHNGMLCATNLGHPLILDTCTIEGLIYGNPSCDLLLGGREWSYIVERPSAVNGLCYPGNVENLEELRSLFKSASSYQRIQIFPDTIWNVSYSGTSKACSDSFYRSMRWLTQKNNAYPIQDAQYTNNRGKNILFMWGINHPPTDTTQTNLYTRTDTTTSVATEDINRTFKPLIGPRPLVNGLQGRIDYYWSVLKPGQTLRVRSNGNLIAPWYGHILSGESHGRILKTDLNSGNCVVQCQTERGGLNTTLPFHNVSKYAFGNCPKYVGVKSLKLAVGLRNVPARSSRGLFGAIAGFIEGGWSGLVAGCNGFQHSNDQGVGIAADRDSTQRAIDKITSKVNNIVDKMNKQYEIIDHEFSEVENRLNMINNKIDDQIQDIWAYNAELLVLLENQKTLDEHDANVNNLYNKVKRALGSNAVEDGKGCFELYHKCDDQCMETIRNGTYNRRKYKEESRLERQKIEGVKLESEGTY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>55..1014</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>55</GBInterval_from>
+            <GBInterval_to>1014</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>ha1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1015..1566</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1015</GBInterval_from>
+            <GBInterval_to>1566</GBInterval_to>
+            <GBInterval_accession>AF156376.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>ha2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggaagtagtatcactaataactatactactagtagtaacagtaagcaatgcagataaaatctgcatcggctaccaatcaacaaactccacagaaactgtagacacgctaacagaaaacaatgttcctgtgacacatgccaaagaattgctccacacagagcacaatgggatgctgtgtgcaacaaatctgggacatcctcttattctagacacctgtaccattgaaggactaatctatggcaacccttcttgtgatctactgttgggaggaagagaatggtcctacatcgtcgaaagaccatcggctgttaatggattgtgttaccccgggaatgtagaaaacctagaagaactaaggtcactttttaagtctgctagttcttaccaaagaatccagatctttccagacacaatctggaatgtgtcttacagtgggacaagcaaagcatgttcagattcattctacagaagcatgagatggttgactcaaaagaacaacgcttaccctattcaagacgctcaatacacaaataatagaggaaagaacattcttttcatgtggggcataaatcacccacccaccgatactacgcagacaaatctgtacacaaggactgacacaacaacaagtgtggcaacagaagatataaataggaccttcaaaccattgatagggccaaggcctcttgtcaatggtctgcagggaagaattgattattattggtcggtattgaaaccaggtcagacattgcgagtaagatccaatgggaatctaatcgctccatggtatggacacattctttcaggagagagccacggaagaatcctgaagactgatttaaacagtggtaactgtgtagtgcaatgtcagacagaaagaggtggcttaaatactacattgccattccacaacgtaagtaagtatgcatttggaaactgcccaaaatatgttggagtaaagagtctcaaattggcagttggtctgaggaatgtgcctgctagatcaagtagaggactatttggggccatagctggattcatagagggaggttggtcagggctagtcgctggttgtaatgggttccagcattcaaatgatcaaggggttggtatagctgcagatagagactcaactcaaagggcaattgacaaaataacgtccaaagtgaataatatagtcgataaaatgaacaagcaatatgaaattattgatcatgaattcagcgaggttgaaaatagactcaatatgatcaataataagattgatgaccagatacaagacatatgggcatataacgctgaattgctagtgctgcttgaaaaccagaaaacactcgatgagcatgatgcgaatgtaaacaatctatataacaaagtgaaaagagcactgggttccaatgcagtggaagatgggaaaggatgtttcgagctataccataaatgtgatgaccagtgcatggagacaattcggaacgggacctacaacaggagaaagtataaagaggaatcaagactagaaagacagaaaatagaaggggtcaagctggaatctgaaggaacttac</GBSeq_sequence>
+  </GBSeq>

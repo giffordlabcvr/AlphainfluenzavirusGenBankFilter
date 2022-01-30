@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY253754</GBSeq_locus>
+    <GBSeq_length>1458</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>20-JUL-2005</GBSeq_update-date>
+    <GBSeq_create-date>20-APR-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Chicken/Shanghai/F/98(H9N2)) neuraminidase (NA) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY253754</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY253754.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY253754.1|</GBSeqid>
+      <GBSeqid>gi|30025981</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Chicken/Shanghai/F/98(H9N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Chicken/Shanghai/F/98(H9N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1458</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lu,J.H.</GBAuthor>
+          <GBAuthor>Liu,X.F.</GBAuthor>
+          <GBAuthor>Shao,W.X.</GBAuthor>
+          <GBAuthor>Liu,Y.L.</GBAuthor>
+          <GBAuthor>Wei,D.P.</GBAuthor>
+          <GBAuthor>Liu,H.Q.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analysis of eight genes of H9N2 subtype influenza virus: a mainland China strain possessing early isolates' genes that have been circulating</GBReference_title>
+        <GBReference_journal>Virus Genes 31 (2), 163-169 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s11262-005-1790-1</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16025241</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1458</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lu,J.H.</GBAuthor>
+          <GBAuthor>Liu,X.F.</GBAuthor>
+          <GBAuthor>Shao,W.X.</GBAuthor>
+          <GBAuthor>Zhang,P.H.</GBAuthor>
+          <GBAuthor>Wei,D.P.</GBAuthor>
+          <GBAuthor>Liu,Y.L.</GBAuthor>
+          <GBAuthor>Zhang,R.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-MAR-2003) Animal Infectious Disease Laboratory, School of Veterinary Medicine, Yangzhou University, 12 East Weihui Road, Yangzhou, Jiangsu 225009, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1458</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1458</GBInterval_to>
+            <GBInterval_accession>AY253754.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Chicken/Shanghai/F/98(H9N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Chicken/Shanghai/F/98</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:183741</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H9N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>20..1420</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1420</GBInterval_to>
+            <GBInterval_accession>AY253754.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1420</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1420</GBInterval_to>
+            <GBInterval_accession>AY253754.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAP04509.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIIAIGSVSLTIAAICFLMQIAILATTMTLHFNQNECSNPSNNQVVPCEPIIIERNIVHLNSTTIEKEICPKVAEYKNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCGLGKCYQFALGQGTTLKNKHSNGTTHDRTPHRTLLMNELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASIIYDGMLVDSIGSWSKNILRTQESECVCINGTCTVVMTDGSASGKADTRILFIREGKIVHISPLSGSAQHVEECSCYPRYPEVRCVCRDNWKGSNRPVLYINMADYSIESSYVCSGLVGDTPRNDDSSSSSNCRDPNNERGAPGVKGWAFDNGNDIWMGRTIKKDSRSGYETFRVVGGWTTANSKSQINRQVIVDSDNWSGYSGIFSVEGKNCINRCFYVELIRGRPQETRVWWTSNSIIVFCGTSGTYGTGSWPDGANINFMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtgaaaatgaacccaaatcagaagataatagcaattggctcagtttctctaactattgcggcaatatgcttcctcatgcagattgccatcttagcaacgactatgacactacatttcaatcagaatgaatgcagcaacccctcgaataaccaagtagtgccatgtgaaccaatcataatagaaaggaacatagtgcatttgaatagtactaccatagagaaggaaatttgtcctaaagtggcagaatacaagaattggtcaaaaccccaatgtcaaatcacagggttcgctccgttctccaaggacaactcaattaggctttctgcaggtggggatatctgggtgacaagagaaccttatgtgtcgtgcggccttggtaaatgttatcaatttgcacttggacagggaaccactttgaaaaacaaacactcaaatggtactacccatgatagaacccctcatagaacccttttaatgaatgagttgggtgtcccgtttcatttgggaaccaaacaagtgtgcatagcatggtccagctcaagctgccatgatgggaaagcatggttacatgtttgtgtcactggggatgataaaaatgcgactgctagtatcatttatgatgggatgcttgttgacagtattggttcatggtctaaaaacatcctcagaactcaggagtcagaatgcgtttgcatcaatggaacttgtacagtagtaatgactgatggaagtgcatcaggaaaggctgacactagaatactattcataagagaggggaaaattgtacacattagcccattgtcaggaagtgctcagcatgtggaggaatgttcctgttatccccggtatccagaagtaaggtgtgtttgtagagacaattggaagggctccaataggcccgttctatatataaatatggcagattatagtattgagtccagttatgtgtgctcaggacttgttggcgacacaccaagaaatgatgatagctccagcagcagcaactgtagggatcctaataacgagagaggggccccaggagtgaaagggtgggcctttgacaatggaaatgatatttggatgggacgaacgatcaaaaaggattcacgctcaggttatgagactttcagagtcgttggtggttggaccacggctaattccaagtcacagatcaatagacaagtcatagttgacagtgacaactggtctgggtattctggtatcttctctgttgaaggcaaaaactgcatcaacaggtgtttttatgtggagttgataagaggaagaccacaggagactagggtatggtggacttcaaatagcattattgtattttgtggaacctcaggtacctatggaacaggctcatggcctgatggagcgaatatcaacttcatgcctatataagctctcgcaattttagaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

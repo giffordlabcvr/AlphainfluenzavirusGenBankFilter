@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF072545</GBSeq_locus>
+    <GBSeq_length>1565</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>03-FEB-1999</GBSeq_update-date>
+    <GBSeq_create-date>04-FEB-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Victoria/3/75) segment 5 nucleoprotein mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF072545</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF072545.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF072545.1|</GBSeqid>
+      <GBSeqid>gi|4218933</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Victoria/3/1975(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Victoria/3/1975(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>de la Luna,S.</GBAuthor>
+          <GBAuthor>Martin,J.</GBAuthor>
+          <GBAuthor>Portela,A.</GBAuthor>
+          <GBAuthor>Ortin,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influenza virus naked RNA can be expressed upon transfection into cells co-expressing the three subunits of the polymerase and the nucleoprotein from simian virus 40 recombinant viruses</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 74 (Pt 3), 535-539 (1993)</GBReference_journal>
+        <GBReference_pubmed>8383187</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mena,I.</GBAuthor>
+          <GBAuthor>Jambrina,E.</GBAuthor>
+          <GBAuthor>Albo,C.</GBAuthor>
+          <GBAuthor>Perales,B.</GBAuthor>
+          <GBAuthor>Ortin,J.</GBAuthor>
+          <GBAuthor>Arrese,M.</GBAuthor>
+          <GBAuthor>Vallejo,D.</GBAuthor>
+          <GBAuthor>Portela,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Mutational analysis of influenza A virus nucleoprotein: identification of mutations that affect RNA replication</GBReference_title>
+        <GBReference_journal>J. Virol. 73 (2), 1186-1194 (1999)</GBReference_journal>
+        <GBReference_pubmed>9882320</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>de la Luna,S.</GBAuthor>
+          <GBAuthor>Ortin,J.</GBAuthor>
+          <GBAuthor>Albo,C.</GBAuthor>
+          <GBAuthor>Portela,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JUN-1998) Biologia Molecular, CNBF, Majadahonda 28220, Spain</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1565</GBInterval_to>
+            <GBInterval_accession>AF072545.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Victoria/3/1975(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Victoria/3/75</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:392809</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>segment 5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>46..1542</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1542</GBInterval_to>
+            <GBInterval_accession>AF072545.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD12236.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETDGERQNATEIRASVGKMINGIGRFYIQMCTELKLSDYEGRLIQNSLTIERMVLSAFDERRNRYLEEHPSAGKDPKKTGGPIYKRVDGKWMRELVLYDKEEIRRIWRQANNGDDATAGLTHMMIWHSNLNDTTYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRKTRSAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFSARSALILRGSVAHKSCLPACVYGPAVASGYDFEKEGYSLVGIDPFKLLQNSQVYSLIRPNENPAHKSQLVWMACHSAAFEDLRLLSFIRGTKVSPRGKLSTRGVQIASNENMDTMESSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPAFSVQRNLPFDKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPVVPSFDMSNEGSYFFGDNAEEYDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggttaataatcactcactgagtgacatcaaaatcatggcgtcccaaggcaccaaacggtcttatgaacagatggaaactgatggggaacgccagaatgcaactgaaatcagggcatccgtcgggaagatgattaatggaattggacgattctacatccaaatgtgcactgaacttaaactcagtgattatgaagggcggttgatccagaacagcttaacaatagagagaatggtgctctctgcctttgatgagagaaggaatagatatctggaagaacatcccagcgcggggaaagatcctaagaaaactggagggcccatatacaagagagtagatggaaagtggatgagggaactcgtcctttatgacaaagaagaaataaggcgaatctggcgccaagccaataatggtgatgatgcgacagctggtctaactcacatgatgatctggcattccaatttgaatgatacaacatatcagaggacaagagctcttgttcgcaccggaatggatcccaggatgtgctctctgatgcagggttcgactctccctaggaggtctggagctgcaggcgctgcagtcaaaggagtcgggacaatggtgatggagctgatcagaatgatcaaacgtggaatcaacgatcggaacttctggagaggtgagaatggacgaaaaacaaggagtgcttatgagagaatgtgcaacattctcaaaggaaaatttcaaacagctgcacaaagagcaatgatggatcaagtgagagaaagccggaacccaggaaatgctgagatcgaagatctcatattttcggcacggtctgcactaatattgagagggtcagttgctcacaaatcttgtctgcctgcctgtgtgtatggacctgccgtagccagtgggtacgactttgaaaaagagggatattctttggtgggaattgaccctttcaaactacttcaaaacagccaagtgtacagcctaatcagaccgaacgagaatccagcacacaagagtcagctggtgtggatggcatgccattctgctgcatttgaagatctaagattattaagcttcatcagagggaccaaagtatctccaagggggaaactttcaactagaggagtacaaattgcttcaaatgaaaacatggatactatggaatcaagtactcttgaactgagaagcagatactgggccataaggaccagaagtggaggaaacactaatcaacagagggcctccgcaggccaaatcagtgtgcaacctgcattttctgtgcaaagaaacctcccatttgacaaatcaaccatcatggcagcattcactgggaatacggaaggaagaacctcagacatgagggcagaaatcataaggatgatggaaggtgcaaaaccagaagaagtgtccttccgtgggcggggagtcttcgagctctcggacgaaaaggcaacgaacccggtcgtgccctcttttgacatgagtaatgaaggatcttatttcttcggagacaatgcagaggagtacgacaattaaggaaaaatacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

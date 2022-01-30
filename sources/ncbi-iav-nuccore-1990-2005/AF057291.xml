@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF057291</GBSeq_locus>
+    <GBSeq_length>1718</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-APR-1998</GBSeq_update-date>
+    <GBSeq_create-date>22-APR-1998</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Hong Kong/258/97(H5N1)) hemagglutinin mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF057291</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF057291.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF057291.1|</GBSeqid>
+      <GBSeqid>gi|3068720</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Chicken/Hong Kong/258/97 (H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Chicken/Hong Kong/258/97 (H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1718</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Claas,E.C.</GBAuthor>
+          <GBAuthor>Osterhaus,A.D.</GBAuthor>
+          <GBAuthor>van Beek,R.</GBAuthor>
+          <GBAuthor>De Jong,J.C.</GBAuthor>
+          <GBAuthor>Rimmelzwaan,G.F.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Human influenza A H5N1 virus related to a highly pathogenic avian influenza virus</GBReference_title>
+        <GBReference_journal>Lancet 351 (9101), 472-477 (1998)</GBReference_journal>
+        <GBReference_pubmed>9482438</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1718</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Claas,E.C.J.</GBAuthor>
+          <GBAuthor>Osterhaus,A.D.M.E.</GBAuthor>
+          <GBAuthor>van Beek,R.</GBAuthor>
+          <GBAuthor>de Jong,J.C.</GBAuthor>
+          <GBAuthor>Rimmelzwaan,G.F.</GBAuthor>
+          <GBAuthor>Senne,D.A.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-APR-1998) Virology, Erasmus University Rotterdam, PO Box 1738, Rotterdam, Zuidholland 3000 DR, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1718</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1718</GBInterval_to>
+            <GBInterval_accession>AF057291.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Chicken/Hong Kong/258/97 (H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:100835</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1707</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1707</GBInterval_to>
+            <GBInterval_accession>AF057291.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC14418.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIVLLLATVSLVKSDQICIGYHANNSTEQVDTIMEKNVTVTHAQDILERTHNGKLCDLNGVKPLILRDCSVAGWLLGNPMCDEFINVPEWSYIVEKASPANDLCYPGNFNDYEELKHLLSRINHFEKIQIIPKSSWSNHDASSGVSSACPYLGRSSFFRNVVWLIKKNSTYPTIKRSYNNTNQEDLLVLWGIHHPNDAAEQTKLYQNPTTYISVGTSTLNQRLVPEIATRPKVNGQSGRMEFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSTIMKSELEYGNCNTKCQTPMGAINSSMPFHNIHPLTIGECPKYVKSNRLVLATGLRNAPQRERRRKKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADQESTQKAIDGVTNKVNSIINKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVKNGTYDYPQYSEEARLNREEISGVKLESMGTYQILSIYSTVASSLALAIMVAGLSLWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagagaatagtgcttcttcttgcaacagtcagtcttgttaaaagtgaccagatttgcattggttaccatgcaaacaactcgacagagcaggttgacacaataatggaaaagaatgttactgttacacatgcccaagacatactggaaaggacacacaacgggaagctctgcgatctaaatggagtgaagcctctgattttgagggattgtagtgtagctggatggctcctcggaaaccctatgtgtgacgaattcatcaatgtgccggaatggtcttacatagtggagaaggccagtccagccaatgacctctgttatccagggaatttcaacgactatgaagaactgaaacacctattgagcagaataaaccattttgagaaaattcagatcatccccaaaagttcttggtccaatcatgatgcctcatcaggggtaagctcagcatgtccataccttgggaggtcctcctttttcagaaatgtggtatggcttatcaaaaagaacagtacatacccaacaataaagaggagctacaataataccaaccaagaagatcttttggtactgtgggggattcaccatcctaatgatgcggcagagcagacaaagctctatcaaaacccaaccacctacatttccgttggaacatcaacactgaaccagagattggttccagaaatagctactagacccaaagtaaacgggcaaagtggaagaatggagttcttctggacaattttaaagccgaatgatgccatcaatttcgagagtaatggaaatttcattgctccagaatatgcatacaaaattgtcaagaaaggggactcaacaattatgaaaagtgaattggaatatggtaactgcaacaccaagtgtcaaactccaatgggggcgataaactctagtatgccattccacaacatacaccccctcaccatcggggaatgccccaaatatgtgaaatcaaacagattagtccttgcgactggactcagaaatgcccctcaaagagagagaagaagaaaaaagagaggactatttggagctatagcaggttttatagagggaggatggcagggaatggtagatggttggtatgggtaccaccatagcaatgagcaggggagtggatacgctgcagaccaagaatccactcaaaaggcaatagatggagtcaccaataaggtcaactcgatcattaacaaaatgaacactcagtttgaggccgttggaagggaatttaataacttggaaaggaggatagagaatttaaacaagaagatggaagacggattcctagatgtctggacttacaatgccgaacttctggttctcatggaaaatgagagaactctagactttcatgactcaaatgtcaagaacctttacgacaaggtccgactacagcttagggataatgcaaaggagctgggtaatggttgtttcgaattctatcacaaatgtgataacgaatgtatggaaagtgtaaaaaacggaacgtatgactacccgcagtattcagaagaagcaagactaaacagagaggaaataagtggagtaaaattggaatcaatgggaacttaccaaatactgtcaatttattcaacagtggcgagttccctagcactggcaatcatggtagctggtctatctttatggatgtgctccaatggatcgttacaatgcagaatttgcatttaaatttgtgagtt</GBSeq_sequence>
+  </GBSeq>

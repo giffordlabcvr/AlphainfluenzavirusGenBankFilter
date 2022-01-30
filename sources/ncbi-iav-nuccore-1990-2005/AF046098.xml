@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF046098</GBSeq_locus>
+    <GBSeq_length>1741</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-DEC-2003</GBSeq_update-date>
+    <GBSeq_create-date>22-JUL-1998</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hong Kong/482/97(H5N1)) hemagglutinin subtype H5 (H5) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF046098</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF046098.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF046098.1|</GBSeqid>
+      <GBSeqid>gi|3421259</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/482/97(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/482/97(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1741</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+          <GBAuthor>Perdue,M.L.</GBAuthor>
+          <GBAuthor>Cox,N.</GBAuthor>
+          <GBAuthor>Rowe,T.</GBAuthor>
+          <GBAuthor>Bender,C.</GBAuthor>
+          <GBAuthor>Huang,J.</GBAuthor>
+          <GBAuthor>Swayne,D.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparisons of highly virulent H5N1 influenza A viruses isolated from humans and chickens from Hong Kong</GBReference_title>
+        <GBReference_journal>J. Virol. 72 (8), 6678-6688 (1998)</GBReference_journal>
+        <GBReference_pubmed>9658115</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1741</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-FEB-1998) Southeast Poultry Research Laboratory, 934 College Station Rd., Athens, GA 30605, USA</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1741</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-AUG-1998) Southeast Poultry Research Laboratory, 934 College Station Rd., Athens, GA 30605, USA</GBReference_journal>
+        <GBReference_remark>Nucleotide sequence updated by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Aug 18, 1998 this sequence version replaced gi:3335442.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1741</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1741</GBInterval_to>
+            <GBInterval_accession>AF046098.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/482/97(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Hong Kong/482/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:155218</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>RT-PCR amplified and cloned from virus grown in embryonated chicken eggs</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>9..1715</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9</GBInterval_from>
+            <GBInterval_to>1715</GBInterval_to>
+            <GBInterval_accession>AF046098.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>H5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>9..1715</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9</GBInterval_from>
+            <GBInterval_to>1715</GBInterval_to>
+            <GBInterval_accession>AF046098.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>H5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin subtype H5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC32100.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEKIVLLLATVSLVKSDQICIGYHANNSTEQVDTIMEKNVTVTHAQDILERTHNGKLCDLNGVKPLILRDCSVAGWLLGNPMCDEFINVPEWSYIVEKASPANDLCYPGNFNDYEELKHLLSRINHFEKIQIIPKSSWSNHDASSGVSSACPYLGRSSFFRNVVWLIKKNSAYPTIKRSYNNTNQEDLLVLWGIHHPNDAAEQTKLYQNPTTYISVGTSTLNQRLVPEIATRPKVNGQSGRMEFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSTIMKSELEYGNCNTKCQTPMGAINSSMPFHNIHPLTIGECPKYVKSNRLVLATGLRNTPQRERRRKKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVTNKVNSIINKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVKNGTYDYPQYSEEARLNREEISGVKLESMGTYQILSIYSTVASSLALAIMVAGLSLWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctgtcaaaatggagaaaatagtgcttcttcttgcaacagtcagtcttgttaaaagtgatcagatttgcattggttaccatgcaaacaactcgacagagcaggttgacacaataatggaaaagaatgttactgttacacatgcccaagacatactggaaaggacacacaacgggaagctctgcgatctaaatggagtgaaacctctcattttgagggattgtagtgtagctggatggctcctcggaaaccctatgtgtgacgaattcatcaatgtgccggaatggtcttacatagtggagaaggccagtccagccaatgacctctgttatccagggaatttcaacgactatgaagaactgaaacacctattgagcagaataaaccattttgagaaaattcagatcatccccaaaagttcttggtccaatcatgatgcctcatcaggggtgagctcagcatgtccataccttgggaggtcctcctttttcagaaatgtggtatggcttatcaaaaagaacagtgcatacccaacaataaagaggagctacaataataccaaccaagaagatcttttggtactgtgggggattcaccatcctaatgatgcggcagagcagacaaagctctatcaaaatccaaccacctacatttccgttggaacatcaacactgaaccagagattggttccagaaatagctactagacccaaagtaaacgggcaaagtggaagaatggagttcttctggacaattttaaagccgaatgatgccatcaatttcgagagtaatggaaatttcattgccccagaatatgcatacaaaattgtcaagaaaggggactcaacaattatgaaaagtgaattggaatatggtaactgcaacaccaagtgtcaaactccaatgggggcgataaactctagtatgccattccacaacatacaccccctcaccatcggggaatgccccaaatatgtgaaatcaaacagattagttcttgcgactggactcagaaatacccctcaaagggagagaagaagaaaaaagagaggactatttggagctatagcaggttttatagagggaggatggcagggcatggtagatggttggtatgggtaccaccatagcaatgagcaggggagtggatacgctgcagacaaagaatccactcaaaaggcaatagatggagtcaccaataaggtcaactcgatcattaacaaaatgaacactcagtttgaggccgttggaagggaatttaataacttagaaaggagaatagagaatttaaacaagaaaatggaagacggattcctagatgtctggacttacaatgctgaacttctggttctcatggaaaatgagagaactctcgactttcatgactcaaatgtcaagaacctttacgacaaggtccgactacagcttagggataatgcaaaggaactgggtaatggttgtttcgaattctatcacaaatgtgataatgaatgtatggaaagtgtaaaaaacggaacgtatgactacccgcagtattcagaagaagcaagactaaacagagaggaaataagtggagtaaaattggaatcaatgggaacttaccaaatactgtcaatttattcaacagtggcgagttccctagcactggcaatcatggtagctggtctatctttatggatgtgctccaatggatcgttacaatgcagaatttgcatttaaatttgtgagttcagattgtagttaaa</GBSeq_sequence>
+  </GBSeq>

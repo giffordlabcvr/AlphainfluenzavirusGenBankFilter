@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAMM</GBSeq_locus>
+    <GBSeq_length>1027</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-JUN-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/udorn/1972(H3N2)) segment 7 matrix protein 2 and matrix protein 1 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>J02167</GBSeq_primary-accession>
+    <GBSeq_accession-version>J02167.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|J02167.1|FLAMM</GBSeqid>
+      <GBSeqid>gi|324335</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>matrix protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/udorn/1972(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/udorn/1972(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lamb,R.A.</GBAuthor>
+          <GBAuthor>Lai,C.J.</GBAuthor>
+          <GBAuthor>Choppin,P.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequences of mRNAs derived from genome RNA segment 7 of influenza virus: colinear and interrupted mRNAs code for overlapping proteins</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 78 (7), 4170-4174 (1981)</GBReference_journal>
+        <GBReference_pubmed>6945577</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lamb,R.A.</GBAuthor>
+          <GBAuthor>Lai,C.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Conservation of the influenza virus membrane protein (M1) amino acid sequence and an open reading frame of RNA segment 7 encoding a second protein (M2) in H1N1 and H3N2 strains</GBReference_title>
+        <GBReference_journal>Virology 112 (2), 746-751 (1981)</GBReference_journal>
+        <GBReference_pubmed>7257189</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>The m2 cds and ivs regions are derived from the m2 mRNA sequence.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1027</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1027</GBInterval_to>
+            <GBInterval_accession>J02167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/udorn/1972(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/udorn/1972</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:385599</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(26..51,740..1007)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>51</GBInterval_to>
+            <GBInterval_accession>J02167.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>740</GBInterval_from>
+            <GBInterval_to>1007</GBInterval_to>
+            <GBInterval_accession>J02167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>matrix protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43303.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRNEWGCRCNDSSDPLVVAASIIGILHLILWILDRLFFKCIYRFFEHGLKRGPSTEGVPESMREEYRKEQQSAVDADDSHFVSIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..784</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>784</GBInterval_to>
+            <GBInterval_accession>J02167.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>matrix protein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43304.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEALMEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDRAVKLYRKLKREITFHGAKEIALSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHRSHRQMVATTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRAIGTHPSSSAGLKDDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtagatattgaaagatgagccttctgaccgaggtcgaaacgtatgttctctctatcgttccgtcaggccccctcaaagccgagatcgcgcagagacttgaagatgtctttgctggaaagaacacagatcttgaggctctcatggaatggctaaagacaagaccaatcctgtcacctctgactaaagggattttgggatttgtattcacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgccctcaatgggaatggggatccaaataacatggacagagcagttaaactgtatagaaaacttaagagggagataacattccatggggccaaagaaatagcactcagttattctgctggtgcacttgccagttgcatgggcctcatatacaacaggatgggggctgtgaccactgaagtggcctttggcctggtttgtgcaacctgtgaacagattgctgactcccagcacaggtctcataggcaaatggtggcaacaaccaatccactaataagacatgagaacagaatggttctggccagcactacagctaaggctatggagcaaatggctggatcaagtgagcaggcagcagaggccatggaggttgctagtcaggccaggcaaatggtgcaggcaatgagagccattgggactcatcctagctccagtgctggtctaaaagatgatcttcttgaaaatttgcaggcctatcagaaacgaatgggggtgcagatgcaacgattcaagtgaccctcttgttgttgctgcgagtatcattgggatcttgcacttgatattgtggattcttgatcgtctttttttcaaatgcatctatcgattctttgaacacggtctgaaaagagggccttctacggaaggagtacctgagtctatgagggaagaatatcgaaaggaacagcagagtgctgtggatgctgacgacagtcattttgtcagcatagagctggagtaaaaaactaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY559235</GBSeq_locus>
+    <GBSeq_length>1040</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-MAR-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/British Columbia/CN6/04(H7N3)) hemagglutinin (HA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY559235</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY559235.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY559235.1|</GBSeqid>
+      <GBSeqid>gi|45593202</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/British Columbia/CN6/04(H7N3))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/British Columbia/CN6/04(H7N3))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1040</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pasick,J.</GBAuthor>
+          <GBAuthor>Handel,K.</GBAuthor>
+          <GBAuthor>Robinson,J.</GBAuthor>
+          <GBAuthor>Copps,J.</GBAuthor>
+          <GBAuthor>Ridd,D.</GBAuthor>
+          <GBAuthor>Hills,K.</GBAuthor>
+          <GBAuthor>Kehler,H.</GBAuthor>
+          <GBAuthor>Cottam-Birt,C.</GBAuthor>
+          <GBAuthor>Neufeld,J.</GBAuthor>
+          <GBAuthor>Berhane,Y.</GBAuthor>
+          <GBAuthor>Czub,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Intersegmental Recombination between the Hemagglutinin and Matrix Genes is Responsible for the Emergence of a Highly Pathogenic H7N3 Avian Influenza Virus in British Columbia</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. (2004) In press</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1040</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Handel,K.</GBAuthor>
+          <GBAuthor>Pasick,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-FEB-2004) NCFAD, CFIA, 1015 Arlington Street, Winnipeg, MB R3E 3M4, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1040</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1040</GBInterval_to>
+            <GBInterval_accession>AY559235.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/British Columbia/CN6/04(H7N3))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/chicken/British Columbia/CN6/04</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:267381</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Canada: British Columbia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isolated February 2004;
+subtype: H7N3; pathovar: Low Path</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1040</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1040</GBInterval_to>
+            <GBInterval_accession>AY559235.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1040</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1040</GBInterval_to>
+            <GBInterval_accession>AY559235.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAS68158.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KICLGHHAVANGTKVNTLTERGIEVVNATETVETVNIKKICTQGKRPTDLGQCGLLGTLIGPPQCDQFLEFDANLIIERREGTDVCYPGKFTNEESLRQILRGSGGIDKESMGFTYSGIRTNGATSACRRSGSSFYAEMKWLLSNSDNAAFPQMTKSYRNPRNKPALIIWGVHHSGSATEQTKLYGSGNKLITVGSSKYQQSFTPSPGARPQVNGQSGRIDFHWLLLDPNDTVTFTFNGAFIAPDRASFFRGESLGVQSDVPLDSGCEGDCFHSGGTIVSSLPFQNINPRTVGKCPRYVKQTSLLLATGMRNVPENPKTRGLFGAIAGFIENGWEGLIDGWYGFRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaaatatgtcttgggcaccatgctgtggcaaatgggacaaaagtgaacacactaacagagaggggaattgaagtagtcaatgccacggagacggtggaaactgtaaatattaagaaaatatgcactcaaggaaaaaggccaacagatctgggacaatgtggacttctaggaaccctaataggacctccccaatgcgatcaatttctggagtttgacgctaatttgataattgaacgaagagaaggaaccgatgtgtgctatcccgggaagttcacaaatgaagaatcactgaggcagatccttcgagggtcaggaggaattgataaagagtcaatgggtttcacctatagtggaataagaaccaatggggcgacgagtgcctgcagaagatcaggttcttctttctatgcggagatgaagtggttactgtcgaattcagacaatgcggcatttccccaaatgactaagtcgtataggaatcccaggaacaaaccagctctgataatctggggagtgcatcactctggatcagctactgagcagaccaaactctatggaagtggaaacaagttgataacagtaggaagctcgaaataccagcaatcattcactccaagtccgggagcacggccacaagtgaatggacaatcaggaaggattgattttcattggctactccttgaccccaatgacacagtgaccttcactttcaatggggcattcatagcccctgacagggcaagtttctttagaggagaatcgctaggagtccagagtgatgttcctttggattctggttgtgaaggggattgcttccacagtgggggtacgatagtcagttccctgccattccaaaacatcaaccctagaacagtggggaaatgccctcgatatgtcaaacagacaagcctccttttggctacaggaatgagaaacgtcccagagaaccccaagaccagaggcctttttggagcgattgctggattcatagagaatggatgggaaggtctcatcgatggatggtatggtttcaggcatca</GBSeq_sequence>
+  </GBSeq>

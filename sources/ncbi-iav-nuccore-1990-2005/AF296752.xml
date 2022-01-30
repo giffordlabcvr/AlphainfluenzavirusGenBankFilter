@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF296752</GBSeq_locus>
+    <GBSeq_length>1351</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>11-JUL-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Hong Kong/516/97(H5N1)) neuraminidase (NA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF296752</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF296752.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF296752.1|</GBSeqid>
+      <GBSeqid>gi|21728263</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Hong Kong/516/97(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Hong Kong/516/97(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1351</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bender,C.</GBAuthor>
+          <GBAuthor>Hall,H.</GBAuthor>
+          <GBAuthor>Huang,J.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Cox,N.</GBAuthor>
+          <GBAuthor>Hay,A.</GBAuthor>
+          <GBAuthor>Gregory,V.</GBAuthor>
+          <GBAuthor>Cameron,K.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of the surface proteins of influenza A (H5N1) viruses isolated from humans in 1997-1998</GBReference_title>
+        <GBReference_journal>Virology 254 (1), 115-123 (1999)</GBReference_journal>
+        <GBReference_pubmed>9927579</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1351</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Lu,X.</GBAuthor>
+          <GBAuthor>Tumpey,T.</GBAuthor>
+          <GBAuthor>Smith,C.</GBAuthor>
+          <GBAuthor>Shaw,M.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular Correlations of Influenza A H5N1 Virus Pathogenesis in Mice</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1351</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Katz,J.</GBAuthor>
+          <GBAuthor>Lu,X.</GBAuthor>
+          <GBAuthor>Tumpey,T.</GBAuthor>
+          <GBAuthor>Smith,C.</GBAuthor>
+          <GBAuthor>Shaw,M.</GBAuthor>
+          <GBAuthor>Subbarao,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (16-AUG-2000) Influenza Branch, Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30033, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1351</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1351</GBInterval_to>
+            <GBInterval_accession>AF296752.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Hong Kong/516/97(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/HongKong/516/97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:155227</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>passage history: C2/E2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1351</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1351</GBInterval_to>
+            <GBInterval_accession>AF296752.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1351</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1351</GBInterval_to>
+            <GBInterval_accession>AF296752.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAM76911.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSICMVVGIISLMLQIGNIISVWVSHIIQTWHPNQPEPCNQSINFYTEQAAASVTLAGNSSLCPISGWAIYSKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRTLMSCPVGEAPSPYNSRFESVAWSASACHDGISWLTIGISGPDNGAVAVLKYNGIITDTIKSWRKNILRTQESECACVNGSCFTVMTDGPSNEQASYKIFKIEKGRVVKSVELNAPNYHYEECSCYPDAGEITCVCRGNWHGSNRPWVSFNQNLEYQIGYICSGVFGDSPRPNDGTGSCGPVSLNGAYGVKGFSFKYGNGVWIGRTKSTSSRSGFEMIWDPNGWTETDSSFSLKQDIIAITDWSGYSGSFIQHPELTGLNCMRPCFWVELIRGRPKEKTIWTSGTNRSFCGVNSATMGWSGPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaatccaaatcagaagataataaccattggatcaatctgcatggtagttgggataatcagcttgatgttgcaaattggaaacataatatcagtatgggtcagccacataattcaaacttggcatccaaaccagcctgaaccatgcaatcaaagcatcaatttttacactgagcaggctgcagcttcagtgacattagcgggcaattcctctctctgccctattagtggatgggctatatacagcaaggacaatagtataagaattggttccaaaggggatgtgtttgttataagagaaccattcatctcatgctcccatttggaatgcagaacctttttcttaacccaaggagccctattgaatgacaagcattctaatgggaccgtcaaagacaggagcccctatagaactttaatgagctgtcctgtcggtgaggctccttccccatacaactcaaggtttgagtctgttgcttggtcagcaagtgcttgccatgatggcattagttggctaacaattggaatttccggtccggataatggggctgtggctgtattgaaatacaatggcataataacagacaccatcaagagttggaggaaaaacatactgaggacgcaagagtctgaatgtgcatgtgtgaatggttcttgttttactgtaatgacagatggaccgagtaatgaacaggcctcatacaagattttcaagatagaaaaggggagggtagtcaaatcagttgagttgaacgctcctaattatcattacgaggaatgctcctgttatcctgatgctggcgaaatcacatgtgtgtgcaggggtaattggcatggctcgaaccgaccatgggtgtccttcaatcagaatctggagtatcaaataggatatatatgcagtggggttttcggagacagtccacgccccaatgatgggacaggcagttgtggtccagtgtctcttaacggagcgtatggagtaaaagggttttcatttaaatacggcaatggtgtttggatcgggagaaccaaaagcactagttccaggagcggttttgaaatgatttgggatccaaatgggtggaccgaaacagacagtagcttctcgttgaagcaagacatcatagcaataactgattggtcaggatacagcgggagttttattcaacatccagaactgacaggattaaattgcatgagaccttgcttctgggttgaactaatcagagggaggcccaaagagaagacaatctggactagtgggaccaatagatctttctgtggtgtaaatagtgccactatgggttggtctggaccagacggtgctgagttgccattcaccattgacaagt</GBSeq_sequence>
+  </GBSeq>

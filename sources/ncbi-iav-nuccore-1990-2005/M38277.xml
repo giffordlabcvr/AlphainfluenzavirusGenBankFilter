@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAPB2L</GBSeq_locus>
+    <GBSeq_length>2341</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-JUN-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Kiev/59/1979(H1N1)) polymerase basic 2 protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M38277</GBSeq_primary-accession>
+    <GBSeq_accession-version>M38277.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M38277.1|FLAPB2L</GBSeqid>
+      <GBSeqid>gi|324991</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>polymerase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Kiev/59/1979(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Kiev/59/1979(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Petrov,N.A.</GBAuthor>
+          <GBAuthor>Netesov,S.V.</GBAuthor>
+          <GBAuthor>Golovin,S.Ia.</GBAuthor>
+          <GBAuthor>Mamaeva,N.V.</GBAuthor>
+          <GBAuthor>Mamaev,L.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Primary structure of the full-length DNA copy of the influenza virus A/Kiev/59/79 (H1N1) PB2 gene</GBReference_title>
+        <GBReference_journal>Bioorg. Khim. 13 (7), 915-920 (1987)</GBReference_journal>
+        <GBReference_pubmed>3675640</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2341</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2341</GBInterval_to>
+            <GBInterval_accession>M38277.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Kiev/59/1979(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Kiev/59/1979</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:384495</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>M38277.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase basic 2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43653.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIKELRNLMSQSRTREILTKTTVDHMAIIKKYTSGRQEKNPSLRMKWMMAMKYPITADKRITEMIPERNEQGQTLWSKMSDAGSDRVMVSPLAVTWWNRNGPVTSTVHYPKVYKTYFDKVERLKHGTFGPVHFRNQVKIRRRVDINPGHADLSAKEAQDVIMEVVFPNEVGARILTSESQLTITKEKKEELQDCKISPLMVAYMLERELVRKTRFLPVAGGTSSMYIEVLHLTQGTCWEQMYTPGGEVRNDDVDQSLIIAARNIVRRAAVSADPLASLLEMCHSTQIGGTRMVDILRQNPTEEQAVDICKAAMGLRISSSFSFGGFTFKRTSGSSIKREEEVLTGNLQTLKIRVHEGYEEFTMVGKRATAIVRKATRRLVQLIVSGRDEQSIAEAIIVAMVFSQEDCMIKAVRGDLNFVNRANQRLNPMHQLLRHFHKDAKVLFQNWGIEHIDSVMGMVGVLPDMTPSTEMSMRGIRVSKMGVDEYSSTEKVVVSIDRFLRVRDQRGNVLLSPEEVSETQGTERLTITYSSSMMWEINGPESVLVNTYQWIIRNWETVKIQWSQNPTMLYNKMEFEPFQSLVPKAIRGQYSGFVRTLFQQMRDVLGTFDTTQIIKLLPFAAAPPKQSRMQFSSLTVNVRGSGMRILVRGNSPVFNYNKTTKRLTILGKDAGTLIEDPDESTSGVESAVLRGFLILGKGDRRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRMAIN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtcaattatattcagtatggaaagaataaaagaactacggaacctgatgtcgcagtctcgcactcgcgagatactgacaaaaaccacagtggaccatatggccataattaagaagtacacatcagggagacaggaaaagaacccgtcacttaggatgaaatggatgatggcaatgaaatatccaattacagctgacaaaaggataacagaaatgattccggagagaaatgagcaaggacaaaccctatggagtaaaatgagtgatgccgggtcagatcgagtgatggtatcacctttggcagtgacatggtggaatagaaatggaccagtgacaagtacggttcattatccaaaagtctacaagacttattttgataaagtcgaaaggttaaaacatggaacctttggccctgtccattttaggaatcaagtcaagatacgccgaagagtagacataaaccctggtcatgcagacctcagtgccaaggaggcacaagatgtaatcatggaagttgttttccccaatgaagtgggggccagaatactaacgtcggaatcacaattaacaataaccaaagagaaaaaagaagaactccaagattgcaaaatttctcctttgatggttgcatacatgttagagagagaacttgtccgaaaaacgagatttctcccagttgctggtggaacaagcagtatgtacattgaagtgttgcatttgactcaaggaacgtgttgggaacagatgtacactccaggcggagaagtgaggaatgacgatgttgaccaaagcctaattattgcagccaggaacatagtgagaagagccgcagtttcagcagatccactagcatctttattggagatgtgccacagcacacaaattggcgggacaaggatggtggacattcttaggcagaacccgacggaagaacaagctgtggatatatgcaaggctgcaatgggactgagaatcagctcatccttcagttttggtgggttcacatttaaaagaacaagcgggtcctcaatcaaaagagaggaagaagtgcttacaggcaatctccaaacattgaaaataagggtgcatgaggggtatgaggagttcacaatggtggggaaaagggcaacagctatagtcagaaaagcaaccaggagattggttcagcttatagtgagtggaagggacgaacagtcaatagccgaagcaataattgtagccatggtgttttcacaagaggattgcatgataaaagcagttagaggtgacctgaatttcgttaacagggcaaatcagcggttgaatcccatgcatcaacttttaaggcattttcataaagatgcgaaagtgctttttcagaattggggaattgaacatatcgacagtgtgatgggaatggttggagtattaccagacatgactccgagcacagagatgtcaatgagaggaataagagtcagcaaaatgggcgtggatgaatactccagcacagagaaggtggtggttagcattgatcggtttttgagagttcgagaccaacgtgggaatgtattactatctcctgaggaggtcagtgaaacacaggggacagagagactgacaataacttactcatcgtcaatgatgtgggagattaatggccctgagtcagtgttggtcaatacctatcaatggatcatcagaaactgggaaactgttaaaattcaatggtctcagaatcctacaatgttgtacaacaaaatggaatttgaaccatttcagtctttagttcctaaggccattagaggccaatacagtggatttgtcagaactctattccaacaaatgagggatgtacttgggacatttgataccacccagataataaagcttctcccttttgcagccgccccaccaaagcaaagcagaatgcagttctcttcattgactgtgaatgtgaggggatcagggatgagaatacttgtaagggggaattctcctgtattcaactacaacaagaccactaaaagactaacaattctcggaaaagatgctggcactttaattgaagacccagatgaaagcacatccggagtggagtccgctgttttgagaggatttctcattctaggtaagggagatagaagatacggaccagcattaagcattaatgaactgagtaaccttgcgaaaggagaaaaggctaatgtgctaattgggcaaggagacgtggtgttggtaatgaaacgaaaacgggactctagcatacttactgacagccagacagcgaccaaaagaattcggatggccatcaattaatgttgaatagtttaaaaacgaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

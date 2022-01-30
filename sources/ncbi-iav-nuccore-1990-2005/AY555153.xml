@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY555153</GBSeq_locus>
+    <GBSeq_length>1740</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-JAN-2006</GBSeq_update-date>
+    <GBSeq_create-date>20-MAR-2004</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Thailand/2(SP-33)/2004(H5N1)) hemagglutinin gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY555153</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY555153.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY555153.1|</GBSeqid>
+      <GBSeqid>gi|45453833</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Thailand/2(SP-33)/2004(H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Thailand/2(SP-33)/2004(H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1740</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Puthavathana,P.</GBAuthor>
+          <GBAuthor>Auewarakul,P.</GBAuthor>
+          <GBAuthor>Charoenying,P.C.</GBAuthor>
+          <GBAuthor>Sangsiriwut,K.</GBAuthor>
+          <GBAuthor>Pooruk,P.</GBAuthor>
+          <GBAuthor>Boonnak,K.</GBAuthor>
+          <GBAuthor>Khanyok,R.</GBAuthor>
+          <GBAuthor>Thawachsupa,P.</GBAuthor>
+          <GBAuthor>Kijphati,R.</GBAuthor>
+          <GBAuthor>Sawanpanyalert,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of the complete genome of human influenza H5N1 virus isolates from Thailand</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 86 (PT 2), 423-433 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1099/vir.0.80368-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15659762</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1740</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Payungporn,S.</GBAuthor>
+          <GBAuthor>Chutinimitkul,S.</GBAuthor>
+          <GBAuthor>Chaisingh,A.</GBAuthor>
+          <GBAuthor>Damrongwantanapokin,S.</GBAuthor>
+          <GBAuthor>Buranathai,C.</GBAuthor>
+          <GBAuthor>Amonsin,A.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Single step multiplex real-time RT-PCR for H5N1 influenza A virus detection</GBReference_title>
+        <GBReference_journal>J. Virol. Methods 131 (2), 143-147 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.jviromet.2005.08.004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16183140</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1740</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Puthavathana,P.</GBAuthor>
+          <GBAuthor>Chor Charoenying,P.</GBAuthor>
+          <GBAuthor>Auewarakul,P.</GBAuthor>
+          <GBAuthor>Boonnak,K.</GBAuthor>
+          <GBAuthor>Thawatsupha,P.</GBAuthor>
+          <GBAuthor>Kijphati,R.</GBAuthor>
+          <GBAuthor>Chittaganpitch,M.</GBAuthor>
+          <GBAuthor>Waicharoen,S.</GBAuthor>
+          <GBAuthor>Maneewong,P.</GBAuthor>
+          <GBAuthor>Auwanit,W.</GBAuthor>
+          <GBAuthor>Sawanpanyalert,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Complete hemagglutinin sequence of a human pathogenic avian Influenza virus (H5N1) from Thailand</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1740</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Puthavathana,P.</GBAuthor>
+          <GBAuthor>Chor Charoenying,P.</GBAuthor>
+          <GBAuthor>Auewarakul,P.</GBAuthor>
+          <GBAuthor>Boonnak,K.</GBAuthor>
+          <GBAuthor>Thawatsupha,P.</GBAuthor>
+          <GBAuthor>Kijphati,R.</GBAuthor>
+          <GBAuthor>Chittaganpitch,M.</GBAuthor>
+          <GBAuthor>Waicharoen,S.</GBAuthor>
+          <GBAuthor>Maneewong,P.</GBAuthor>
+          <GBAuthor>Auwanit,W.</GBAuthor>
+          <GBAuthor>Sawanpanyalert,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-FEB-2004) Microbiology, Faculty of Medicine Siriraj Hospital, Prannok, Bangkok 10700, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1740</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1740</GBInterval_to>
+            <GBInterval_accession>AY555153.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Thailand/2(SP-33)/2004(H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Thailand/2(SP-33)/2004 (H5N1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:266828</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>12..1718</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>12</GBInterval_from>
+            <GBInterval_to>1718</GBInterval_to>
+            <GBInterval_accession>AY555153.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAS65618.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEKIVLLFAIVSLVKSDQICIGYHANNSTEQVDTIMEKNVTVTHAQDILEKTHNGKLCDLDGVKPLILRDCSVAGWLLGNPMCDEFINVPEWSYIVEKANPVNDLCYPGDFNDYEELKHLLSRINHFEKIQIIPKSSWSSHEVSLGVSSACPYQGKSSFFRNVVWLIKKNSTYPTIKRSYNNTNQEDLLVLWGIHHPNDAAEQTKLYQNPTTYISVGTSTLNQRLVPRIATRSKVNGQSGRMEFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSTIMKSELEYGNCNTKCQTPMGAINSSMPFHNIHPLTIGECPKYVKSNRLVLATGLRNSPQRERRRKKRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAAAKESTQKAIDGVTNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLKDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYSEEARLKREEISGVKLESIGIYQILSIYSTVASSLALAIMVAGLSLWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcatctgtcaaatggagaaaatagtgcttctttttgcaatagtcagtcttgttaaaagtgatcagatttgcattggttaccatgcaaacaactcgacagagcaggttgacacaataatggaaaagaacgttactgttacacatgcccaagacatactggaaaagacacacaacgggaagctctgcgatctagatggagtgaagcctctaattttgagagattgtagtgtagctggatggctcctcggaaacccaatgtgtgacgaattcatcaatgtgccggaatggtcttacatagtggagaaggccaatccagtcaatgacctctgttacccaggggatttcaatgactatgaagaattgaaacacctattgagcagaataaaccattttgagaaaattcagatcatccccaaaagttcttggtccagtcatgaagtctcattaggggtgagctcagcatgtccataccagggaaagtcctcctttttcagaaatgtggtatggcttatcaaaaagaacagtacatacccaacaataaagaggagctacaataataccaaccaagaagatcttttggtactgtgggggattcaccatcctaatgatgcggcagagcagacaaagctctatcaaaacccaaccacctatatttccgttgggacatcaacactaaaccagagattggtaccaagaatagctactagatccaaagtaaacgggcaaagtggaaggatggagttcttctggacaattttaaaaccgaatgatgcaatcaacttcgagagtaatggaaatttcattgctccagaatatgcatacaaaattgtcaagaaaggggactcaacaattatgaaaagtgaattggaatatggtaactgcaacaccaagtgtcaaactccaatgggggcgataaactctagtatgccattccacaatatacaccctctcaccatcggggaatgccccaaatatgtgaaatcaaacagattagtccttgcgactgggctcagaaatagccctcaaagagagagaagaagaaaaaagagaggattatttggagctatagcaggttttatagagggaggatggcagggaatggtagatggttggtatgggtaccaccatagcaatgagcaggggagtgggtacgctgcagccaaagaatccactcaaaaggcaatagatggagtcaccaataaggtcaactcgatcattgacaaaatgaacactcagtttgaggccgttggaagggaatttaacaacttagaaaggagaatagagaatttaaacaagaagatggaagacgggttcctagatgtctggacttataatgctgaacttctggttctcatggaaaatgagagaactctagactttcacgactcaaatgtcaagaacctttacgacaaggtccgactacagcttaaggataatgcaaaggagctgggtaacggttgtttcgagttctatcataaatgtgataatgaatgtatggaaagtgtaagaaacggaacgtatgactacccgcagtattcagaagaagcaagactaaaaagagaggaaataagtggagtaaaattggaatcaataggaatttaccaaatactgtcaatttattctacagtggcgagttccctagcactggcaatcatggtagctggtctatccttatggatgtgctccaatgggtcgttacaatgcagaatttgcatttaaatttgtgagttcagattgtgaa</GBSeq_sequence>
+  </GBSeq>

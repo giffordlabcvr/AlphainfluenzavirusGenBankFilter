@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAHAMUTA</GBSeq_locus>
+    <GBSeq_length>1770</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/turkey/Ontario/7732/1966(H5N9)) hemagglutinin precursor, gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M30122</GBSeq_primary-accession>
+    <GBSeq_accession-version>M30122.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M30122.1|FLAHAMUTA</GBSeqid>
+      <GBSeqid>gi|324191</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/turkey/Ontario/7732/1966(H5N9))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/turkey/Ontario/7732/1966(H5N9))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1770</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Philpott,M.</GBAuthor>
+          <GBAuthor>Hioe,C.</GBAuthor>
+          <GBAuthor>Sheerar,M.</GBAuthor>
+          <GBAuthor>Hinshaw,V.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hemagglutinin mutations related to attenuation and altered cell tropism of a virulent avian influenza A virus</GBReference_title>
+        <GBReference_journal>J. Virol. 64 (6), 2941-2947 (1990)</GBReference_journal>
+        <GBReference_pubmed>2335822</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Draft entry and computer-readable sequence kindly submitted by M.S.Philpott, 21-NOV-1989.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1770</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1770</GBInterval_to>
+            <GBInterval_accession>M30122.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/turkey/Ontario/7732/1966(H5N9))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/turkey/Ontario/7732/1966</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380301</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>29..1726</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>29</GBInterval_from>
+            <GBInterval_to>1726</GBInterval_to>
+            <GBInterval_accession>M30122.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43205.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIVIALAIISVVKGDQICIGYHANNSTKQVDTIMEKNVTVTYAQDILEKEHNGKLCSLKGVRPLILKDCSVAGWLLGNPMCDEFLNVPEWSYIVEKDNPTNGLCYPGDFNDYEELKHLMSSTNHIEKIRIIPRNSWSEHNASSGVSSSCPYNGRSSFYRNVVWLIKKNNSYPTIKRTYNNTNVEDLLILWGIHHPADAAEQTRLYKNSNTYVSVGTSTLNQRSIPEIATRPKVNGQNGRIEFFWTILRPNHAISFESNGNFIAPEYAYKIVKKGDSAIMRSELEYGNCDTKCQTPVGAINSSMPFHNVHPLTIGECPKYVKSNKLVLATGPRNVPQRRKKRGLFGAKAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTHKAIDGITNKVNSIIDKMNTQFEAVGKEFNNLERRIENLNKQMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYSEESRLNREEIDGVKLESMGTYQILSIYSTVASSLALAIMVAGLSFWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>29..1057</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>29</GBInterval_from>
+            <GBInterval_to>1057</GBInterval_to>
+            <GBInterval_accession>M30122.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin 1 chain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MERIVIALAIISVVKGDQICIGYHANNSTKQVDTIMEKNVTVTYAQDILEKEHNGKLCSLKGVRPLILKDCSVAGWLLGNPMCDEFLNVPEWSYIVEKDNPTNGLCYPGDFNDYEELKHLMSSTNHIEKIRIIPRNSWSEHNASSGVSSSCPYNGRSSFYRNVVWLIKKNNSYPTIKRTYNNTNVEDLLILWGIHHPADAAEQTRLYKNSNTYVSVGTSTLNQRSIPEIATRPKVNGQNGRIEFFWTILRPNHAISFESNGNFIAPEYAYKIVKKGDSAIMRSELEYGNCDTKCQTPVGAINSSMPFHNVHPLTIGECPKYVKSNKLVLATGPRNVPQRRKKR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1058..1723</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1058</GBInterval_from>
+            <GBInterval_to>1723</GBInterval_to>
+            <GBInterval_accession>M30122.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin 2 chain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GLFGAKAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTHKAIDGITNKVNSIIDKMNTQFEAVGKEFNNLERRIENLNKQMEDGFLDVWTYNAELLVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVRNGTYDYPQYSEESRLNREEIDGVKLESMGTYQILSIYSTVASSLALAIMVAGLSFWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggtctaatctatcaaaatggaaagaatagtgattgcccttgcaataatcagcgttgtcaaaggtgaccaaatctgcattggttatcatgcaaacaattcaacaaaacaagttgacacaatcatggagaagaatgtgacggtcacatatgctcaagatatactggaaaaggagcacaacgggaaactctgcagtctcaaaggagtgaggcccctcattctgaaggattgcagtgtggctggatggcttcttgggaaccctatgtgcgatgagttcctgaatgtgccggaatggtcatatattgtagagaaggacaatccaaccaatggcttatgttatccaggagacttcaatgattatgaagaactgaagcatttaatgagcagcacaaaccatattgagaaaattcgaataatccctagaaactcttggtccgaacataatgcctcatcaggagtgagctcatcatgcccatacaatggtagatcttccttttacaggaatgtggtgtggttgatcaagaagaataattcatacccaacaataaagaggacctacaataacaccaatgtagaggaccttctgatattgtggggaatccatcaccctgctgatgcagcggaacaaacaagactctataagaactcgaacacttatgtgtctgtaggaacatcaacactaaatcagaggtcaattccagaaatagctaccaggcccaaagtgaatggacaaaatggaagaattgaatttttctggacaatactaaggccgaaccatgcaatcagctttgaaagtaatgggaactttatagctcctgaatatgcatacaagatagttaaaaagggagattcagcaatcatgagaagcgaactggagtatggcaactgtgataccaaatgtcagaccccagtgggtgctataaattccagtatgcctttccacaatgttcatccccttaccattggagagtgtcccaaatatgtcaaatcaaataaactggtccttgcaacaggaccgaggaacgtgcctcaaagaagaaaaaaaagaggtctgtttggagcaaaagcaggattcatagaaggggggtggcaaggaatggtagatggatggtatggttaccatcatagcaacgagcagggaagtggatatgccgcagacaaagagtccactcacaaagcaatcgacggaatcaccaataaagtcaactcaatcattgacaaaatgaacactcaattcgaagccgttgggaaagaattcaacaacttagaaaggagaatagaaaatttgaataagcaaatggaagatgggtttctagatgtgtggacttacaatgcagaacttctggtgctcatggaaaatgaaagaactctggatttccatgattcaaatgtcaagaacctatacgataaggtccgactccagctgagagataatgcaaaagaattgggcaatgggtgttttgagttctaccacaaatgtgacaatgaatgcatggaaagtgtgagaaacggaacgtatgactatccacaatactcagaagaatcaaggctgaacagggaggaaatagatggagtcaaattggagtcaatgggcacctatcagatactatcaatctactcaacagtggcgagttccctagcactggcaatcatggtagctggtctgtctttttggatgtgctccaatggatcattgcagtgcagaatttgcatctaggattgtgagttcagattttaattaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF509103</GBSeq_locus>
+    <GBSeq_length>1155</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>05-MAR-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Chicken/Hong Kong/829.2/01 (H5N1)) neuraminidase (NA) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF509103</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF509103.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF509103.1|</GBSeqid>
+      <GBSeqid>gi|28849526</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Chicken/Hong Kong/829.2/01 (H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Chicken/Hong Kong/829.2/01 (H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1155</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Peiris,J.S.</GBAuthor>
+          <GBAuthor>Lipatov,A.S.</GBAuthor>
+          <GBAuthor>Ellis,T.M.</GBAuthor>
+          <GBAuthor>Dyrting,K.C.</GBAuthor>
+          <GBAuthor>Krauss,S.</GBAuthor>
+          <GBAuthor>Zhang,L.J.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Emergence of multiple genotypes of H5N1 avian influenza viruses in Hong Kong SAR</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 99 (13), 8950-8955 (2002)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.132268999</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>12077307</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1155</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guan,Y.</GBAuthor>
+          <GBAuthor>Peiris,J.S.</GBAuthor>
+          <GBAuthor>Zhang,L.J.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+          <GBAuthor>Shortridge,K.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-MAY-2002) Microbiology, The University of Hong Kong, University Pathology Building, Queen Mary Hospital, Pokfulam Rd., Hong Kong, SAR, P.R. China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1155</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1155</GBInterval_to>
+            <GBInterval_accession>AF509103.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Chicken/Hong Kong/829.2/01 (H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Chicken/Hong Kong/829.2/01 (H5N1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:196436</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H5N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>19..&gt;1155</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>19</GBInterval_from>
+            <GBInterval_to>1155</GBInterval_to>
+            <GBInterval_accession>AF509103.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>19..&gt;1155</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>19</GBInterval_from>
+            <GBInterval_to>1155</GBInterval_to>
+            <GBInterval_accession>AF509103.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO52946.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSICMVIGIVSLMLQIGNIISIWVSHSIQTGNQHQAEPCNQSIITYENNTWVNQTYVNISNTNLLTEKAVASVTLAGNSSLCPISGWAVYSKDNGIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRTLMSCPVGEAPSPYNSRFESVAWSASACHDGTSWLTIGISGPDNGAVAVLKYNGIITDTIKSWRNNILRTQESECACVNGSCFTVMTDGPSNGQASYKIFKIEKGKVVKSVELNAPNYHYEECSCYPDAGEITCVCRDNWHGSNRPWVSFNQNLEYQIGYICSGVFGDNPRPNDGTGSCGPVSPNGAYGIKGFSFKYGNGVWIGRTKSTNSRSGFEMIWDPNG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaagcaggagattaaaatgaatccaaatcagaagataataaccattggatcaatctgtatggtaattggaatagttagcttgatgttacaaattgggaacataatctcaatatgggttagtcattcaattcagacagggaatcaacaccaagctgaaccatgcaatcaaagcattattacttatgaaaacaacacctgggtaaatcagacatatgtcaacatcagcaataccaatcttcttactgagaaagctgtggcttcagtaacattagcgggcaattcatctctttgccccattagtggatgggctgtatacagtaaggacaacggtataagaatcggttccaagggggatgtgtttgttataagagagccgttcatctcatgctcccacttggaatgcagaactttctttttgactcagggagccttgctgaatgacaagcattctaatgggaccgtcaaagacagaagcccttacagaacattgatgagttgtcctgtgggtgaggctccttccccatataactcgaggtttgagtctgttgcttggtcggcaagtgcttgtcatgatggcactagttggttgacaattggaatttctggcccagacaatggggctgtggctgtattgaaatacaatggcataataacagacactatcaagagttggaggaacaacatactgagaactcaagagtctgaatgtgcatgtgtaaatggctcttgctttactgtaatgactgatggaccaagtaatgggcaggcttcatataagatcttcaaaatagaaaaagggaaagtagttaaatcagtcgaattgaatgcccctaattatcactatgaggagtgctcctgttatcctgatgctggcgaaatcacatgtgtgtgcagggataactggcatggctcaaatcggccatgggtatctttcaatcaaaatttggagtatcaaataggatatatatgcagtggagttttcggagacaatccacgccccaatgatgggacaggcagttgtggtccggtgtcccctaacggggcatatggaataaaagggttttcatttaaatacggcaatggtgtttggatagggagaaccaaaagcactaattccagaagcggctttgaaatgatttgggatccaaacgga</GBSeq_sequence>
+  </GBSeq>

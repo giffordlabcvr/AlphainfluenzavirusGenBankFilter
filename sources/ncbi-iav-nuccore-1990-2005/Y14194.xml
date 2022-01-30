@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>Y14194</GBSeq_locus>
+    <GBSeq_length>1444</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-APR-2005</GBSeq_update-date>
+    <GBSeq_create-date>05-APR-1999</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/FM/1/47(H1N1)) gene for neuraminidase, genomic RNA, strain A/FM/1/47-MA</GBSeq_definition>
+    <GBSeq_primary-accession>Y14194</GBSeq_primary-accession>
+    <GBSeq_accession-version>Y14194.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|Y14194.1|</GBSeqid>
+      <GBSeqid>gi|4583768</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>neuraminidase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Fort Monmouth/1/1947-mouse adapted(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Fort Monmouth/1/1947-mouse adapted(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1444</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+          <GBAuthor>Bailly,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic analysis of mouse-adapted influenza A virus identifies roles for the NA, PB1, and PB2 genes in virulence</GBReference_title>
+        <GBReference_journal>Virus Res. 61 (1), 63-76 (1999)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/S0168-1702(99)00027-1</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>10426210</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1444</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brown,E.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-MAY-1997) E.G. Brown, University of Ottawa, Dept of Microbiology and Immunology-Faculty of Medicine, 451 Smyth Rd, Ottawa Ontario K1H 8M5, CANADA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1444</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1444</GBInterval_to>
+            <GBInterval_accession>Y14194.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Fort Monmouth/1/1947-mouse adapted(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/FM/1/47-MA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380282</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>444</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>chicken embryo/MDCK cell/mouse</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>plaque isolate purified;
+mouse-adapted</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>21..1415</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>1415</GBInterval_to>
+            <GBInterval_accession>Y14194.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>amino acid 360: N-&gt;I substitution; deletion of glycosylation site</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAB40420.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8JSD9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HSSP:1NMA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001860</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011040</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:Q8JSD9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSICMVVGIISLILQIGNIVSIWISHSIQTGNQNHTGTCDQSIITYKNSTWVNQTYVNVVAGKDTTSVILAGNSSLCPIRGWAIYSKDNGVRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRALMSCPVGEAPSPYNSRFESVAWSASACHDGMGWLTIGISGPDDGAVAVLKYNGIITETIKSWRKEILRTQESECVCVNGSCFTIMTDGPSGGPASYKIFKIEKGKVTKSIELDAPNSHYEECSCYPDTSKVMCVCRDNWHGSNRPWVSFDQNLDYQMGYICSGVFGDNPRPKDGKGSCGPVYVDGANGVKGFSYKYGNGVWIGRTKSISSRQGFEMIWDPNGWTETDSNFFTKQDVVAVTDWSGYSGSFVQHPELTGLDCMRPCFWVELIRGRPKENTIWTSGSSISFCGVNSDTVDWSWPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtttaaaatgaatccaaatcagaaaataataaccattggatcaatctgtatggtagtcggaataattagcctaatattgcaaatagggaatattgtctcaatatggattagccattcaattcaaactggaaatcaaaaccatactggaacttgcgaccaaagcatcattacctataaaaatagcacctgggtaaatcaaacatatgtcaacgttgttgctgggaaggatacaacttcagtgatattagccggcaattcatctctttgccctatccgtgggtgggctatatacagcaaagataatggcgtaagaattggttccaaaggagatgtttttgtcataagagaaccctttatttcatgttctcacttggaatgcaggaccttttttctgacccaaggcgccctgttgaatgacaagcattcaaatgggaccgttaaggacagaagcccttatagggccttaatgagctgccctgttggtgaagctccgtccccgtacaactcaaggtttgaatcggttgcttggtcagcaagtgcatgtcatgatggcatgggctggctaacaatcggaatttctggtccagatgatggagcagtggctgtgttaaaatacaacggcataataactgaaaccataaaaagttggaggaaggaaatattgagaacacaagagtctgaatgtgtctgcgtaaatggttcatgtttcactataatgaccgacggcccgagtggtgggccggcctcgtacaaaattttcaagatcgagaaggggaaggttactaaatcaatagagttggatgcacctaattctcactacgaggaatgttcctgttaccctgataccagcaaagtgatgtgtgtgtgcagagacaattggcacggttcgaaccgaccatgggtgtctttcgatcaaaatctggattatcaaatgggatacatctgcagtggggttttcggtgacaatccgcgtcccaaagatggaaaaggcagctgtggtccagtgtatgttgatggagcaaacggagtaaagggattttcatacaagtatggtaatggtgtttggatagggaggactaaaagtatcagttccagacaggggttcgagatgatttgggatcctaatgggtggacagagactgatagtaatttctttacgaaacaagatgtagtggcagtaaccgattggtcagggtacagcggaagtttcgttcaacatcctgagctaacagggctggactgtatgaggccttgcttctgggttgaattaatcaggggacgacctaaagaaaatacaatctggaccagtgggagcagcatttctttttgtggtgtgaatagtgatactgtagattggtcttggccagacggtgccgagttgccattcaccattgacaagtagtttattcaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

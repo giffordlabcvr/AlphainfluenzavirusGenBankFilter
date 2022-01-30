@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IAU77837</GBSeq_locus>
+    <GBSeq_length>987</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>27-MAR-1998</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Tottori/849AM1AL3/1994(H3N2)) hemagglutinin (HA) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U77837</GBSeq_primary-accession>
+    <GBSeq_accession-version>U77837.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U77837.1|IAU77837</GBSeqid>
+      <GBSeqid>gi|2992515</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Tottori/849AM1AL3/1994(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Tottori/849AM1AL3/1994(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..987</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ito,T.</GBAuthor>
+          <GBAuthor>Suzuki,Y.</GBAuthor>
+          <GBAuthor>Takada,A.</GBAuthor>
+          <GBAuthor>Kawamoto,A.</GBAuthor>
+          <GBAuthor>Otsuki,K.</GBAuthor>
+          <GBAuthor>Masuda,H.</GBAuthor>
+          <GBAuthor>Yamada,M.</GBAuthor>
+          <GBAuthor>Suzuki,T.</GBAuthor>
+          <GBAuthor>Kida,H.</GBAuthor>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Differences in sialic acid-galactose linkages in the chicken egg amnion and allantois influence human influenza virus receptor specificity and variant selection</GBReference_title>
+        <GBReference_journal>J. Virol. 71 (4), 3357-3362 (1997)</GBReference_journal>
+        <GBReference_pubmed>9060710</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..987</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ryan-Poirier,K.</GBAuthor>
+          <GBAuthor>Suzuki,Y.</GBAuthor>
+          <GBAuthor>Bean,W.J.</GBAuthor>
+          <GBAuthor>Takada,A.</GBAuthor>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-NOV-1996) Virology, St. Jude Children's Research Hospital, 322 N. Lauderdale, Memphis, TN 38105, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..987</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>987</GBInterval_to>
+            <GBInterval_accession>U77837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Tottori/849AM1AL3/1994(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Tottori/849AM1AL3/1994</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>throat washings isolated in amnion and passaged three additional times in allantois</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380314</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..987</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>987</GBInterval_to>
+            <GBInterval_accession>U77837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;987</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>987</GBInterval_to>
+            <GBInterval_accession>U77837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 chain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC08294.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>QKLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHRILDGKNCTLIDALLGDPHCDGFQNKEWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFINEDFNWTGVAQDGGSCACKRGSVNSFFSRLNWLHKSEYKYPALNVTMPNNGKFDKLYIWGVHHPSTDSDQTSLYVRASGRVTVSTKRSQQTVTPNIGSRPWVRGLSSRISIYWTIVKPGDILLISSTGNLIAPRGYFKIRNGKSSIMRSDAPIGTCSSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQTR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaaacttcccggaaatgacaacagcacagcaacgctgtgcctgggacatcatgcagtgccaaacggaacgctagtgaaaacaatcacgaatgatcaaattgaagtgactaatgctactgagctggttcagagttcctcaacaggtagaatatgcgacagtcctcaccgaatccttgatggaaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcaaagcttacagcaactgttacccttatgatgtgccggattatgcctcccttaggtcactagttgcctcatcaggcaccctggagtttatcaatgaagacttcaattggactggagtcgctcaggatgggggaagctgtgcttgcaaaaggggatctgttaacagtttctttagtagattgaattggttgcacaaatcagaatacaaatatccagcgctgaacgtgactatgccaaacaatggcaaatttgacaaattgtacatttggggggttcaccatccgagcacggacagtgaccaaaccagcctatatgttcgagcatcagggagagtcacagtctctaccaaaagaagccaacaaactgtaaccccgaatatcgggtctagaccctgggtaaggggtctgtccagtagaataagcatctattggacaatagtaaaaccgggagacatacttttgatcagtagcacagggaatctaattgctcctcggggttacttcaaaatacgaaatgggaaaagctcaataatgaggtcagatgcacccattggcacctgcagttctgaatgcatcactccaaatggaagcattcccaatgacaaaccttttcaaaatgtaaacaggatcacatatggggcctgccccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaactaga</GBSeq_sequence>
+  </GBSeq>

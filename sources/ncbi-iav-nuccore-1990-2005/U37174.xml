@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IAU37174</GBSeq_locus>
+    <GBSeq_length>996</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>19-DEC-1995</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/chicken/Mexico/31381-4/1994(H5N2)) hemagglutinin (HA) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U37174</GBSeq_primary-accession>
+    <GBSeq_accession-version>U37174.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U37174.1|IAU37174</GBSeqid>
+      <GBSeqid>gi|1125720</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/chicken/Mexico/31381-4/1994(H5N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/chicken/Mexico/31381-4/1994(H5N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Garcia,M.</GBAuthor>
+          <GBAuthor>Crawford,J.M.</GBAuthor>
+          <GBAuthor>Latimer,J.W.</GBAuthor>
+          <GBAuthor>Rivera-Cruz,E.</GBAuthor>
+          <GBAuthor>Perdue,M.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Heterogeneity in the haemagglutinin gene and emergence of the highly pathogenic phenotype among recent H5N2 avian influenza viruses from Mexico</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 77 (Pt 7), 1493-1504 (1996)</GBReference_journal>
+        <GBReference_pubmed>8757992</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..996</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Garcia,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-SEP-1995) Maricarmen Garcia, Southeast Poultry Research Lab, USDA, College Station Rd., Athens, GA 30605, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>U37174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/chicken/Mexico/31381-4/1994(H5N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/chicken/Mexico/31381-4/1994</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H5N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>J6/94A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Gallus domesticus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380921</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>H5N2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>U37174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;996</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>996</GBInterval_to>
+            <GBInterval_accession>U37174.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA1 subunit</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAB19081.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DQICIGYHANNSTKQVDTIMEKNVTVTHAQDILEKEHNGRLCSLKGVKPLILKDCSVAGWLLGNPMCDEFLNVPEWSYIVEKDNPANGLCYPGNFNDYEELKHLMSSTNHFEKIQIFPRSSWSNHDASSGVSSACPYNGRSSFFRNVVWLIKKNNVYRTIERTYNNTNVEDLLILWGIHHPNDAAEQIKLYQNPNTYVSVGTSTLNQRSIPEIATRPKVNGQSGRMEFFWTILRPNDSINFESTGNFIAPEYAYKIIKKGDSAIMKSELNYGNCDAKCQTPVGAINSSMPFHNVHPFTIGECPKYVKSKKLVLATGLRNVPQRETRGLFGAI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaccaaatctgcattggttatcatgcaaacaattcaacaaaacaggttgacacaatcatggagaagaatgtgacggtcacacatgctcaggacatactggaaaaagaacacaatggaagactctgcagtcttaaaggagtgaagcccctcattctgaaggactgcagtgtagctggatggcttcttggaaatccaatgtgtgatgaattcctgaatgtaccggaatggtcatacattgtggaaaaagacaatccagccaatggcctgtgctatccgggaaacttcaacgattatgaagaactgaagcatttaatgagcagcacaaaccattttgagaaaattcagatatttcctaggagctcttggtccaaccatgatgcctcatcaggagtgagctcagcatgcccatacaatggtaggtcttcctttttcaggaatgtagtgtggctgatcaagaagaataatgtgtaccgaacaatagagaggacctacaacaacactaatgtagaagaccttttaatattatggggaattcatcaccctaatgatgcagctgaacagataaaactctaccagaacccgaacacttacgtgtcagtgggaacatcaacactgaatcagaggtcaatcccagaaatagccaccagacccaaggtgaacggacagagtggaaggatggaatttttttggacaatactaaggccgaacgactcaatcaactttgagagtactgggaactttatagctcccgaatatgcatacaagattattaaaaaaggagactcagcaatcatgaaaagtgaactgaattatggtaactgtgatgcaaaatgtcagaccccagtgggtgctataaattccagtatgcctttccacaatgtccatccttttaccattggggagtgccccaagtatgtcaaatcgaaaaaactggtccttgcaacagggctaagaaacgtaccccaaagagaaacaagaggcctatttggagcaata</GBSeq_sequence>
+  </GBSeq>

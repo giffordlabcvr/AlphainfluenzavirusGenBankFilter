@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAM1B</GBSeq_locus>
+    <GBSeq_length>1005</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/WSN/1933(H1N1)) M1 matrix protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M23920</GBSeq_primary-accession>
+    <GBSeq_accession-version>M23920.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M23920.1|FLAM1B</GBSeqid>
+      <GBSeqid>gi|324259</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>M21846</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>matrix protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/WSN/1933(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/WSN/1933(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1005</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Markushin,S.</GBAuthor>
+          <GBAuthor>Ghiasi,H.</GBAuthor>
+          <GBAuthor>Sokolov,N.</GBAuthor>
+          <GBAuthor>Shilov,A.</GBAuthor>
+          <GBAuthor>Sinitsin,B.</GBAuthor>
+          <GBAuthor>Brown,D.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Nayak,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of RNA segment 7 and the predicted amino sequence of M1 and M2 proteins of FPV/Weybridge (H7N7) and WSN (H1N1) influenza viruses</GBReference_title>
+        <GBReference_journal>Virus Res. 10 (2-3), 263-271 (1988)</GBReference_journal>
+        <GBReference_pubmed>3414185</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1005</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1005</GBInterval_to>
+            <GBInterval_accession>M23920.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/WSN/1933(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/WSN/1933</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:382835</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>26..784</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>26</GBInterval_from>
+            <GBInterval_to>784</GBInterval_to>
+            <GBInterval_accession>M23920.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M1 matrix protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43252.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIVPSGPLKAEIAQRLEDVFAGKNTDLEVLMEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNVLNGNGDPNNMDKAVKLYRKLKREITFYGAKEIALSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHRSHRQMVTTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMDIASQARQMVQAMRTIGTHPSSSAGLKSDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtagatattgaaagatgagtcttctaaccgaggtcgaaacgtacgttctctctatcgtcccgtcaggccccctcaaagccgagatcgcacagagacttgaagatgtctttgcagggaagaacaccgatcttgaggttctcatggaatggctaaagacaagaccaatcctgtcacctctgactaaggggattttaggatttgtgttcacgctcaccgtgcctagtgagcggggactgcagcgtagacgctttgtccaaaatgtccttaatgggaacggagatccaaataacatggacaaagcagttaaactgtataggaagcttaaaagggagataacattctatggggccaaagaaatagcactcagttattctgctggtgcacttgccagttgtatgggcctcatatacaacaggatgggggctgtgaccactgaagtggcatttggcctggtatgcgcaacctgtgaacagattgctgactcccagcatcggtctcataggcaaatggtgacaacaaccaatccactaatcagacatgagaacagaatggttctagccagcactacggctaaggctatggagcaaatggctggatcgagtgagcaagcagcagaggccatggatattgctagtcaggccaggcaaatggtgcaggcgatgagaaccattgggactcatcctagctccagtgctggtctaaaaagtgatcttcttgaaaatttgcaggcctatcagaaacgaatgggggtgcagatgcaacgattcaagtgatcctctcgtcattgcagcaaatatcattggaatcttgcacttgatattgtggattcttgatcgtctttttttcaaatgcatttatcgtcgccttaaatacggtttgaaaagagggccttctacggaaggagtgccagagtctatgagggaagaatatcgaaaggaacagcagaatgctgtggatgttgacgatggtcattttgtcaacatagagctggagt</GBSeq_sequence>
+  </GBSeq>

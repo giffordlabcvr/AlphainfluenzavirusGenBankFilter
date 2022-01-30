@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLA557NA</GBSeq_locus>
+    <GBSeq_length>1467</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/X-7(F1)/(H2N2)) neuraminidase mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M11205</GBSeq_primary-accession>
+    <GBSeq_accession-version>M11205.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M11205.1|FLA557NA</GBSeqid>
+      <GBSeqid>gi|323969</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>neuraminidase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/X-7(F1)/(H2N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/X-7(F1)/(H2N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1467</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Air,G.M.</GBAuthor>
+          <GBAuthor>Els,M.C.</GBAuthor>
+          <GBAuthor>Brown,L.E.</GBAuthor>
+          <GBAuthor>Laver,W.G.</GBAuthor>
+          <GBAuthor>Webster,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Location of antigenic sites on the three-dimensional structure of the influenza N2 virus neuraminidase</GBReference_title>
+        <GBReference_journal>Virology 145 (2), 237-248 (1985)</GBReference_journal>
+        <GBReference_pubmed>2411049</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Draft entry and computer readable copy of sequence kindly submitted by G.M. Air 6-9-86 Sequence reported is + strand Base 964 [t] was previouly reported as [c].</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1467</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1467</GBInterval_to>
+            <GBInterval_accession>M11205.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/X-7(F1)/(H2N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>11-day-old embryonated chicken eggs, originally from human</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:387190</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>6</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..1429</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>1429</GBInterval_to>
+            <GBInterval_accession>M11205.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43084.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSVSLTIATVCFLMQIAILATTVTLHFKQHECDSPASNQVMPCEPIIIERNITEIVYLNNTTIEKEICPEVVEYRNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNGTIHDRIPHRTLLMNELGVPFHLGTKQVCVAWSSSSCHDGKAWLHVCVTGDDRNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVVMTDGSASGRADTRILFIKEGKIVHISPLSGSAQHIEECSCYPRYPDVRCICRDNWKGSNRPVIDINMEDYSIDSGYVCSGLVGDTPRNDDSSSNSNCRDPNNERGNPGVKGWAFDNGDDVWMGRTINKESRSGYETFKVIGGWSTPNSKSQVNRQVIVDNNNWSGYSGIFSVEGKSCINRCFYVELIRGRPQETRVWWTSNSIVVFCGTSGTYGTGSWPDGANINFMPI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtgaaaatgaatccaaatcaaaagataataacaattggctctgtctctctcaccattgcaacagtatgcttcctcatgcagattgccatcctggcaactactgtgacattgcattttaaacaacatgagtgcgactcccccgcgagcaaccaagtaatgccatgtgaaccaataataatagaaaggaacataacagagatagtgtatttgaataacaccaccatagagaaagagatttgccccgaagtagtggaatacagaaattggtcaaagccgcaatgtcaaattacaggatttgcacctttttctaaggacaattcaatccggctttctgctggtggggacatttgggtgacgagagaaccttatgtgtcatgcgaccctggcaagtgttatcaatttgcactcgggcaggggaccacactagacaacaaacattcaaatggcacaatacatgatagaatccctcaccgaaccctattaatgaatgagttgggtgttccatttcatttaggaaccaaacaagtgtgtgtagcatggtccagctcaagttgtcacgatggaaaagcatggttgcatgtttgtgtcactggggatgatagaaatgcgactgctagcttcatttatgacgggaggcttgtggacagtattggttcatggtctcaaaatatcctcaggacccaggagtcggaatgcgtttgtatcaatgggacttgcacagtagtaatgactgatggaagtgcatcaggaagagccgatactagaatactattcattaaagaggggaaaattgtccatattagcccattgtcaggaagtgctcagcatatagaggagtgttcctgttaccctcgatatcctgacgtaagatgtatctgcagagacaactggaaaggctctaataggcccgttatagacataaatatggaagattatagcattgattccggttatgtgtgctcagggcttgttggcgacacacccaggaacgacgacagctctagcaatagcaattgcagggatcctaacaatgaaagagggaatccaggagtgaaaggctgggcctttgacaatggagatgatgtatggatgggaagaacaatcaacaaagaatcacgctcaggttatgaaactttcaaagtcattggtggttggtccacacctaattccaaatcgcaggtcaatagacaggtcatagttgacaacaataattggtctggttactctggtattttctctgttgagggcaaaagctgcatcaataggtgcttttatgtggagttgataaggggaaggccacaggagactagagtatggtggacctcaaacagtattgttgtgttttgtggcacttcaggtacttatggaacaggctcatggcctgatggggcgaacatcaatttcatgcctatataagctttcgcaattttagaaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

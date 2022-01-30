@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IVU08863</GBSeq_locus>
+    <GBSeq_length>1002</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-MAR-2013</GBSeq_update-date>
+    <GBSeq_create-date>09-MAY-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/reassortant/BS(Philippines/2/1982 x Puerto Rico/8/1934)(H3N2)) M2 protein and M1 protein genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>U08863</GBSeq_primary-accession>
+    <GBSeq_accession-version>U08863.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U08863.1|IVU08863</GBSeqid>
+      <GBSeqid>gi|483854</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/reassortant/BS(Philippines/2/1982 x Puerto Rico/8/1934)(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/reassortant/BS(Philippines/2/1982 x Puerto Rico/8/1934)(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1002</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hartley,C.A.</GBAuthor>
+          <GBAuthor>Reading,P.C.</GBAuthor>
+          <GBAuthor>Ward,A.C.</GBAuthor>
+          <GBAuthor>Anders,E.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Changes in the hemagglutinin molecule of influenza type A (H3N2) virus associated with increased virulence for mice</GBReference_title>
+        <GBReference_journal>Arch. Virol. 142 (1), 75-88 (1997)</GBReference_journal>
+        <GBReference_pubmed>9155874</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1002</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ward,A.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Virulence of influenza A virus for mouse lung</GBReference_title>
+        <GBReference_journal>Virus Genes 14 (3), 187-194 (1997)</GBReference_journal>
+        <GBReference_pubmed>9311563</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1002</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ward,A.,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-APR-1994) Ward A. C., Biomolecular Research Institute, Virology, 343 Royal Parade, Parkville, Victoria, Australia, 3052</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1002</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1002</GBInterval_to>
+            <GBInterval_accession>U08863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/reassortant/BS(Philippines/2/1982 x Puerto Rico/8/1934)(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Philippines/2/82/BS [A/PR/8/24 X A/Phil/2/82 reassortant] (H3N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1302344</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(1..26,715..982)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>26</GBInterval_to>
+            <GBInterval_accession>U08863.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>715</GBInterval_from>
+            <GBInterval_to>982</GBInterval_to>
+            <GBInterval_accession>U08863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC79578.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETPIRNEWGCRCNGSSDPLTIAANIIGILHLTLWILDRLFFKCIYRRFKYGLKGGPSTEGVPKSMREEYRKEQQSAVDADDGHFVSIELE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..759</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>759</GBInterval_to>
+            <GBInterval_accession>U08863.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>matrix protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC79577.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSLLTEVETYVLSIIPSGPLKAEIAQRLEDVFAGKNTDLEVLMEWLKTRPILSPLTKGILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDKAVKLYRKLKREITFHGAKEISLSYSAGALASCMGLIYNRMGAVTTEVAFGLVCATCEQIADSQHRSHRQMVTTTNPLIRHENRMVLASTTAKAMEQMAGSSEQAAEAMEVASQARQMVQAMRTIGTHPSSSAGLKNDLLENLQAYQKRMGVQMQRFK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagtcttctaaccgaggtcgaaacgtacgtactctctatcatcccgtcaggccccctcaaagccgagatcgcacagagacttgaagatgtctttgcagggaagaacaccgatcttgaggttctcatggaatggctaaagacaaggccaatcctgtcacctctgactaaggggattttaggatttgtgttcacgctcaccgtgcccagtgagcgaggactgcagcgtagacgctttgtccaaaatgcccttaatgggaacggggatccaaataacatggacaaagcagttaaactgtataggaagctcaagagggagataacattccatggggccaaagaaatctcactcagttattctgctggtgcacttgccagttgtatgggcctcatatacaacaggatgggggctgtgaccactgaagtggcatttggcctagtatgtgcaacctgtgaacagattgctgactcccagcatcggtctcataggcaaatggtgacaacaaccaatccactaatcagacatgagaacagaatggttttagccagcactacagctaaggctatggagcaaatggctggatcgagtgagcaagcagcagaggccatggaggttgctagtcaggctagacaaatggtgcaagcgatgagaaccattgggactcatcctagctccagtgctggtctgaaaaatgatcttcttgaaaatttgcaggcctatcagaaacgaatgggggtgcagatgcaacggttcaagtgatcctctcactattgccgcaaatatcattgggatcttgcacttgacattgtggattcttgatcgtctttttttcaaatgcatttaccgtcgctttaaatacggactgaaaggagggccttctacggaaggagtgccaaagtctatgagggaagaatatcgaaaggaacagcagagtgctgtggatgctgacgatggtcattttgtcagcatagagctggagtaaaaaactaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

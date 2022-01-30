@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF270727</GBSeq_locus>
+    <GBSeq_length>1017</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-JUL-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus isolate A/Ohio/2/59 (H2N2)) hemagglutinin gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF270727</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF270727.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF270727.1|</GBSeqid>
+      <GBSeqid>gi|8927537</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Ohio/2/59 (H2N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Ohio/2/59 (H2N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1017</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Matrosovich,M.</GBAuthor>
+          <GBAuthor>Tuzikov,A.</GBAuthor>
+          <GBAuthor>Bovin,N.</GBAuthor>
+          <GBAuthor>Gambaryan,A.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Castrucci,M.R.</GBAuthor>
+          <GBAuthor>Donatelli,I.</GBAuthor>
+          <GBAuthor>Kawaoka,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Early alterations of the receptor-binding properties of H1, H2 and H3 avian influenza virus hemagglutinins after their introduction into mammals</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1017</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Klimov,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (23-MAY-2000) Influenza Branch, G-16, Centers for Disease Control and Prevention, 1600 Clifton Rd., Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>AF270727.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Ohio/2/59 (H2N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>A/Ohio/2/59 (H2N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:135327</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1017</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1017</GBInterval_to>
+            <GBInterval_accession>AF270727.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF82111.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAIIYLILLFTAVRGDQICIGYHANNSTEKVDTILERNVTVTHAKDILEKTHNGKLCKLNGIPPLELGDCSIAGWLLGNPECDRLLRVPEWSYIMEKENPRDGLCYPGSFNDYEELKHLLSSVKHFEKVRILPKDRWTQHTTTGGSRACAVSGNPSFFRNMIWLTKKGSNYPVAKGSYNNTSGEQMLIIWGVHHPNDETEQRTLYQNVGTYVSVVTSTLNKRSTPKIATRPKVNGLGSRMEFSWTLLDMWDTINFESTGNLIAPEYGFKISKRGSSGIMKTEGTLENCETKCQTPLGAINTTLPFHNVHPLTIGECPKYVKSEKLVLATGLRNVPQIES</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggccatcatttatctcattctcctgttcacagcagtgagaggggaccaaatatgcattggataccatgccaataattccacagagaaggtcgacacaattctagagcggaacgtcactgtgactcatgccaaggacattcttgagaagacccataacgggaagttatgcaaactaaacggaatccctccacttgaactaggggactgtagcattgccggatggctccttggaaatccagaatgtgataggcttctaagagtgccagaatggtcctatataatggagaaagaaaacccgagagacggtttgtgttatccaggcagcttcaatgattatgaagaattgaaacatctcctcagcagcgtgaaacatttcgagaaagtgaggattttgcccaaagatagatggacacagcatacaacaactggaggttcacgggcctgcgcggtgtctggtaatccatcattcttcaggaacatgatctggctgacaaagaaaggatcaaattatccggttgccaaaggatcgtacaacaacacaagcggagaacaaatgctaataatttggggggtgcaccatcccaatgatgaaacagaacaaagaacattgtaccagaatgtgggaacctatgtttccgtagtcacatcaacattgaacaaaaggtcaaccccaaaaatagcaacaaggcctaaagtgaatggactaggaagtagaatggaattctcttggaccctattggatatgtgggacaccataaattttgagagtactggtaatctaattgcaccagagtatggattcaaaatatcgaaaagaggcagttcagggatcatgaaaacagaaggaacacttgagaactgtgagaccaaatgccaaactcctttgggagcaataaatacaacattgccttttcacaatgtccacccactgacaataggtgagtgccccaaatatgtaaaatcggagaagttggtcttagcaacaggactaaggaatgttccccagattgaatca</GBSeq_sequence>
+  </GBSeq>

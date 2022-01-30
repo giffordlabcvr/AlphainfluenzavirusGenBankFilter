@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAHAGGLUT</GBSeq_locus>
+    <GBSeq_length>1779</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-JUL-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Leningrad/1954/1(H1N1)) hemagglutinin gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M38312</GBSeq_primary-accession>
+    <GBSeq_accession-version>M38312.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M38312.1|FLAHAGGLUT</GBSeqid>
+      <GBSeqid>gi|324121</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Leningrad/1954/1(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Leningrad/1954/1(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1779</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Beklemishev,A.B.</GBAuthor>
+          <GBAuthor>Blinov,V.M.</GBAuthor>
+          <GBAuthor>Vassilendo,S.K.</GBAuthor>
+          <GBAuthor>Golovin,S.Y.</GBAuthor>
+          <GBAuthor>Gutorov,V.V.</GBAuthor>
+          <GBAuthor>Karginov,V.A.</GBAuthor>
+          <GBAuthor>Mamaev,L.V.</GBAuthor>
+          <GBAuthor>Mikryukov,N.N.</GBAuthor>
+          <GBAuthor>Netesov,S.V.</GBAuthor>
+          <GBAuthor>Petrenko,V.A.</GBAuthor>
+          <GBAuthor>Petrov,N.A.</GBAuthor>
+          <GBAuthor>Sandakhchiev,L.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Synthesis of a full-length DNA copy of the hemagglutinin gene of the the influenza virus A H1N1 subtype, its cloning and primary structure</GBReference_title>
+        <GBReference_journal>Bioorg. Khim. 10 (11), 1535-1543 (1984)</GBReference_journal>
+        <GBReference_pubmed>6098280</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1779</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1779</GBInterval_to>
+            <GBInterval_accession>M38312.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Leningrad/1954/1(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>viral cRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Leningrad/1954/1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:393557</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>33..1733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>33</GBInterval_from>
+            <GBInterval_to>1733</GBInterval_to>
+            <GBInterval_accession>M38312.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA43171.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCALSATDADTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCRLKGIAPLQLGKCSIAGWILGNPECESLVSKKSWSYIAETPNSENGTCYPGYFADYEELREQLSSVSSFERFEIFPKERSWPKHNVTRGVTASCSHKGKSSFYRNLLWLTEKNGSYPNLSKSYVNNKEKEVLVLWGVHHPSNIEDQKTIYRKENAYVSVVSSNYNRRFTPEIAERPKVRGQAGRINYYWTLLEPGDTIIFEANGNLIAPWHAFALNRGFGSGIITSNASMDECDTKCQTPQGAINSSLPFQNIHPVTIGECPKYVRSTKLRMVTGLRNIPSIQSRGLFGAIAGFIEGGWTGMIDGWYGYHHQNEQGSGYAADQKSTQNAINGITNKVNSVIEKMNTQFTAVGKEFDELEKRMENLNKKVDDGFLDIWTYNAELLVLLENERTLDFHDSNVKNLYEKVKSQLKNNAKEIGNGCFEFYHKCNNECMESVKNGTYDYPKYSEESKLNREKIDGVKLESMGVYQILAIYSTVASSLVLLVSLGAISFWMCSNGSLQCRICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggaaaataaaaacaaccaaaatgaaagcaaaactactggtcctgttatgtgcactttcagctacagatgcagacacaatatgtataggctaccatgcgaacaactcaaccgacactgttgacacagtactcgaaaagaacgtgacagtgacacactctgtcaacctacttgaggacagtcacaacggaaaactatgcagactaaaaggaatagccccactacaattggggaaatgcagcattgccggatggatcttaggaaacccagaatgcgaatcactggtttctaagaaatcatggtcctacattgcagaaacaccaaactccgagaatggaacatgttacccaggatatttcgccgactatgaggaattgagggagcaattgagctcagtatcatcattcgagagattcgaaatattccccaaggaaagatcatggcccaaacacaacgtaaccagaggcgtaacggcatcatgctcccataaggggaaaagcagtttttacagaaatttgctatggctgacggagaaaaatggctcgtacccaaatctgagcaagtcctatgtgaacaacaaagagaaagaagtccttgtactatggggtgttcatcacccgtctaacatagaggaccaaaagaccatctatcggaaagaaaatgcttatgtctctgtagtgtcttcaaattataacaggagattcaccccagaaatagcagaaagacccaaagtaagaggtcaagcagggagaattaactactactggactctgctggaacccggggacacaataatatttgaggcaaatggaaatctaatagcgccatggcatgctttcgcactgaatagaggctttgggtcaggaatcatcacctcaaacgcatcgatggatgaatgtgacacgaagtgtcaaacaccccagggagctataaacagtagtcttcctttccagaatatacacccagtcacaataggggagtgcccaaaatacgtcaggagtacaaaattgaggatggttacaggactaaggaacatcccatccattcaatccagaggtctgtttggagccattgccggtttcattgaagggggatggactggaatgatagatggatggtatggttatcatcatcagaatgaacagggatctggctatgctgcggatcaaaaaagcacacaaaatgccattaacgggattacaaacaaggtgaactctgttatcgagaaaatgaacactcaattcacagctgtgggtaaagaattcgacgaattagaaaaaaggatggaaaacttaaataaaaaagttgatgatggatttctggacatttggacatataatgcagaattgttggttctactggaaaatgaaaggactttggattttcatgactcaaatgtgaagaatctgtatgagaaagtaaaaagccaattaaagaataatgccaaagaaataggaaacgggtgttttgaattctaccacaagtgtaacaatgaatgcatggaaagtgtaaaaaatggaacttatgactatccaaaatattcagaggaatcaaagttaaacagggaaaaaattgatggagtgaaattggaatcaatgggagtctatcagattctggcgatctactcaactgtcgccagttcactggtgcttttggtctccctgggggcaatcagcttctggatgtgttctaatgggtctttgcagtgcagaatatgcatctgagaccagaatttcagaaatataagaaaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

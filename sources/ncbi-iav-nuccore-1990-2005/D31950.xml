@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANAY89</GBSeq_locus>
+    <GBSeq_length>1461</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-APR-2006</GBSeq_update-date>
+    <GBSeq_create-date>28-JUN-1994</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Yamagata/32/1989(H1N1)) gene for neuraminidase, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>D31950</GBSeq_primary-accession>
+    <GBSeq_accession-version>D31950.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D31950.1|FLANAY89</GBSeqid>
+      <GBSeqid>gi|506203</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Yamagata/32/1989(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Yamagata/32/1989(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1461</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Katsuda,K.</GBAuthor>
+          <GBAuthor>Sato,S.</GBAuthor>
+          <GBAuthor>Shirahata,T.</GBAuthor>
+          <GBAuthor>Lindstrom,S.</GBAuthor>
+          <GBAuthor>Nerome,R.</GBAuthor>
+          <GBAuthor>Ishida,M.</GBAuthor>
+          <GBAuthor>Nerome,K.</GBAuthor>
+          <GBAuthor>Goto,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Antigenic and genetic characteristics of H1N1 human influenza virus isolated from pigs in Japan</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 76 (PT 5), 1247-1249 (1995)</GBReference_journal>
+        <GBReference_pubmed>7730809</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1461</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Katsuda,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JUN-1994) Ken Katsuda, Obihiro University of Agriculture and Veterinary Medicine, Department of Veterinary Microbiology; Inada-cho, Obihiro, Hokkaido 080, Japan (Tel:81-155-49-5111(ex.5388), Fax:81-155-49-5402)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1461</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1461</GBInterval_to>
+            <GBInterval_accession>D31950.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Yamagata/32/1989(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Yamagata/32/1989</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H1N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:379755</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>21..1433</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>1433</GBInterval_to>
+            <GBInterval_accession>D31950.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA06720.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKIITIGSISMAIGIISLILQIGNIISIWVSHSIQTGSQNHTGICNQRIITYENSTWVNQTYVNINNTNVVAGKDKTSVTLAGNSSLCPILGWAIYTKDNSIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRRLMSCPLGEAPSPYNSRFESVAWSASACHDGMGWLTIGISGPDDGAVAVLKYNGIITETIKSWKKRILRTQESECVCVNGSCFTIMTDGPSNGAASYRIFKIEKGKVTKSIELDAPNSHYEECSCYPDTGTVMCVCRDNWHGSNRPWVSFNQNLDYQIGYICSGVFGDNPPPKDGKGSCNPVTVDGADGVKGFSYRYGNGVWIGRTKSNRFRKGFEMIWDPNGWTDTDSDFSVKQDVVAMTDWSGYSGSFVQHPELTGLDCMRPCFWVELVRGRPRENTTIWTSGSSISFCGVNSDTANWSWPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggagtttaaaatgaatccaaatcagaaaataataaccattggatcaatcagtatggcaatcggaataattagtctaatattgcaaataggaaatattatttcaatatgggttagccactcaatccaaactggaagtcaaaaccacactggaatatgcaaccaaagaatcattacatatgaaaatagcacctgggtgaatcaaacatatgttaatattaacaacactaatgttgttgctggaaaggacaaaacttcagtgacattggccggcaattcatctctttgccctatccttgggtgggctatatacacaaaagacaacagcataagaattggttccaaaggagatgtttttgtcataagagaaccttttatatcatgttctcacttggaatgcagaaccttttttctgacccaaggtgctctattaaatgacaagcattcaaatgggaccgttaaggacagaagcccttataggcgcttaatgagctgtcctctaggtgaagctccgtctccatacaattcaaggtttgaatcagttgcttggtcagcaagcgcatgccatgatggcatgggctggctaacaatcggaatttctggtccagatgatggagcagtggctgtactaaaatacaacggcataataactgaaaccataaaaagttggaagaagcgaatattaagaacacaagagtctgaatgtgtctgtgtaaacggttcatgttttaccataatgaccgatggcccgagtaatggggccgcctcgtacagaatcttcaaaatcgagaaggggaaggttactaaatcaatagagttggatgcacccaattctcattacgaggaatgttcctgttacccagacaccggcacagtgatgtgtgtgtgcagggacaattggcacggttcaaatcgaccttgggtgtcttttaatcaaaacctggattatcaaataggatacatctgcagtggggtgttcggtgacaatccgcctcccaaagatggaaaaggcagctgtaatccagtgactgttgatggagcagacggagtaaaggggttttcatacagatatggtaatggtgtttggataggaaggactaaaagtaacagattcagaaagggatttgagatgatttgggatcctaatggatggacagataccgacagtgatttctcagtgaaacaggatgtagtggcaatgactgattggtcagggtacagcggaagtttcgttcaacatcctgagctaacaggattggactgtatgagaccttgcttctgggttgaattagtcagagggcggcctagagaaaatacaacaatctggactagtgggagcagcatttctttttgtggcgtgaatagtgatactgcaaactggtcttggccagacggtgccgagttgccattcaccattgacaagtagtccgttgaaaaaactccttgtttctact</GBSeq_sequence>
+  </GBSeq>

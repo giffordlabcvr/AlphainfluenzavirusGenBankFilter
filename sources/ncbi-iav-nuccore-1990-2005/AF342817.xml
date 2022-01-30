@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF342817</GBSeq_locus>
+    <GBSeq_length>890</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>04-APR-2003</GBSeq_update-date>
+    <GBSeq_create-date>04-APR-2003</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Wisconsin/10/98 (H1N1)) nonstructural protein 1 and nonstructural protein 2 genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF342817</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF342817.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF342817.1|</GBSeqid>
+      <GBSeqid>gi|29539569</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Wisconsin/10/1998(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Wisconsin/10/1998(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cooper,L.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+          <GBAuthor>Olsen,C.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Cox,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Infection of a Wisconsin Man by a Swine-like Influenza Virus Containing Avian and Human Polymerase Genes</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..890</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cooper,L.</GBAuthor>
+          <GBAuthor>Xu,X.</GBAuthor>
+          <GBAuthor>Olsen,C.</GBAuthor>
+          <GBAuthor>Klimov,A.</GBAuthor>
+          <GBAuthor>Cox,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-JAN-2001) School of Veterinary Medicine, Louisiana State University, Baton Rouge, LA 70803, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..890</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>890</GBInterval_to>
+            <GBInterval_accession>AF342817.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Wisconsin/10/1998(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:157642</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: H1N1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(27..56,529..864)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>56</GBInterval_to>
+            <GBInterval_accession>AF342817.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>529</GBInterval_from>
+            <GBInterval_to>864</GBInterval_to>
+            <GBInterval_accession>AF342817.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NS2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO88259.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSTTVSSFQDILMRMSKMQLGSSSEDLNGMVTRFESLKIYRDSLGETVMRMGDLHYLQSRNDKWREQLGQKFEEIRWLIEEVRHRLKSTENSFEQITFMQALQLLLEVEQEIRTFSFQLI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>27..686</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>27</GBInterval_from>
+            <GBInterval_to>686</GBInterval_to>
+            <GBInterval_accession>AF342817.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO88260.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDSTTVSSFQVDCFLWHIRKRFADNGLGDAPFLDRLRRDQKSLKGRGNTLGLDIETATLVGKQIVEWILKEESSETLKMTIASVPTSRYLAGMTLEEMSRDWFMLMPRQKIIGSLCVRMDQAILEKNIILKANFSVIFNRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAVGVLIGGLEWNGNTVRVSENLQRFAWRNRNEDGRPSLPPEQK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtgacaaagacataatggattccaccactgtgtcaagctttcaggtagactgtttcctttggcatatccgcaaacggtttgcagacaatggattgggtgatgccccattccttgatcggctccgccgagatcaaaagtccctaaaaggaagaggcaacacccttggcctcgacatcgaaacagccactcttgttgggaaacaaattgtggagtggattttgaaagaggaatccagcgagacacttaagatgaccattgcatctgtacctacttcgcgctacctagctggcatgaccctcgaggaaatgtcacgagactggttcatgctcatgcctaggcaaaagataataggctctctttgtgtgcgaatggaccaggcgatcttggaaaaaaacatcatactgaaagcgaacttcagtgtgatctttaaccgattagagactttgatactactaagggctttcactgaggagggagcaatcgttggagaaatttcaccattaccttctcttccaggacatactgatgaggatgtcaaaaatgcagttggggtcctcatcggaggacttgaatggaatggtaacacggttcgagtctctgaaaatctacagagattcgcttggagaaaccgtaatgaggatgggagaccttcactacctccagagcagaaatgataagtggcgagagcaattgggacagaaatttgaggaaataaggtggttaattgaagaagtgcggcacagattgaaaagcacagagaatagtttcgaacaaataacatttatgcaagccttacaactactgcttgaagtagaacaagagataagaactttctcgtttcagcttatttaatgataaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

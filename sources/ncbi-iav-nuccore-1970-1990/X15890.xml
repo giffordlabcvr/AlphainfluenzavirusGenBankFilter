@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X15890</GBSeq_locus>
+    <GBSeq_length>1565</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-MAY-2003</GBSeq_update-date>
+    <GBSeq_create-date>23-NOV-1989</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/81/HO) RNA for nucleoprotein, genomic RNA, 81/HO reassortant</GBSeq_definition>
+    <GBSeq_primary-accession>X15890</GBSeq_primary-accession>
+    <GBSeq_accession-version>X15890.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X15890.1|</GBSeqid>
+      <GBSeqid>gi|60477</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nucleoprotein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/81/HO)</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/81/HO)</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Reinhardt,U.</GBAuthor>
+          <GBAuthor>Mandler,J.</GBAuthor>
+          <GBAuthor>Scholtissek,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence of the nucleoprotein (NP) gene of the influenza A virus reassortant 81/HO, carrying the NP originally derived from A/Hong Kong/1/68 (H3N2)</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 17 (16), 6721 (1989)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/17.16.6721</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>2780295</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1565</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mandler,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JUL-1989) Mandler J., Institute of Virology, Justus Liebig University Lab 208, Frankfurter str 107, D-6300 Giessen, F R G</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1565</GBInterval_to>
+            <GBInterval_accession>X15890.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/81/HO)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>81/HO reassortant</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:229051</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>46..1542</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>46</GBInterval_from>
+            <GBInterval_to>1542</GBInterval_to>
+            <GBInterval_accession>X15890.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>unnamed protein product; nucleoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA33899.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:P22435</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002141</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:P22435</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MASQGTKRSYEQMETDGERQNATEIRASVGKMIDGIGRFYIQMCTELKLSDYEGRLIQNSLTIERMVLSAFDERRNKYLEEHPSAGKDPKKTGGPIYKRVDGKWMRELVLYDKEEIRRIWRQANNGDDATAGLTHMMIWHSNLNDTTYQRTRALVRTGMDPRMCSLMQGSTLPRRSGAAGAAVKGVGTMVMELIRMIKRGINDRNFWRGENGRKTRSAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAHKSCLPACVYGPAVASGYDFEKEGYSLVGIDPFKLLQNSHVYSLIRPNENPAHKSQLVWMACNSAAFEDLRVLSFIRGTKVSPRGKLSTRGVQIASNENMDAMESSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPAFSVQRNLPFDKPTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEMSFQGRGVFELSDEKAANPIVPSFDMSNEGSYFFGDNAEEYDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcagggtagataatcactcactgagtgacatcaaaatcatggcgtcccaaggcaccaaacggtcttatgaacagatggaaactgatggggaacgccagaatgcaactgagatcagagcatccgtcgggaagatgattgatggaattggacgattctacatccaaatgtgcactgaacttaaactcagtgattatgaggggcgactgatccagaacagcttaacaatagagagaatggtgctctctgcttttgacgaaagaaggaataaatatctggaagaacatcccagcgcggggaaggatcctaagaaaactggaggacccatatacaagagagtagatggaaagtggatgagggaactcgtcctttatgacaaagaagaaataaggcgaatctggcgccaagccaataatggtgatgatgcaacagctggtctgactcacatgatgatctggcattccaatttgaatgatacaacataccagaggacaagagctcttgttcgcaccggcatggatcccaggatgtgctctctgatgcagggttcgactctccctaggaggtctggagctgcaggcgctgcagtcaaaggagttgggacaatggtgatggagttgataaggatgatcaaacgtgggatcaatgatcggaacttctggagaggtgaaaatggacgaaaaacaaggagtgcttacgagagaatgtgcaacattctcaaaggaaaatttcaaacagctgcacaaagggcaatgatggatcaagtgagagaaagtcggaacccaggaaatgctgagatcgaagatctcatctttctggcacggtctgcactcatattgagagggtcagttgctcacaaatcttgtctgcccgcctgtgtgtatggacctgccgtagccagtggctacgacttcgaaaaagagggatactctttagtgggaatagaccctttcaaactgcttcaaaacagccacgtatacagcctaatcagaccgaacgagaatccagcacacaagagtcagctggtgtggatggcatgcaattctgctgcatttgaagatctaagagtattaagcttcatcagagggaccaaagtatccccaagggggaaactttccactagaggagtacaaattgcttcaaatgaaaacatggatgctatggaatcaagtactcttgaactgagaagcaggtactgggccataagaaccagaagtggaggaaacactaatcaacagagggcctctgcaggtcaaatcagtgtgcaacctgcattttctgtgcaaagaaacctcccatttgacaaaccaaccatcatggcagcattcactgggaatacagagggaagaacatcagacatgagggcagaaattataaggatgatggaaggtgcaaaaccagaagaaatgtccttccaggggcggggagtcttcgagctctcggacgaaaaggcagcgaacccgatcgtgccctcttttgacatgagtaatgaaggatcttatttcttcggagacaatgcagaggagtacgacaattaaggaaaaatacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

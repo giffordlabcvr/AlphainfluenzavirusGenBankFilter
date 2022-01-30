@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF017270</GBSeq_locus>
+    <GBSeq_length>1762</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-MAR-2003</GBSeq_update-date>
+    <GBSeq_create-date>18-SEP-1997</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Vienna/47/96M(H3N2)) hemagglutinin (HA) mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF017270</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF017270.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF017270.2|</GBSeqid>
+      <GBSeqid>gi|14286338</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Vienna/47/96M(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Vienna/47/96M(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1762</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Grassauer,A.</GBAuthor>
+          <GBAuthor>Egorov,A.Y.</GBAuthor>
+          <GBAuthor>Ferko,B.</GBAuthor>
+          <GBAuthor>Romanova,I.</GBAuthor>
+          <GBAuthor>Katinger,H.</GBAuthor>
+          <GBAuthor>Muster,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A host restriction-based selection system for influenza haemagglutinin transfectant viruses</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 79 (PT 6), 1405-1409 (1998)</GBReference_journal>
+        <GBReference_pubmed>9634082</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1762</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Romanova,J.</GBAuthor>
+          <GBAuthor>Katinger,D.</GBAuthor>
+          <GBAuthor>Ferko,B.</GBAuthor>
+          <GBAuthor>Voglauer,R.</GBAuthor>
+          <GBAuthor>Mochalova,L.</GBAuthor>
+          <GBAuthor>Bovin,N.</GBAuthor>
+          <GBAuthor>Lim,W.</GBAuthor>
+          <GBAuthor>Katinger,H.</GBAuthor>
+          <GBAuthor>Egorov,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Distinct host range of influenza H3N2 virus isolates in Vero and MDCK cells is determined by cell specific glycosylation pattern</GBReference_title>
+        <GBReference_journal>Virology 307 (1), 90-97 (2003)</GBReference_journal>
+        <GBReference_pubmed>12667817</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1762</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Grassauer,A.</GBAuthor>
+          <GBAuthor>Egorov,A.Y.U.</GBAuthor>
+          <GBAuthor>Ferko,B.</GBAuthor>
+          <GBAuthor>Romanova,I.</GBAuthor>
+          <GBAuthor>Muster,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-AUG-1997) Institute of Applied Microbiology, Muthgasse 18b, Vienna A-1190, Austria</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jun 4, 2001 this sequence version replaced AF017270.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1762</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1762</GBInterval_to>
+            <GBInterval_accession>AF017270.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Vienna/47/96M(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Vienna/47/96M</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>isolated on MDCK cells</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:163150</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1762</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1762</GBInterval_to>
+            <GBInterval_accession>AF017270.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>30..1730</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>30</GBInterval_from>
+            <GBInterval_to>1730</GBInterval_to>
+            <GBInterval_accession>AF017270.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAC59602.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKTIIALSYILCLVFAQKLPGNDNSTATLCLGHHAVPNGTLVKTITNDQIEVTNATELVQSSSTGRICDSPHRILDGKNCTLIDALLGDPHCDGFQNKEWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFTNEGFNWAGVAQDGKSYACKRGSVKSFFSRLNWLHKLEYKYPALNVTMPNNDKFDKLYIWGVHHPSTDSDQTSLYVQASGRVTVSTKRSQQTVIPNIGSRPWVRGISSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRNGKSSIMRSDAPIDNCNSECITPNGSIPNDKPFQNVNRITYGACPRYVKQNTLKLATGMRNVPEKQTRGIFGAIAGFIENGWEGMVDGWYGFRHQNSEGTGQAADLKSTQAAIDQINGKLNRLIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFERTRKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHDVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQKGNIRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggataattctattaaccatgaagactatcattgctttgagctacattttatgtctggttttcgctcaaaaacttcccggaaatgacaacagcacagcaacgctgtgcctgggacaccatgcagtgccaaacggaacgctagtgaaaacaatcacaaatgatcaaattgaagtgactaatgctactgagctggttcagagttcctcaacaggtagaatatgcgacagtcctcaccgaatccttgatggaaaaaactgcacactgatagatgctctattgggagaccctcattgtgatggcttccaaaataaggaatgggacctttttgttgaacgcagcaaagcttacagcaactgttacccatatgatgtgccggattatgcctcccttaggtcactagttgcctcatcaggcaccctggagtttaccaatgaaggcttcaattgggctggagtcgctcaggatgggaaaagctatgcttgcaaaaggggatctgttaaaagtttctttagtagattgaattggttgcacaaattagaatacaaatatccagcactgaacgtgactatgccaaacaatgacaaatttgacaaattgtacatttggggggttcaccacccgagcacggacagtgaccaaaccagcctatatgttcaagcatcagggagagtcacagtctctaccaaaagaagccaacaaactgtaatcccgaatatcgggtccagaccctgggtgaggggtatctccagtagaataagcatctattggacaatagtaaaaccgggagacatacttttgattaacagcacagggaatctaattgctcctcggggttacttcaaaatacgaaatgggaaaagctcaataatgaggtcagatgcacccattgacaactgcaattctgaatgcatcactccaaatggaagcattcccaatgacaaaccttttcaaaatgtaaacaggatcacatatggggcctgtcccagatatgttaagcaaaacactctgaaattggcaacagggatgcggaatgtaccagagaaacaaactagaggcatattcggcgcaatcgcaggtttcatagaaaatggttgggagggaatggtagacggttggtacggtttcaggcatcaaaattctgagggcacaggacaagcagcagatcttaaaagcactcaagcagcaatcgatcaaatcaacgggaaactgaataggttaatcgagaaaacgaacgagaaattccatcaaatcgaaaaagaattctcagaagtagaagggagaattcaggacctcgagaaatatgttgaagacactaaaatagatctctggtcttacaacgcggagcttcttgttgccctggagaatcaacatacaattgatctaactgactcagaaatgaacaaactgtttgaaagaacaagaaagcaactgagggaaaatgctgaggacatgggcaatggttgcttcaaaatataccacaaatgtgacaatgcctgcatagggtcaatcagaaatggaacttatgaccatgatgtatacagagacgaagcattaaacaaccggttccagatcaaaggtgttgagctgaagtcaggatacaaagattggatcctatggatttcctttgccatatcatgctttttgctttgtgttgttttgctggggttcatcatgtgggcctgccaaaaaggcaacattaggtgcaacatttgcatttgagtgcattaattaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLANSHB</GBSeq_locus>
+    <GBSeq_length>856</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza A/Houston/24269/85 (H3N2) nonstructural protein RNA (seg 8)</GBSeq_definition>
+    <GBSeq_primary-accession>M17699</GBSeq_primary-accession>
+    <GBSeq_accession-version>M17699.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M17699.1|FLANSHB</GBSeqid>
+      <GBSeqid>gi|324794</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nonstructural protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/Houston/24269/1985(H3N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Houston/24269/1985(H3N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..856</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Buonagurio,D.A.</GBAuthor>
+          <GBAuthor>Nakada,S.</GBAuthor>
+          <GBAuthor>Parvin,J.D.</GBAuthor>
+          <GBAuthor>Krystal,M.</GBAuthor>
+          <GBAuthor>Palese,P.</GBAuthor>
+          <GBAuthor>Fitch,W.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolution of human influenza A viruses over 50 years: rapid, uniform rate of change in NS gene</GBReference_title>
+        <GBReference_journal>Science 232 (4753), 980-982 (1986)</GBReference_journal>
+        <GBReference_pubmed>2939560</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Computer-readable sequence for kindly provided by P.Palese, 12-OCT-1987.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..856</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>856</GBInterval_to>
+            <GBInterval_accession>M17699.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Houston/24269/1985(H3N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Houston/24269/1985</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>H3N2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:385577</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>segment</GBQualifier_name>
+            <GBQualifier_value>8</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caacactgtgtcaatcttccaggtagattgctttctttggcatgtccacaaacaagttgtagaccaagaactgagtgatgccccattccttgatcggcttcgccgagatcagaggtccctaaggggaagaggcagcaccctcggtctagacatcaaagcagccacccatgttggaaagcagatagtagaaaagattctgaaggaagaatctgatgaggcacttaaaatgaccatggcctccacacctgcttcgcgatacataactgacatgactattgaggaattgtcaagaaactggttcatgctaatgcccaagcagaaagtggaaggacctctttgcatcagaatggaccaggcaatcatggagaaaaacatcatgttgaaagcgaatttcagtgtgatctttgaccgactagagaccctagtattactaagggctttcaccgaagagggagcaattgttggcgaaatctcaccattgccttcttttccaggacatactattgaggatgtcaaaaatgcaattggggtcctcatcggaggacttgaatggaatgataacacagttcgagtctctaaaactctacagagattcgcttggggaagcagtaatgaggatgggggacctccacttactccaaaacagaaacggaaaatggcgagaacagctaggtcaaaagtttgaagagataagatggctgattgaagaagtgagacacagactaaaaacaactgagaatagttttgagcaaataacattcatgcaagccttacagctgctgtttgaagtggaacaggagataagaactttctcatttcagcttatttaatgataaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

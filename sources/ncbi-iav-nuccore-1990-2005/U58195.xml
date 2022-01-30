@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>IAU58195</GBSeq_locus>
+    <GBSeq_length>1763</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-DEC-2001</GBSeq_update-date>
+    <GBSeq_create-date>15-JUN-1996</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/eq/Kentucky/81(H3N8)) hemagglutinin mRNA, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>U58195</GBSeq_primary-accession>
+    <GBSeq_accession-version>U58195.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U58195.1|IAU58195</GBSeqid>
+      <GBSeqid>gi|1377873</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/equine/Kentucky/1/1981(H3N8))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/equine/Kentucky/1/1981(H3N8))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1763</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olsen,C.W.</GBAuthor>
+          <GBAuthor>McGregor,M.W.</GBAuthor>
+          <GBAuthor>Dybdahl-Sissoko,N.</GBAuthor>
+          <GBAuthor>Schram,B.R.</GBAuthor>
+          <GBAuthor>Nelson,K.M.</GBAuthor>
+          <GBAuthor>Lunn,D.P.</GBAuthor>
+          <GBAuthor>Macklin,M.D.</GBAuthor>
+          <GBAuthor>Swain,W.F.</GBAuthor>
+          <GBAuthor>Hinshaw,V.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Immunogenicity and efficacy of baculovirus-expressed and DNA-based equine influenza virus hemagglutinin vaccines in mice</GBReference_title>
+        <GBReference_journal>Vaccine 15 (10), 1149-1156 (1997)</GBReference_journal>
+        <GBReference_pubmed>9269061</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1763</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olsen,C.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-MAY-1996) Christopher W. Olsen, Pathobiological Sciences, University of Wisconsin-Madison, 2015 Linden Drive West, Madison, WI 53706, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1763</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1763</GBInterval_to>
+            <GBInterval_accession>U58195.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/equine/Kentucky/1/1981(H3N8))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Equine/Kentucky/1/81</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:475467</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>31..1728</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>31</GBInterval_from>
+            <GBInterval_to>1728</GBInterval_to>
+            <GBInterval_accession>U58195.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAB02560.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKTTIILILLTHWVYSQNPTSGNNTATLCLGHHAVANGTLVKTITDDQIEVTNATELVQSTSIGKICNNPYRVLDGRNCTLIDAMLGDPHCDVFQYENWDLFIERSSAFSNCYPYDIPDYASLRSIVASSGTLEFTAEGFTWTGVTQNGGSGACRRGSADSFFSRLNWLTKSGNSYPTLNVTMPNNNNFDKLYIWGIHHPSTNNEQTKLYIQESGRVTVSTKRSQQTIIPNIGSRPWVRGQSGRISIYWTIVKPGDILMINSNGNLVAPRGYFKMRTGKSSVMRSDAPIDTCVSECITPNGSIPNDKPFQNVNKVTYGKCPKYIKQNTLKLATGMRNVPEKQIRGIFGAIAGFIENGWEGMVDGWYGFRYQNSEGTGQAADLKSTQAAIDQINGKLNRVIERTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDAEMNKLFEKTRRQLRENAEDMGGGCFKIYHKCDNACIGSIRNGTYDHYIYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLICVVLLGFIMWACQKGNIRCNICI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggggatactttctgtcaatcatgaagacaaccattattttgatactactgacccattgggtctacagtcaaaacccaaccagtggcaacaacacagccacactatgtctgggacaccatgcagtagcaaatggaacattggtaaaaacaataactgatgaccaaattgaggtgacaaatgctactgaattagttcagagcacttcaatagggaaaatatgcaacaacccatatagggttctagatggaagaaactgcacattaatagatgcaatgctaggagatccccactgtgatgtttttcagtatgagaattgggacctcttcatagaaagaagcagcgctttcagcaattgctacccatatgacatccctgactatgcatcgctccggtctattgtggcatcttcaggaacattagaattcacagcagagggattcacatggacaggtgtcactcaaaacggaggaagtggagcctgcagaagggggtcagccgatagtttctttagccgactgaattggctaacaaaatctggaaattcttaccccacattgaatgtaacaatgcctaacaataacaatttcgataaactatacatctgggggatccatcacccgagcacaaacaatgagcagacaaaattgtatatccaagaatcagggcgagtaacagtctcaacaaaaagaagtcaacaaacaataatccccaacatcggatctagaccgtgggtcaggggtcaatcaggcaggataagcatatattggaccattgtgaaacctggagatatcctaatgataaacagtaatggcaacttagttgcaccgcggggatattttaaaatgcgaacagggaaaagctctgtaatgagatcagatgcacccatagacacttgtgtgtccgagtgtattacaccaaatggaagcatccccaacgacaaaccatttcaaaatgtgaacaaagttacatatggaaaatgccccaagtatatcaagcagaatactttgaagctggccactgggatgaggaatgtaccagaaaagcaaatcagaggaatctttggagcaatagcgggattcatagaaaacggctgggaaggaatggttgatgggtggtatggattccgatatcagaattcggaaggaacaggacaagctgcagatctaaagagcactcaagcagccatcgaccagatcaatggaaaattgaacagagtgattgaaaggaccaatgagaaattccatcaaatagagaaggaattctcagaagtagaagggagaatccaggacttggagaagtatgtagaagacaccaaaatagacctatggtcctacaatgcagagttactggtggctctagaaaatcaacatacgattgacttaacagatgcagaaatgaataaattattcgagaagactaggcgccagttaagagaaaacgcggaagacatggggggtggatgtttcaagatttatcacaaatgtgataatgcatgcattggatcaataagaaatgggacatatgaccattacatatacagagatgaagcattaaacaaccgatttcaaattaaaggtgttgaattgaaatcaggctacaaagattggatactgtggatttcattcgccatatcatgcttcttaatttgcgttgttctattgggtttcatcatgtgggcttgccaaaaaggcaacatcagatgcaacatttgcatttgagtaaactgataattaaaaacacccttgtttctact</GBSeq_sequence>
+  </GBSeq>

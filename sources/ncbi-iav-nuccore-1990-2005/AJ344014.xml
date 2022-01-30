@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ344014</GBSeq_locus>
+    <GBSeq_length>1692</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>29-MAR-2002</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/New Caledonia/20/99) H1HA gene for haemagglutinin, genomic RNA</GBSeq_definition>
+    <GBSeq_primary-accession>AJ344014</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ344014.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ344014.1|</GBSeqid>
+      <GBSeqid>gi|19849783</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>H1HA gene</GBKeyword>
+      <GBKeyword>haemagglutinin</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Influenza A virus (A/New Caledonia/20/1999(H1N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/New Caledonia/20/1999(H1N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1692</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Marozin,S.</GBAuthor>
+          <GBAuthor>Gregory,V.</GBAuthor>
+          <GBAuthor>Cameron,K.</GBAuthor>
+          <GBAuthor>Bennett,M.</GBAuthor>
+          <GBAuthor>Valette,M.</GBAuthor>
+          <GBAuthor>Aymard,M.</GBAuthor>
+          <GBAuthor>Foni,E.</GBAuthor>
+          <GBAuthor>Barigazzi,G.</GBAuthor>
+          <GBAuthor>Lin,Y.</GBAuthor>
+          <GBAuthor>Hay,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Antigenic and genetic diversity among swine influenza A H1N1 and H1N2 viruses in Europe</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 83 (PT 4), 735-745 (2002)</GBReference_journal>
+        <GBReference_pubmed>11907321</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1692</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Marozin,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-2001) Marozin S., Virology, National Institute for Medical Research, The Ridgeway, Mill Hill, NW7 1AA, London, UNITED KINGDOM</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1692</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1692</GBInterval_to>
+            <GBInterval_accession>AJ344014.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/New Caledonia/20/1999(H1N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/New Caledonia/20/99 (H1N1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:381512</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>New Caledonia</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1692</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1692</GBInterval_to>
+            <GBInterval_accession>AJ344014.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>H1HA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1692</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1692</GBInterval_to>
+            <GBInterval_accession>AJ344014.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>H1HA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>haemagglutinin</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAC86622.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8QHU5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HSSP:1JSM</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000149</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001364</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR008980</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013827</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013828</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013829</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q8QHU5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKAKLLVLLCTFTATYADTICIGYHANNSTDTVDTVLEKNVTVTHSVNLLEDSHNGKLCLLKGIAPLQLGNCSVAGWILGNPECELLISKESWSYIVETPNPENGTCYPGYFADYEELREQLSSVSSFERFEIFPKESSWPNHTVTGVSASCSHNGKSSFYRNLLWLTGKNGLYPNLSKSYVNNKEKEVLVLWGVHHPPNIGDQRALYHTENAYVSVVSSHYSRRFTPEIAKRPKVRDQEGRINYYWTLLEPGDTIIFEANGNLIAPWYAFALSRGFGSGIITSNAPMDECDAKCQTPQGAINSSLPFQNVHPVTIGECPKYVRSAKLRMVTGLRNIPSIQSRGLFGAIAGFIEGGWTGMVDGWYGYHHQNEQGSGYAADQKSTQNAINGITNKVNSVIEKMNTQFTAVGKEFNKLERRMENLNKKVDDGFLDIWTYNAELLVLLENERTLDFHDSNVKNLYEKVKSQLKNNAKEIGNGCFEFYHKCNNECMESVKNGTYDYPKYSEESKLNREKIDGVKLESMGVYQILAIYSTVASSLVLLVSLGAISFWMCSNGSLQCRIC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaaagcaaaactactggtcctgttatgtacatttacagctacatatgcagacacaatatgtataggctaccatgccaacaactcaaccgacactgttgacacagtacttgagaagaatgtgacagtgacacactctgtcaacctacttgaggacagtcacaacggaaaactatgtctactaaaaggaatagccccactacaattgggtaattgcagcgttgccggatggatcttaggaaacccagaatgcgaattactgatttccaaggaatcatggtcctacattgtagaaacaccaaatcctgagaatggaacatgttacccagggtatttcgccgactatgaggaactgagggagcaattgagttcagtatcttcatttgagagattcgaaatattccccaaagaaagctcatggcccaaccacaccgtaaccggagtatcagcatcatgctcccataatgggaaaagcagtttttacagaaatttgctatggctgacggggaagaatggtttgtacccaaacctgagcaagtcctatgtaaacaacaaagagaaagaagtccttgtactatggggtgttcatcacccgcctaacataggggaccaaagggccctctatcatacagaaaatgcttatgtctctgtagtgtcttcacattatagcagaagattcaccccagaaatagccaaaagacccaaagtaagagatcaggaaggaagaatcaactactactggactctgctggaacctggggatacaataatatttgaggcaaatggaaatctaatagcgccatggtatgcttttgcactgagtagaggctttggatcaggaatcatcacctcaaatgcaccaatggatgaatgtgatgcgaagtgtcaaacacctcagggagctataaacagcagtcttcctttccagaatgtacacccagtcacaataggagagtgtccaaagtatgtcaggagtgcaaaattaaggatggttacaggactaaggaacatcccatccattcaatccagaggtttgtttggagccattgccggtttcattgaaggggggtggactggaatggtagatgggtggtatggttatcatcatcagaatgagcaaggatctggctatgctgcagatcaaaaaagtacacaaaatgccattaacgggattacaaacaaggtgaattctgtaattgagaaaatgaacactcaattcacagctgtgggcaaagaattcaacaaattggaaagaaggatggaaaacttaaataaaaaagttgatgatgggtttctagacatttggacatataatgcagaattgttggttctactggaaaatgaaaggactttggatttccatgactccaatgtgaagaatctgtatgagaaagtaaaaagccaattaaagaataatgccaaagaaataggaaacgggtgttttgaattctatcacaagtgtaacaatgaatgcatggagagtgtgaaaaatggaacttatgactatccaaaatattccgaagaatcaaagttaaacagggagaaaattgatggagtgaaattggaatcaatgggagtctatcagattctggcgatctactcaactgtcgccagttccctggttcttttggtctccctgggggcaatcagcttctggatgtgttccaatgggtctttgcagtgcagaatatgc</GBSeq_sequence>
+  </GBSeq>

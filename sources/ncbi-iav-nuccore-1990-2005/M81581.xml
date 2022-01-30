@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FLAPB2PROA</GBSeq_locus>
+    <GBSeq_length>2341</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-FEB-2001</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Influenza virus type A/Leningrad/134/17/57 (H2N2) PB2 gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M81581</GBSeq_primary-accession>
+    <GBSeq_accession-version>M81581.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M81581.2|FLAPB2PROA</GBSeqid>
+      <GBSeqid>gi|8281025</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/Leningrad/134/17/1957(H2N2))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/Leningrad/134/17/1957(H2N2))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Klimov,A.I.</GBAuthor>
+          <GBAuthor>Cox,N.J.</GBAuthor>
+          <GBAuthor>Yotov,W.V.</GBAuthor>
+          <GBAuthor>Rocha,E.</GBAuthor>
+          <GBAuthor>Alexandrova,G.I.</GBAuthor>
+          <GBAuthor>Kendal,A.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence changes in the live attenuated, cold-adapted variants of influenza A/Leningrad/134/57 (H2N2) virus</GBReference_title>
+        <GBReference_journal>Virology 186 (2), 795-797 (1992)</GBReference_journal>
+        <GBReference_pubmed>1733114</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Klimov,A.I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-JAN-1992) Research Institute for Viral Preparations, Academy of Medical Sciences of the USSR, Moscow, USSR</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..2341</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Klimov,A.I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-JUN-2000) Influenza Branch, G-16, Centers for Disease Control and Prevention, 1600 Clifton Rd., Atlanta, GA 30333, USA</GBReference_journal>
+        <GBReference_remark>Sequence updated by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jun 6, 2000 this sequence version replaced M81581.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2341</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2341</GBInterval_to>
+            <GBInterval_accession>M81581.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/Leningrad/134/17/1957(H2N2))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Leningrad/134/17/57 (H2N2)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:380984</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>M81581.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>28..2307</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>28</GBInterval_from>
+            <GBInterval_to>2307</GBInterval_to>
+            <GBInterval_accession>M81581.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>PB2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PB2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA19214.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MERIKELRNLMSQSRTREILTKTTVDHMAIIKKYTSGRQEKNPSLRMKWMMAMKYPITADKRITEMIPERNEQGQTLWSKMSDAGSDRVMVSPLAVTWWNRNGPMTSTVHYPKIYKTYFEKVERLKHGTFGPVHFRNQVKIRRRVDINPGHADLSAKEAQDVIMEVVFPNEVGARILTSESQLTITKEKKEELQDCKISPLMVAYMLERELVRKTRFLPVAGGTSSVYIEVLHLTQGTCWEQMYTPGGEVRNDDVDQSLIIAARNIVRRAAVSADPLASLLEMCHSTQIGGTRMVDILRQNPTEEQAVDICKAAMGLRISSSFSFGGFTFKRTSGSSVKREEEVLTGNLQTLKIRVHEGYEEFTMVGKRATAILRKATRRLIQLIVSGRDEQSIAEAIIVAMVFSQEDCMIKAVRGDLNFVNRANQRLNPMHQLLRHFQKDAKVLFQNWGIEHIDNVMGMIGVLPDMTPSTEMSMRGLRVSKMGVDEYSSAERVVVSIDRFLRVRDQRGNVLLSPEEVSETQGTEKLTITYSSSMMWEINGPESVLVNTYQWIIRNWETVKIQWSQNPTMLYNKMEFEPFQSLVPKAIRGQYSGFVRTLFQQMRDVLGTFDTTQIIKLLPFAAAPPKQSRMQFSSLTVNVRGSGMRILVRGNSPVFNYNKTTKRLTILGKDAGTLTEDPDEGTSGVESAVLRGFLILGKEDRRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRMAIN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcaaaagcaggtcaattatattcaatatggaaagaataaaagaactacggaatctgatgtcgcagtctcgcactcgcgagatactaacaaaaaccacagtggaccatatggccataattaagaagtacacatcagggagacaggaaaagaacccgtcacttaggatgaaatggatgatggcaatgaaatatccgattacagctgacaagaggataacagaaatgattcctgagagaaatgagcaagggcaaactctatggagtaaaatgagtgatgccggatcggatcgagtgatggtatcacctctggctgtgacatggtggaatagaaatggaccaatgacaagtacggttcattatccaaaaatctacaaaacttattttgagaaagtcgaaaggttaaaacatggaacctttggccctgtccattttagaaaccaagtcaaaatacgccgaagagttgacataaatcctggtcatgcagacctcagtgccaaggaggcacaggatgtaatcatggaagttgttttccctaacgaagtgggggccaggatactaacgtcggaatcgcaattaacaataaccaaagagaaaaaagaagaactccaggattgcaaaatttctcctttgatggttgcgtacatgttagagagagaacttgtccgaaaaacgagatttctcccagttgctggtggaacaagcagtgtgtacattgaagtgttgcacttgactcaaggaacatgctgggaacagatgtacactccaggtggagaagtgaggaatgatgatgttgatcaaagtctaattattgcagccaggaacatagtgagaagagcagcagtatcagcagatccactagcatctttattggagatgtgccacagcacacagattggcgggacaaggatggtggacattcttaggcagaacccaacggaagagcaagctgtggatatatgcaaggctgcaatgggactgagaatcagctcatccttcagttttggcgggttcacatttaagagaacaagcggatcatcagtcaagagagaggaagaagtgcttacgggcaatcttcaaacattgaaaataagggtgcatgagggatacgaggagttcacaatggttgggaaaagggcaacagctatactcagaaaagcaaccaggagattgattcagctgatagtgagtggaagagacgaacagtcgatagccgaagcaataattgtggccatggtattttcacaagaagattgtatgataaaagcagttagaggtgatctgaatttcgttaatagggcaaatcagcgattgaatcccatgcatcaacttttaagacattttcagaaggatgcgaaagtgctttttcaaaattggggaattgaacatatcgacaatgtgatgggaatgattggggtattaccagacatgactccaagcacagagatgtcaatgagagggttaagagtcagcaaaatgggcgtagatgaatactccagcgcggagagagtagtggtgagcattgaccggtttttgagagttcgagaccaacgaggaaatgtactattatctcctgaggaggtcagtgaaacacagggaacagagaaactgacaataacttactcatcgtcaatgatgtgggagattaatggccctgagtcagtgttggtcaatacctatcagtggatcatcagaaactgggaaactgttaaaattcagtggtctcagaatcctacaatgctatacaataaaatggaatttgagccatttcagtctttagttcctaaggccattagaggccaatacagtgggtttgttaggactctattccaacaaatgagggatgtacttgggacatttgataccacccagataataaaacttcttccctttgcagccgccccaccaaagcaaagtagaatgcagttctcttcattgactgtgaatgtgaggggatcaggaatgagaatacttgtaaggggcaattctcctgtattcaactacaacaagaccactaagagactaacaattctcggaaaggatgctggcactttaactgaagacccagatgaaggcacatctggagtggagtccgctgttctgagaggattcctcattctgggcaaagaagataggagatatggaccagcattaagcatcaatgaactgagtaaccttgcgaaaggagaaaaggctaatgtactaattgggcaaggagacgtggtgttggtaatgaaacgaaaacgggactctagcatacttactgacagccagacagcgaccaaaagaattcggatggccatcaattaatgtcgaatagtttaaaaacgaccttgtttctact</GBSeq_sequence>
+  </GBSeq>

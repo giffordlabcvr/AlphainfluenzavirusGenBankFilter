@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF216730</GBSeq_locus>
+    <GBSeq_length>1427</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-AUG-2000</GBSeq_update-date>
+    <GBSeq_create-date>22-AUG-2000</GBSeq_create-date>
+    <GBSeq_definition>Influenza A virus (A/Environment/Hong Kong/437-8/99 (H5N1)) neuraminidase 1 gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF216730</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF216730.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF216730.1|</GBSeqid>
+      <GBSeqid>gi|9863915</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Influenza A virus (A/environment/Hong Kong/437-8/99 (H5N1))</GBSeq_source>
+    <GBSeq_organism>Influenza A virus (A/environment/Hong Kong/437-8/99 (H5N1))</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Insthoviricetes; Articulavirales; Orthomyxoviridae; Alphainfluenzavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1427</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cauthen,A.N.</GBAuthor>
+          <GBAuthor>Swayne,D.E.</GBAuthor>
+          <GBAuthor>Schultz-Cherry,S.</GBAuthor>
+          <GBAuthor>Perdue,M.L.</GBAuthor>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Continued circulation in China of highly pathogenic avian influenza viruses encoding the hemagglutinin gene associated with the 1997 H5N1 outbreak in poultry and humans</GBReference_title>
+        <GBReference_journal>J. Virol. 74 (14), 6592-6599 (2000)</GBReference_journal>
+        <GBReference_pubmed>10864673</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1427</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cauthen,A.N.</GBAuthor>
+          <GBAuthor>Suarez,D.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (16-DEC-1999) Southeast Poultry Research Laboratory, 934 College Station Road, Athens, GA 30605, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1427</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1427</GBInterval_to>
+            <GBInterval_accession>AF216730.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Influenza A virus (A/environment/Hong Kong/437-8/99 (H5N1))</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>A/Environment/Hong Kong/437-8/99 (H5N1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:135660</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>virus was grown in 10-day embryonated eggs, RT-PCR amplified, cloned, and sequenced</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>5..1414</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>5</GBInterval_from>
+            <GBInterval_to>1414</GBInterval_to>
+            <GBInterval_accession>AF216730.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>N1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>neuraminidase 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG01216.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNPNQKITTIGSICMVIGIVSLMLQIGNIISIWVSHSIQTGNQHQAEPCNQSIITYENNTWVNQTYVNISNTNFLTEKAVASVTLAGNSSLCPISGWAVYSKDNGIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRTLMSCPVGEAPSPYNSRFESVAWSASACHDGTSWLTIGISGPDNGAVAVLKYNGIITDTIKSWRNNILRTQESECACVNGSCFTVMTDGPSNGQASYKIFKIEKGKVVKSVELNAPNYHYEECSCYPDAGEITCVCRDNWHGSNRPWVSFNQNLEYQIGYICSGVFGDNPRPNDGTGSCGPVSPNGAYGVKGFSFKYGNGVWIGRTKSTNSRSGFEMIWDPNGWTGTDSSFSVKQDIVALTDWSGYSGSFVQHPELTGLDCIRPCFWVELIRGRPKESTIWTSGSSISFCGVNSDTVGWSWPDGAELPFTIDK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caaaatgaatccaaatcagaagataacaaccattggatcaatctgcatggtaattggaatagttagcttgatgttacaaattgggaacataatctcaatatgggttagtcattcaattcagacagggaatcaacaccaagctgaaccatgcaatcaaagcattattacttatgaaaacaacacctgggtaaatcagacatatgtcaacatcagcaataccaattttcttactgagaaagctgtggcttcagtaacattagcgggcaattcatctctttgccccattagtggatgggctgtatacagtaaggacaacggtataagaatcggttccaagggggatgtgtttgttataagagagccgttcatctcatgctcccacttggaatgcagaactttctttttgactcagggagccttgctgaatgacaagcattctaatgggaccgtcaaagacagaagcccttacagaacattgatgagttgtcctgtgggtgaggctccttccccatataactcgaggtttgagtctgttgcttggtcggcaagtgcttgtcatgatggcactagttggttgacaattggaatttctggcccagacaatggggctgtggctgtattgaaatacaatggcataataacagacactatcaagagttggaggaacaacatactgagaactcaagagtctgaatgtgcatgtgtaaatggctcttgctttactgtaatgactgacggaccaagtaatgggcaggcttcatataagatcttcaaaatagaaaaagggaaagtagttaaatcagtcgaattgaatgcccctaattatcactatgaggagtgctcctgttatcctgatgctggcgaaatcacatgtgtgtgcagggataattggcatggctcaaatcggccatgggtatctttcaatcaaaatttggagtatcaaataggatatatatgcagtggagttttcggagacaatccacgccccaatgatgggacaggcagttgtggtccggtgtcccctaacggggcatatggagtaaaagggttttcatttaaatacggcaatggtgtttggatcgggagaaccaaaagcactaattccaggagcggctttgaaatgatttgggatccaaatgggtggactggaacggacagtagtttttcggtgaagcaagatatcgtagcattaactgattggtcaggatatagcgggagttttgtccagcatccagaactgacaggattagattgcataagaccttgtttctgggttgagctaatcagagggcggcccaaagagagcacaatttggactagtgggagcagcatatctttttgtggtgtaaatagtgacactgtgggttggtcttggccagacggtgctgagttgccattcaccattgacaagtagtttgttcaaaaaa</GBSeq_sequence>
+  </GBSeq>
