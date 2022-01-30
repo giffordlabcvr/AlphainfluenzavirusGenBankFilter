@@ -7,35 +7,219 @@
 	<referenceSequence>REF_S4_IBV_CY115151</referenceSequence>
 	
 	<recognitionCategory>
-		<id>HongKong</id>
+		<id>H1N1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IBV_M10298</referenceSequence>
+	  	<referenceSequence>CY045756</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>Yamagata</id>
+		<id>H1N1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IBV_CY033876</referenceSequence>
+	  	<referenceSequence>CY031336</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>Lee</id>
+		<id>H1N1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IBV_NC_002207</referenceSequence>
+	  	<referenceSequence>NC_026433</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>Victoria</id>
+		<id>H2N2</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IBV_CY115151</referenceSequence>
+	  	<referenceSequence>CY034044</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H2N2</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>NC_007374</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H3N2</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY121117</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H3N2</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>NC_007366</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H3N2</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY009636</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H4N6</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>AF285883</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H5N1</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>EU122394</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H5N1</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>GU811719</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H5N1</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY021397</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H6N1</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>DQ376624</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H7N7</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>AY338459</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H7N3</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>AJ627493</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H7N9</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>NC_026425</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H8N4</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY014659</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H9N2</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>LC431164</referenceSequence>
+	</recognitionCategory>
+	
+	<recognitionCategory>
+		<id>H10</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>FJ183474</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H11N6</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>GU052203</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H12N5</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY130078</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H13N6</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY014694</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H14N5</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY130094</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H15N8</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>AB295613</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H16N3</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>EU293864</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H17N10</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY103892</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>H18N11</id>
+		<minimumIdentityPct>80</minimumIdentityPct>
+	  	<minimumBitScore>500</minimumBitScore>
+	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
+	  	<referenceSequence>CY125945</referenceSequence>
 	</recognitionCategory>
 
 
