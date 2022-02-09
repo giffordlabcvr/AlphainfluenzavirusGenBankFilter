@@ -9,12 +9,36 @@
   </blastRunner>
   
 <referenceSequence>REF_S1_IAV_MASTER_NC_002023</referenceSequence>
+
 <referenceSequence>REF_S2_IAV_MASTER_NC_002021</referenceSequence>
+
 <referenceSequence>REF_S3_IAV_MASTER_NC_002022</referenceSequence>
+
 <referenceSequence>REF_S4_IAV_MASTER_NC_002017</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_NC_007374</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_NC_007366</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AF285883</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_EU122394</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_DQ376624</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AY338459</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY014659</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_LC431164</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_FJ183474</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_GU052203</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY130078</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY014694</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY130094</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AB295613</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_EU293864</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY103892</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY125945</referenceSequence>
+
 <referenceSequence>REF_S5_IAV_MASTER_NC_002019</referenceSequence>
+
 <referenceSequence>REF_S6_IAV_MASTER_NC_002018</referenceSequence>
+
 <referenceSequence>REF_S7_IAV_MASTER_NC_002016</referenceSequence>
+
 <referenceSequence>REF_S8_IAV_MASTER_NC_002020</referenceSequence>
 
 
@@ -40,7 +64,25 @@
 <id>4</id>
 <minimumBitScore>50</minimumBitScore>
 <referenceSequence>REF_S4_IAV_MASTER_NC_002017</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_NC_007374</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_NC_007366</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AF285883</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_EU122394</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_DQ376624</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AY338459</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY014659</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_LC431164</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_FJ183474</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_GU052203</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY130078</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY014694</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY130094</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_AB295613</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_EU293864</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY103892</referenceSequence>
+<referenceSequence>REF_S4_IAV_MASTER_CY125945</referenceSequence>
 </recognitionCategory>
+
 
 <recognitionCategory>
 <id>5</id>
