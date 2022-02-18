@@ -12,24 +12,24 @@ create reference REF_S7_IAV_MASTER_NC_002016 ncbi-refseqs NC_002016
 create reference REF_S8_IAV_MASTER_NC_002020 ncbi-refseqs NC_002020
 
 # Additional references for genotyping
-create reference REF_S4_IAV_MASTER_CY045756  ncbi-refseqs CY045756	# H1 A/United Kingdom/1/1933 H1N1
-create reference REF_S4_IAV_MASTER_CY031336  ncbi-refseqs CY031336	# H1post95 A/New Caledonia/20/1999 H1N1
-create reference REF_S4_IAV_MASTER_NC_026433 ncbi-refseqs NC_026433	# H1pdm A/California/07/2009 H1N1
-create reference REF_S4_IAV_MASTER_CY034044  ncbi-refseqs CY034044	# H2 A/Singapore/1/1957 H2N2
-create reference REF_S4_IAV_MASTER_NC_007374 ncbi-refseqs NC_007374	# H2 A/Korea/426/1968 H2N2
-create reference REF_S4_IAV_MASTER_CY121117  ncbi-refseqs CY121117	# H3 A/Aichi/2/1968 H3N2
-create reference REF_S4_IAV_MASTER_NC_007366 ncbi-refseqs NC_007366	# H3 A/New York/392/2004 H3N2
-create reference REF_S4_IAV_MASTER_CY009636  ncbi-refseqs CY009636	# H3 A/Udorn/72 H3N2
-create reference REF_S4_IAV_MASTER_AF285883  ncbi-refseqs AF285883	# H4 A/swine/Ontario/01911-2/1999 H4N6
-create reference REF_S4_IAV_MASTER_EU122394  ncbi-refseqs EU122394	# H5 (HPAI) A/Vietnam/1203/2004 H5N1
-create reference REF_S4_IAV_MASTER_GU811719  ncbi-refseqs GU811719	# H5c221 (HPAI) A/chicken/Egypt/0915-NLQP/2009 H5N1
-create reference REF_S4_IAV_MASTER_CY021397  ncbi-refseqs CY021397	# H5mEA-nonGsGD A/mallard/Italy/3401/2005 H5N1
-create reference REF_S4_IAV_MASTER_DQ376624  ncbi-refseqs DQ376624	# H6 A/chicken/Taiwan/0705/99 H6N1
-create reference REF_S4_IAV_MASTER_AY338459  ncbi-refseqs AY338459	# H7 (HPAI) A/Netherlands/219/2003 H7N7
-create reference REF_S4_IAV_MASTER_AJ627493  ncbi-refseqs AJ627493	# H7 (LPAI) A/turkey/Italy/220158/2002 H7N3
-create reference REF_S4_IAV_MASTER_NC_026425 ncbi-refseqs NC_026425	# H7 (HPAI) A/Shanghai/02/2013 H7N9
-create reference REF_S4_IAV_MASTER_CY014659  ncbi-refseqs CY014659	# H8 A/turkey/Ontario/6118/1968 H8N4
-create reference REF_S4_IAV_MASTER_LC431164  ncbi-refseqs LC431164	# H9 A/swine/Hong Kong/10/1998 H9N2
+create reference REF_S4_IAV_H1_CY045756  ncbi-refseqs CY045756	# H1 A/United Kingdom/1/1933 H1N1
+create reference REF_S4_IAV_H1_CY031336  ncbi-refseqs CY031336	# H1post95 A/New Caledonia/20/1999 H1N1
+create reference REF_S4_IAV_H1_NC_026433 ncbi-refseqs NC_026433	# H1pdm A/California/07/2009 H1N1
+create reference REF_S4_IAV_H2_CY034044  ncbi-refseqs CY034044	# H2 A/Singapore/1/1957 H2N2
+create reference REF_S4_IAV_H2_NC_007374 ncbi-refseqs NC_007374	# H2 A/Korea/426/1968 H2N2
+create reference REF_S4_IAV_H3_CY121117  ncbi-refseqs CY121117	# H3 A/Aichi/2/1968 H3N2
+create reference REF_S4_IAV_H3_NC_007366 ncbi-refseqs NC_007366	# H3 A/New York/392/2004 H3N2
+create reference REF_S4_IAV_H3_CY009636  ncbi-refseqs CY009636	# H3 A/Udorn/72 H3N2
+create reference REF_S4_IAV_H4_AF285883  ncbi-refseqs AF285883	# H4 A/swine/Ontario/01911-2/1999 H4N6
+create reference REF_S4_IAV_H5_EU122394  ncbi-refseqs EU122394	# H5 (HPAI) A/Vietnam/1203/2004 H5N1
+create reference REF_S4_IAV_H5_GU811719  ncbi-refseqs GU811719	# H5c221 (HPAI) A/chicken/Egypt/0915-NLQP/2009 H5N1
+create reference REF_S4_IAV_H5_CY021397  ncbi-refseqs CY021397	# H5mEA-nonGsGD A/mallard/Italy/3401/2005 H5N1
+create reference REF_S4_IAV_H6_DQ376624  ncbi-refseqs DQ376624	# H6 A/chicken/Taiwan/0705/99 H6N1
+create reference REF_S4_IAV_H7_AY338459  ncbi-refseqs AY338459	# H7 (HPAI) A/Netherlands/219/2003 H7N7
+create reference REF_S4_IAV_H7_AJ627493  ncbi-refseqs AJ627493	# H7 (LPAI) A/turkey/Italy/220158/2002 H7N3
+create reference REF_S4_IAV_H7_NC_026425 ncbi-refseqs NC_026425	# H7 (HPAI) A/Shanghai/02/2013 H7N9
+create reference REF_S4_IAV_H8_CY014659  ncbi-refseqs CY014659	# H8 A/turkey/Ontario/6118/1968 H8N4
+create reference REF_S4_IAV_H9_LC431164  ncbi-refseqs LC431164	# H9 A/swine/Hong Kong/10/1998 H9N2
 create reference REF_S4_IAV_MASTER_FJ183474  ncbi-refseqs FJ183474	# H10 A/mallard/bavaria/3/2006 H10N7
 create reference REF_S4_IAV_MASTER_GU052203  ncbi-refseqs GU052203	# H11 A/duck/England/1/1956 H11N6
 create reference REF_S4_IAV_MASTER_CY130078  ncbi-refseqs CY130078	# H12 A/Duck/Alberta/60/1976 H12N5
