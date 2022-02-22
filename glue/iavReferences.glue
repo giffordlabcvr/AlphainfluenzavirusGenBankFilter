@@ -30,12 +30,12 @@ create reference REF_S4_IAV_H7_AJ627493  ncbi-refseqs AJ627493	# H7 (LPAI) A/tur
 create reference REF_S4_IAV_H7_NC_026425 ncbi-refseqs NC_026425	# H7 (HPAI) A/Shanghai/02/2013 H7N9
 create reference REF_S4_IAV_H8_CY014659  ncbi-refseqs CY014659	# H8 A/turkey/Ontario/6118/1968 H8N4
 create reference REF_S4_IAV_H9_LC431164  ncbi-refseqs LC431164	# H9 A/swine/Hong Kong/10/1998 H9N2
-create reference REF_S4_IAV_MASTER_FJ183474  ncbi-refseqs FJ183474	# H10 A/mallard/bavaria/3/2006 H10N7
-create reference REF_S4_IAV_MASTER_GU052203  ncbi-refseqs GU052203	# H11 A/duck/England/1/1956 H11N6
-create reference REF_S4_IAV_MASTER_CY130078  ncbi-refseqs CY130078	# H12 A/Duck/Alberta/60/1976 H12N5
-create reference REF_S4_IAV_MASTER_CY014694  ncbi-refseqs CY014694	# H13 A/gull/Maryland/704/1977 H13N6
-create reference REF_S4_IAV_MASTER_CY130094  ncbi-refseqs CY130094	# H14 A/mallard/Astrakhan/263/1982 H14N5
-create reference REF_S4_IAV_MASTER_AB295613  ncbi-refseqs AB295613	# H15 A/duck/Australia/341/1983 H15N8
-create reference REF_S4_IAV_MASTER_EU293864  ncbi-refseqs EU293864	# H16 A/black-headedgull/Turkmenistan/13/76 H16N3
-create reference REF_S4_IAV_MASTER_CY103892  ncbi-refseqs CY103892	# H17 A/little yellow-shouldered bat/Guatemala/060/2010 H17N10
-create reference REF_S4_IAV_MASTER_CY125945  ncbi-refseqs CY125945	# H18 A/flat-faced bat/Peru/033/2010 H18N11
+create reference REF_S4_IAV_H10_FJ183474  ncbi-refseqs FJ183474	# H10 A/mallard/bavaria/3/2006 H10N7
+create reference REF_S4_IAV_H11_GU052203  ncbi-refseqs GU052203	# H11 A/duck/England/1/1956 H11N6
+create reference REF_S4_IAV_H12_CY130078  ncbi-refseqs CY130078	# H12 A/Duck/Alberta/60/1976 H12N5
+create reference REF_S4_IAV_H13_CY014694  ncbi-refseqs CY014694	# H13 A/gull/Maryland/704/1977 H13N6
+create reference REF_S4_IAV_M14_CY130094  ncbi-refseqs CY130094	# H14 A/mallard/Astrakhan/263/1982 H14N5
+create reference REF_S4_IAV_H15_AB295613  ncbi-refseqs AB295613	# H15 A/duck/Australia/341/1983 H15N8
+create reference REF_S4_IAV_H16_EU293864  ncbi-refseqs EU293864	# H16 A/black-headedgull/Turkmenistan/13/76 H16N3
+create reference REF_S4_IAV_H17_CY103892  ncbi-refseqs CY103892	# H17 A/little yellow-shouldered bat/Guatemala/060/2010 H17N10
+create reference REF_S4_IAV_H18_CY125945  ncbi-refseqs CY125945	# H18 A/flat-faced bat/Peru/033/2010 H18N11

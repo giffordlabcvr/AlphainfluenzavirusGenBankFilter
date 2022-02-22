@@ -1,10 +1,10 @@
 <blastSequenceRecogniser>
 	<blastRunner/>
 	
-	<referenceSequence>REF_S4_IAV_MASTER_CY045756</referenceSequence>
-	<referenceSequence>REF_S4_IAV_MASTER_CY031336</referenceSequence>
-	<referenceSequence>REF_S4_IAV_MASTER_NC_026433</referenceSequence>
-	<referenceSequence>REF_S4_IAV_MASTER_CY034044</referenceSequence>
+	<referenceSequence>REF_S4_IAV_H1_CY045756</referenceSequence>
+	<referenceSequence>REF_S4_IAV_H1_CY031336</referenceSequence>
+	<referenceSequence>REF_S4_IAV_H1_NC_026433</referenceSequence>
+	<referenceSequence>REF_S4_IAV_H2_CY034044</referenceSequence>
 
 	<referenceSequence>REF_S4_IAV_MASTER_NC_007374</referenceSequence>
 	<referenceSequence>REF_S4_IAV_MASTER_CY121117</referenceSequence>
@@ -37,39 +37,39 @@
 
 	
 	<recognitionCategory>
-		<id>H1N1</id>
+		<id>H1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IAV_MASTER_CY045756</referenceSequence>
+	  	<referenceSequence>REF_S4_IAV_H1_CY045756</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H1N1</id>
+		<id>H1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IAV_MASTER_CY031336</referenceSequence>
+	  	<referenceSequence>REF_S4_IAV_H1_CY031336</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H1N1</id>
+		<id>H1</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IAV_MASTER_NC_026433</referenceSequence>
+	  	<referenceSequence>REF_S4_IAV_H1_NC_026433</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H2N2</id>
+		<id>H2</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
-	  	<referenceSequence>REF_S4_IAV_MASTER_CY034044</referenceSequence>
+	  	<referenceSequence>REF_S4_IAV_H2_CY034044</referenceSequence>
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H2N2</id>
+		<id>H2</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -77,7 +77,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H3N2</id>
+		<id>H3</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -85,7 +85,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H3N2</id>
+		<id>H3</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -93,7 +93,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H3N2</id>
+		<id>H3</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -101,7 +101,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H4N6</id>
+		<id>H4</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -109,7 +109,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H5N1</id>
+		<id>H5</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -117,7 +117,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H5N1</id>
+		<id>H5</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -125,7 +125,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H5N1</id>
+		<id>H5</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -133,7 +133,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H6N1</id>
+		<id>H6</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -141,7 +141,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H7N7</id>
+		<id>H7</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -149,7 +149,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H7N3</id>
+		<id>H7</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -157,7 +157,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H7N9</id>
+		<id>H7</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -165,7 +165,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H8N4</id>
+		<id>H8</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -173,7 +173,7 @@
 	</recognitionCategory>
 	
 	<recognitionCategory>
-		<id>H9N2</id>
+		<id>H9</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -189,7 +189,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H11N6</id>
+		<id>H11</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -197,7 +197,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H12N5</id>
+		<id>H12</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -205,7 +205,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H13N6</id>
+		<id>H13</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -213,7 +213,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H14N5</id>
+		<id>H14</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -221,7 +221,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H15N8</id>
+		<id>H15</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -229,7 +229,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H16N3</id>
+		<id>H16</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -237,7 +237,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H17N10</id>
+		<id>H17</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
@@ -245,7 +245,7 @@
 	</recognitionCategory>
 
 	<recognitionCategory>
-		<id>H18N11</id>
+		<id>H18</id>
 		<minimumIdentityPct>80</minimumIdentityPct>
 	  	<minimumBitScore>500</minimumBitScore>
 	  	<minimumTotalAlignLength>300</minimumTotalAlignLength>
