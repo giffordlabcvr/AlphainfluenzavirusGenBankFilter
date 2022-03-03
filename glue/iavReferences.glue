@@ -52,7 +52,7 @@ create reference REF_S6_IAV_N10_CY103894 ncbi-refseqs CY103894
 create reference REF_S6_IAV_N11_CY125947 ncbi-refseqs CY125947
 
 # Influenza A virus references for segment 8 (NS) (IAV)
-create reference REF_S8_IAV_NSb_CY0051441 ncbi-refseqs CY0051441
+create reference REF_S8_IAV_NSb_CY005144  ncbi-refseqs CY005144
 create reference REF_S8_IAV_NSc_CY103896  ncbi-refseqs CY103896
 
 

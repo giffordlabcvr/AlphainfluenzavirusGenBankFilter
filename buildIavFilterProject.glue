@@ -26,8 +26,11 @@ project alphainfluenza_filter
   # Run segment recogniser
   run script glue/doSegmentRecognition.js
     
-  # Run genotyping procedure  
-  run script glue/doGenotying.js
+  # Run genotyping procedures
+  run script glue/doSegment4Genotying.js
+  run script glue/doSegment6Genotying.js
+  #run script glue/doSegment8Genotying.js
+
     
   # Validate
   validate
