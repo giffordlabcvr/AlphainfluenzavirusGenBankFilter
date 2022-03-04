@@ -29,7 +29,7 @@ project alphainfluenza_filter
   # Run genotyping procedures
   run script glue/doSegment4Genotying.js
   run script glue/doSegment6Genotying.js
-  #run script glue/doSegment8Genotying.js
+  run script glue/doSegment8Genotying.js
 
     
   # Validate
