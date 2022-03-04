@@ -13,10 +13,10 @@
     create field gb_segment INTEGER
     create field recogniser_segment VARCHAR
     create field recogniser_lineage VARCHAR
-
     create field complete_segment BOOLEAN
     create field excluded BOOLEAN 
-    create field excluded_reason VARCHAR 
+    create field excluded_reason VARCHAR
+    
     create field pubmed_id VARCHAR 50
     create field strain VARCHAR 200
     create field isolation_source VARCHAR 200
