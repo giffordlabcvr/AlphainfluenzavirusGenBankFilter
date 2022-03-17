@@ -1,10 +1,7 @@
-#NA Sequence Recogniser
-
 <blastSequenceRecogniser>
 		<blastRunner/>
 		
 		<referenceSequence>REF_S6_IAV_N1_MK159404</referenceSequence>
-		<referenceSequence>REF_S6_IAV_N1_NC_002018</referenceSequence>
 		<referenceSequence>REF_S6_IAV_N2_NC_007368</referenceSequence>
 		<referenceSequence>REF_S6_IAV_N3_CY005059</referenceSequence>
 		
@@ -24,23 +21,15 @@
 				<id>N1</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N1_MK159404</referenceSequence>
 		</recognitionCategory>
-		
-		<recognitionCategory>
-				<id>N1</id>
-				<minimumIdentityPct>80</minimumIdentityPct>
-				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
-				  <referenceSequence>REF_S6_IAV_N1_NC_002018</referenceSequence>
-		</recognitionCategory>
-		
+			
 		<recognitionCategory>
 				<id>N2</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N2_NC_007368</referenceSequence>
 		</recognitionCategory>
 		
@@ -48,7 +37,7 @@
 				<id>N3</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N3_CY005059</referenceSequence>
 		</recognitionCategory>
 		
@@ -56,7 +45,7 @@
 				<id>N4</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N4_CY096650</referenceSequence>
 		</recognitionCategory>
 		
@@ -64,7 +53,7 @@
 				<id>N5</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N5_MH134707</referenceSequence>
 		</recognitionCategory>
 		
@@ -72,7 +61,7 @@
 				<id>N6</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N6_CY005135</referenceSequence>
 		</recognitionCategory>
 		
@@ -80,7 +69,7 @@
 				<id>N7</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N7_CY005802</referenceSequence>
 		</recognitionCategory>
 		
@@ -88,7 +77,7 @@
 				<id>N7</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N7_KX978763</referenceSequence>
 		</recognitionCategory>
 		
@@ -96,7 +85,7 @@
 				<id>N8</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N8_KX978990</referenceSequence>
 		</recognitionCategory>
 		
@@ -104,7 +93,7 @@
 				<id>N9</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N9_CY067680</referenceSequence>
 		</recognitionCategory>
 		
@@ -112,7 +101,7 @@
 				<id>N10</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N10_CY103894</referenceSequence>
 		</recognitionCategory>
 		
@@ -120,7 +109,7 @@
 				<id>N11</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S6_IAV_N11_CY125947</referenceSequence>
 		</recognitionCategory>
 		

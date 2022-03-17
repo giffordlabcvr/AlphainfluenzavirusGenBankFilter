@@ -1,8 +1,7 @@
-
 <blastSequenceRecogniser>
 		<blastRunner/>
 		
-		<referenceSequence>REF_S8_IAV_MASTER_NC_002020</referenceSequence>
+		<referenceSequence>REF_S8_IAV_NSa_MASTER_NC_002020</referenceSequence>
 		<referenceSequence>REF_S8_IAV_NSb_CY005144</referenceSequence>
 		<referenceSequence>REF_S8_IAV_NSc_CY103896</referenceSequence>
 		
@@ -10,15 +9,15 @@
 				<id>A</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
-				  <referenceSequence>REF_S8_IAV_MASTER_NC_002020</referenceSequence>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
+				  <referenceSequence>REF_S8_IAV_NSa_MASTER_NC_002020</referenceSequence>
 		</recognitionCategory>
 		
 		<recognitionCategory>
 				<id>B</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S8_IAV_NSb_CY005144</referenceSequence>
 		</recognitionCategory>
 		
@@ -26,7 +25,7 @@
 				<id>C</id>
 				<minimumIdentityPct>80</minimumIdentityPct>
 				  <minimumBitScore>500</minimumBitScore>
-				  <minimumTotalAlignmentLength>300</minimumTotalAlignmentLength>
+				  <minimumTotalAlignLength>300</minimumTotalAlignLength>
 				  <referenceSequence>REF_S8_IAV_NSc_CY103896</referenceSequence>
 		</recognitionCategory>
 		

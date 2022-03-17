@@ -1,8 +1,0 @@
-
-  # Import NCBI sources 
-  import source sources/ncbi-iav-nuccore-1970-1990
-  #import source sources/ncbi-iav-nuccore-1990-2005
-
-  #import source sources/ncbi-iav-nuccore-2005-2010
-  #import source sources/ncbi-iav-nuccore-2010-2015
-  #import source sources/ncbi-iav-nuccore-2015-2020

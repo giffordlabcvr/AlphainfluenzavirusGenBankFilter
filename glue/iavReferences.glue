@@ -38,6 +38,7 @@ create reference REF_S4_IAV_H16_MF146268 ncbi-refseqs MF146268
 create reference REF_S4_IAV_H17_CY103892 ncbi-refseqs CY103892
 create reference REF_S4_IAV_H18_CY125945 ncbi-refseqs CY125945
 
+
 # Influenza A virus NA references (IAV)
 create reference REF_S6_IAV_N1_MK159404  ncbi-refseqs MK159404
 create reference REF_S6_IAV_N2_NC_007368 ncbi-refseqs NC_007368
@@ -46,6 +47,7 @@ create reference REF_S6_IAV_N4_CY096650  ncbi-refseqs CY096650
 create reference REF_S6_IAV_N5_MH134707  ncbi-refseqs MH134707
 create reference REF_S6_IAV_N6_CY005135  ncbi-refseqs CY005135
 create reference REF_S6_IAV_N7_KX978763  ncbi-refseqs KX978763
+create reference REF_S6_IAV_N7_CY005802  ncbi-refseqs CY005802
 create reference REF_S6_IAV_N8_KX978990  ncbi-refseqs KX978990
 create reference REF_S6_IAV_N9_CY067680  ncbi-refseqs CY067680
 create reference REF_S6_IAV_N10_CY103894 ncbi-refseqs CY103894
